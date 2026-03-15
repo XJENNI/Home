@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Patel Mansion | Room Detail</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">Patel Mansion</div>
+    <nav class="main-nav">
+      <a href="index.html">Main</a>
+      <a href="departments.html">Construction Departments</a>
+      <a class="active" href="navigation.html">Home Navigation</a>
+      <a href="phases.html">Phases</a>
+      <a href="3d-home.html">3D Home + AR</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="premium-card">
+      <a class="pill" href="navigation.html">← Back to home navigation</a>
+      <h1 id="space-title"></h1>
+      <p id="space-theme" class="muted"></p>
+      <div class="pill-row">
+        <span id="space-size" class="pill"></span>
+        <span id="space-cost" class="pill"></span>
+      </div>
+    </section>
+
+    <section class="grid-2">
+      <article class="premium-card">
+        <h2>Room Details</h2>
+        <ul id="space-details" class="list"></ul>
+      </article>
+
+      <article class="premium-card">
+        <h2>Materials & Systems</h2>
+        <ul id="space-materials" class="list"></ul>
+      </article>
+    </section>
+
+    <section class="premium-card">
+      <h2>3D Room Model</h2>
+      <div id="space-3d" class="three-canvas"></div>
+      <p class="verify-note">3D room block is generated from the documented room dimension data. Please confirm final architectural dimensions.</p>
+    </section>
+  </main>
+
+  <script src="assets/js/home-data.js"></script>
+  <script type="module" src="assets/js/space-detail.js"></script>
+</body>
+</html>

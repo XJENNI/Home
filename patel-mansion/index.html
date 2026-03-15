@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Patel Mansion | Premium Home Master Plan</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">Patel Mansion</div>
+    <nav class="main-nav">
+      <a class="active" href="index.html">Main</a>
+      <a href="departments.html">Construction Departments</a>
+      <a href="navigation.html">Home Navigation</a>
+      <a href="phases.html">Phases</a>
+      <a href="3d-home.html">3D Home + AR</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="hero premium-card">
+      <p class="kicker">Premium G+1 Smart Residence | Bhabua, Bihar</p>
+      <h1>Patel Mansion Master Dashboard</h1>
+      <p id="hero-summary"></p>
+      <div class="cta-row">
+        <a class="btn" href="departments.html">Explore Departments</a>
+        <a class="btn btn-outline" href="navigation.html">Explore Room-wise Details</a>
+        <a class="btn btn-outline" href="phases.html">View Phase Timeline</a>
+      </div>
+    </section>
+
+    <section class="grid-4 metrics" id="metric-cards"></section>
+
+    <section class="grid-2">
+      <article class="premium-card">
+        <h2>2D Master Layout (OCR-validated from plan image)</h2>
+        <p class="muted">Dimensions are mapped from your uploaded plan images and construction documents.</p>
+        <svg class="floor-svg" viewBox="0 0 1000 1500" xmlns="http://www.w3.org/2000/svg">
+          <!-- Outer Boundary 34ft x 60ft scaled to approx 1000x1500 -->
+          <rect x="50" y="50" width="900" height="1400" fill="none" class="boundary-line" />
+          
+          <!-- Parking (16ft x 13ft) -->
+          <rect x="50" y="50" width="400" height="300" class="room-rect" onclick="window.location.href='space-detail.html?id=parking'" />
+          <text x="250" y="200" class="room-label">Parking</text>
+          
+          <!-- Kitchen (13ft x 10ft) -->
+          <rect x="550" y="50" width="400" height="250" class="room-rect" onclick="window.location.href='space-detail.html?id=kitchen'" />
+          <text x="750" y="175" class="room-label">Kitchen</text>
+
+          <!-- Hall / Living Room (16ft x 17ft) -->
+          <rect x="50" y="350" width="900" height="400" class="room-rect" onclick="window.location.href='space-detail.html?id=hall'" />
+          <text x="500" y="550" class="room-label">Hall</text>
+
+          <!-- Common Toilet (6ft x 4ft 5in) -->
+          <rect x="50" y="750" width="200" height="150" class="room-rect" onclick="window.location.href='space-detail.html?id=commonbathroom'" />
+          <text x="150" y="825" class="room-label">Bath</text>
+          
+          <!-- Master Bedroom (13ft x 11ft) -->
+          <rect x="550" y="750" width="400" height="300" class="room-rect" onclick="window.location.href='space-detail.html?id=masterbed'" />
+          <text x="750" y="900" class="room-label">Master Bed</text>
+
+          <!-- Children Bedroom (11ft 7in x 11ft) -->
+          <rect x="50" y="1150" width="450" height="300" class="room-rect" onclick="window.location.href='space-detail.html?id=childrenbed'" />
+          <text x="275" y="1300" class="room-label">Children Bed</text>
+          
+          <!-- Rear Walkway (3ft wide) -->
+          <rect x="550" y="1150" width="400" height="100" class="room-rect" onclick="window.location.href='space-detail.html?id=openarea'" />
+          <text x="750" y="1200" class="room-label">Wash Area</text>
+          
+          <!-- Staircase (10ft x 6ft) -->
+          <rect x="350" y="1250" width="600" height="200" class="room-rect" onclick="window.location.href='space-detail.html?id=staircase'" />
+          <text x="650" y="1350" class="room-label">Staircase</text>
+        </svg>
+      </article>
+
+      <article class="premium-card">
+        <h2>3D Structure Preview</h2>
+        <p class="muted">Interactive conceptual massing model (G+1) based on your dimensions and room zoning.</p>
+        <div id="house-3d" class="three-canvas"></div>
+        <p class="verify-note">Please verify this conceptual 2D/3D zoning with your final architect drawing before execution.</p>
+      </article>
+    </section>
+
+    <section class="premium-card">
+      <h2>Main Home Details</h2>
+      <div id="main-details" class="detail-grid"></div>
+      <p class="muted">Complete extracted source dump: <a href="assets/data/patel_mansion_all_details_raw.txt" download>Download Raw Home Details</a></p>
+    </section>
+  </main>
+
+  <script src="assets/js/home-data.js"></script>
+  <script type="module" src="assets/js/index.js"></script>
+</body>
+</html>

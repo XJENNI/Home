@@ -1,0 +1,7544 @@
+PATEL MANSION - COMPLETE RAW DETAILS DOSSIER
+This file consolidates all extracted details from available PDFs, markdown plans, and image analysis.
+No intentional summarization. Content is preserved as extracted where possible.
+
+==================== SOURCE 1 ====================
+FILE: COMPLETE_9_PHASE_PLAN_WITH_FURNITURE.pdf
+TYPE: pdf
+DETAILS:
+{
+  "pages": 13,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "(anonymous)",
+    "author": "(anonymous)",
+    "subject": "(unspecified)",
+    "creator": "(unspecified)",
+    "producer": "ReportLab PDF Library - www.reportlab.com",
+    "creationDate": "D:20260314091734+00'00'",
+    "modDate": "D:20260314091734+00'00'"
+  },
+  "file_size_bytes": 22795
+}
+
+EXTRACTED CONTENT START
+--- PAGE 1 ---
+COMPLETE 9-PHASE CONSTRUCTION PLAN
+30×60 G+1 Patel Mansion | Bhabua, Bihar
+Plot Size
+30×60 ft (1,800 sq ft)
+Built-up Area
+4,860 sq ft (Ground + First Floor)
+Total Rooms
+11 (3 BR + Guest + Kitchen + 3 Bath + Puja + Store + Hall)
+Doors/Windows
+11 Doors + 13 UPVC Golden Oak Windows
+Construction Budget
+I89.85 Lakhs (Phases 1-8)
+Furniture Budget
+I5.00 Lakhs (Phase 9 - Modern Premium)
+Total Investment
+I94.85 Lakhs (Complete Turnkey)
+Construction Duration
+20 Weeks + 1 Week Furniture Setup
+Owner
+Harsh | Bhabua, Kaimur, Bihar
+Date
+March 14, 2026
+
+
+--- PAGE 2 ---
+TABLE OF CONTENTS
+Phase
+Description
+Budget
+Page
+Phase 1
+Foundation & Structure (RCC)
+I27.45 Lakhs
+3
+Phase 2
+Walls, Plaster & Doors
+I14.33 Lakhs
+4
+Phase 3
+Windows & Glazing
+I0.95 Lakhs
+5
+Phase 4
+Tiles & Flooring
+I4.07 Lakhs
+6
+Phase 5
+Electrical, Plumbing, Solar, Smart
+I14.31 Lakhs
+7-9
+Phase 6
+Paint & False Ceiling
+I9.44 Lakhs
+10
+Phase 7
+Kitchen & Wardrobes
+I6.15 Lakhs
+11
+Phase 8
+Premium Modern Exterior
+I8.00 Lakhs
+12-13
+Phase 9
+Modern Premium Furniture (I50L Feel)
+I5.00 Lakhs
+14-15
+Timeline
+20-Week Construction + Furniture
+-
+16
+Summary
+Complete Cost & Vendor Guide
+I94.85L Total
+17
+
+
+--- PAGE 3 ---
+PHASE 1: FOUNDATION & STRUCTURE
+Bihar Seismic Zone III compliant RCC framework with Fe500D steel.
+Component
+Specification
+Quantity
+Cost (I)
+Excavation + PCC
+30 pits, 5ft deep, M10 bed
+30 nos
+2,35,000
+RCC Footings
+M25, Fe500D, 4×4ft
+30 nos
+4,50,000
+Plinth Beam
+9"×15", M20
+180 ft
+2,00,000
+RCC Columns
+9"×12", 20ft height
+30 nos
+3,60,000
+RCC Beams
+9"×18", GF+FF
+Both
+5,00,000
+RCC Slabs
+5" M25 (GF+FF+Roof)
+5,400 sqft
+10,00,000
+
+
+--- PAGE 4 ---
+PHASE 2: WALLS, PLASTER & DOORS
+Component
+Specification
+Cost (I)
+AAC+Fly Ash Blocks
+All walls GF+FF
+7,50,000
+Plaster
+1:4 internal + 1:6 external
+3,00,000
+11 Doors Total
+Teak main + Atomberg lock + WPC bath
+1,32,000
+Hardware
+Hettich matte black + Godrej
+51,000
+
+
+--- PAGE 5 ---
+PHASE 3: WINDOWS & GLAZING
+Location
+Type
+Glass
+Cost (I)
+Family Hall
+3-track sliding 5×4ft
+Bronze tinted
+13,000
+4 Bedrooms (8 windows)
+2-track + casement + mesh
+Bronze tinted
+52,090
+Kitchen+Puja+Bath+Stairs
+Casement + louvre + fixed
+Clear/Frosted
+30,170
+
+
+--- PAGE 6 ---
+PHASE 4: TILES & FLOORING
+Room
+Tile
+Area
+Cost (I)
+Family Hall
+Kajaria Carrara Beige 800×800
+306 sqft
+36,720
+3 Bedrooms
+Somany Honey Oak wood-look
+350 sqft
+43,050
+3 Bathrooms
+Kajaria Cratos Grey + White
+570 sqft
+61,560
+Kitchen+Stairs+Terrace
+Anti-skid GVT + outdoor
+360 sqft
+40,840
+Labour
+Installation 3,014 sqft
+-
+84,400
+
+
+--- PAGE 7 ---
+PHASE 5: ELECTRICAL, PLUMBING, SOLAR & SMART
+System
+Key Components
+Cost (I)
+Electrical
+Polycab 1870m + Havells MCB + Schneider switches
+2,63,000
+Plumbing
+Astral CPVC + Cera/Jaquar fittings + tanks
+7,20,000
+Smart Home
+Raspberry Pi + Zigbee + Echo Dot
+34,000
+Audio
+JBL 8 speakers + Fosi amp + Wiim
+77,000
+CCTV
+Hikvision 3 cameras + NVR + 1TB
+33,000
+Solar 3kW
+Waaree + Growatt (after I78K subsidy)
+58,000
+Installation
+Labour all systems
+1,46,000
+
+
+--- PAGE 8 ---
+PHASE 6: PAINT & FALSE CEILING
+Asian Royale + Apex exterior + gypsum ceiling + warm LED strips.
+PHASE 7: KITCHEN & WARDROBES
+Semi-modular kitchen + quartz counter + 3 mirror wardrobes.
+PHASE 8: PREMIUM MODERN EXTERIOR
+I8L budget → I80L look: Stone cladding + glass railing + motorized gate + architectural LED.
+
+
+--- PAGE 9 ---
+PHASE 9: MODERN PREMIUM FURNITURE
+I5 Lakh Budget Delivering I50 Lakh Visual Impact
+DESIGN PHILOSOPHY: I50 LAKH FEEL AT I5 LAKH
+• 80/20 Rule: 80% impact from hall + master bedroom (I2.9L spend)
+• Light Modern Theme: Pearl white + honey oak + champagne gold accents
+• Strategic Luxury: Oversized chandelier + floating designs + gold hardware
+• Unified Palette: Matches UPVC Golden Oak windows + Honey Oak tiles + teak door
+• Minimalist Profile: Slim, airy pieces (Bihar climate-friendly breathable fabrics)
+GROUND FLOOR HALL (25×35 ft) - Statement Entry
+Item
+Description
+Impact
+Cost (I)
+Chandelier
+@home Crystal 6-light (3m drop) warm LED
+I20L jaw-drop entry
+35,000
+Console Table
+Urban Ladder marble + gold brass legs (6ft)
+Focal wall luxury
+28,000
+FAMILY HALL (15×20 ft) - Core Living Zone
+Item
+Description
+Cost (I)
+L-Shape Sofa
+Godrej Aria 5-seater pearl white fabric (modular)
+75,000
+Nesting Tables (3)
+Oak + glass gold accents (multi-use)
+22,000
+TV Wall Panel
+Oak floating shelf 8ft (built-in JBL speaker space)
+25,000
+MASTER BEDROOM (BR1 - 14×14 ft) - Priority Suite
+Item
+Description
+Cost (I)
+King Bed Frame
+Pepperfry oak upholstered headboard (matches wardrobe)
+55,000
+Mattress
+Wakefit Orthopedic gel memory foam (78×72 in)
+35,000
+Side Table
+Single marble + gold brass legs
+15,000
+
+
+--- PAGE 10 ---
+BEDROOMS 2, 3 & GUEST (12×12 ft, 12×10 ft) - Minimal
+Room
+Item
+Cost/Room (I)
+Total (I)
+BR2 + BR3
+Urban Ladder oak platform bed frame (mattress later)
+28,000
+56,000
+Guest Room
+Oak platform bed frame
+28,000
+28,000
+KITCHEN/DINING (10×12 ft)
+Item
+Description
+Cost (I)
+Dining Table
+Oak round 4-seater + white ghost chairs (space-saving)
+45,000
+DECOR & ACCESSORIES
+Item
+Description
+Cost (I)
+Wall Art
+Gold-framed abstract (3 pcs for hall)
+25,000
+Cushions & Throws
+Pearl white + greige (sofa + beds)
+12,000
+Planters
+Gold metal planters (4 pcs)
+4,000
+Category
+Allocation (I)
+% of Budget
+Ground Floor Hall
+63,000
+13%
+Family Hall (First Floor)
+1,22,000
+24%
+Master Bedroom
+1,05,000
+21%
+Secondary Bedrooms (3)
+84,000
+17%
+Dining Table
+45,000
+9%
+Decor & Accessories
+41,000
+8%
+<b>Furniture Subtotal</b>
+<b>4,60,000</b>
+<b>92%</b>
+Delivery & Installation
+40,000
+8%
+<b>PHASE 9 GRAND TOTAL</b>
+<b>5,00,000</b>
+<b>100%</b>
+PHASE 9 KEY HIGHLIGHTS:
+ I50L Visual Impact Formula: Oversized chandelier + floating furniture + gold accents = luxury perception
+ 80/20 Investment: Hall + Master (I2.9L) creates 80% of premium impression
+ Unified Theme: Pearl white + honey oak + champagne gold matches house palette perfectly
+ Minimalist Bihar-Friendly: Slim profiles, breathable fabrics, easy maintenance in hot climate
+ Phased Approach: Buy bed frames now, add mattresses later (saves I92K immediate outflow)
+ Vendor Strategy: Urban Ladder Delhi (I50K+ free delivery), local Bhabua install I20K
+
+
+--- PAGE 11 ---
+COMPLETE 21-WEEK TIMELINE
+Construction (20 weeks) + Furniture Setup (1 week)
+Week
+Activity
+Phase
+Milestone
+1-5
+Foundation + footings + GF columns + beams
+Phase 1
+GF structure
+6-10
+FF columns + beams + roof slab + 28-day curing
+Phase 1
+Structure done
+9↓
+I Electrical conduits + plumbing rough-in
+Phase 5
+Parallel start
+11-13
+Brickwork GF+FF + window frames
+Ph 2+3
+Walls up
+14-15
+Plaster + doors + UPVC glazing
+Ph 2+3
+Shell sealed
+15-16
+Tiles all rooms + bathroom walls
+Phase 4
+Tiles done
+16-17
+Electrical wiring + switches + fans + lights
+Phase 5
+Power live
+17-18
+Plumbing CP + camera/audio wiring
+Phase 5
+Systems wired
+18-19
+Paint primer + Royale + texture + gypsum ceiling
+Phase 6
+Finishes done
+19
+Kitchen carpentry + wardrobes + smart home setup Ph 5+7
+Interiors ready
+19-20
+Exterior cladding + gate + glass railing + solar
+Phase 8
+Exterior done
+20
+Final testing + cleaning + handover
+All
+HANDOVER 
+21
+Furniture delivery + installation + styling
+Phase 9
+MOVE-IN READY 
+
+
+--- PAGE 12 ---
+COMPLETE PROJECT COST SUMMARY
+Phase
+Description
+Cost (I)
+Lakhs
+Phase 1
+Foundation & Structure
+27,45,000
+27.45
+Phase 2
+Walls, Plaster & 11 Doors
+14,33,000
+14.33
+Phase 3
+13 UPVC Golden Oak Windows
+95,000
+0.95
+Phase 4
+Kajaria Tiles (3,014 sq ft)
+4,07,000
+4.07
+Phase 5
+Electrical + Plumbing + Solar + Smart + Audio + CCTV
+14,31,000
+14.31
+Phase 6
+Royale Paint + Apex Exterior + Gypsum Ceiling
+9,44,000
+9.44
+Phase 7
+Semi-Modular Kitchen + 3 Mirror Wardrobes
+6,15,000
+6.15
+Phase 8
+Premium Modern Exterior (I80L look)
+8,00,000
+8.00
+Phase 9
+Modern Premium Furniture (I50L feel)
+5,00,000
+5.00
+Architect
+Bhabua local plans + stamp
+1,50,000
+1.50
+Permits
+Nagar Panchayat Bhabua
+1,00,000
+1.00
+<b>GRAND TOTAL (All 9 Phases)</b>
+<b>94,85,000</b>
+<b>94.85</b>
+<b>Per Sq Ft (4,860 sq ft built-up)</b>
+<b>I1,951/sqft</b>
+<b>Visual ROI: I1.5 Crore+ Look</b>
+COMPLETE PROJECT HIGHLIGHTS
+ I94.85 Lakhs Total - Complete turnkey G+1 home with furniture (4,860 sq ft)
+ I1.5 Crore Visual Impact - Phase 8 exterior (I80L look) + Phase 9 furniture (I50L feel)
+ Energy Independence: 3kW solar + BLDC fans + LED = near-zero electricity bills (I25K/year savings)
+ Smart Home: Voice control (Alexa) + app for all lights/fans/locks + whole-home JBL audio
+ 24/7 Security: Hikvision ColorVu cameras + Atomberg fingerprint lock + 15-day recording
+ Modern Premium Theme: Pearl white + honey oak + champagne gold unified palette
+ Zero Maintenance: UPVC windows + WPC doors + LED lights + floating furniture = 15+ years
+ Bihar Climate Optimized: Bronze tinted glass (40% heat cut), breathable fabrics, waterproof exterior
+ I78K Solar Subsidy: PM Surya Ghar = 2-year payback, 25-year savings I6.3-7.2L
+ Ready to Execute: Hand this PDF to contractor + architect for immediate tender
+
+
+--- PAGE 13 ---
+VENDOR CONTACT GUIDE
+Category
+Brand/Supplier
+Location
+Cement & Steel
+UltraTech PPC / Shyam Fe500D
+Patna wholesale
+Tiles
+Kajaria/Somany (8-12% bulk discount)
+Kajaria Gallery Patna
+Paint
+Asian Paints Royale + Apex Ultima
+Asian exclusive store Patna
+Electrical
+Polycab/Havells/Schneider
+Electrical wholesale Patna
+Plumbing
+Astral CPVC / Cera-Jaquar
+Sanitary dealers Patna
+Doors
+Ozone/Hettich/Atomberg lock
+ozone.in + Hettich Patna
+Windows
+Fenesta UPVC Golden Oak
+fenesta.com showroom Patna
+Smart/Audio
+Raspberry Pi/JBL/Hikvision
+Amazon India + Patna dealers
+Solar
+Waaree/Growatt
+PM Surya Ghar empaneled
+Exterior Stone
+Grey Quartzite / HPL panels
+Mohania quarry / Merino Patna
+<b>Furniture</b>
+<b>Urban Ladder / Godrej / Pepperfry</b>
+<b>Delhi (free delivery I50K+)</b>
+Installation
+Local carpenters
+Bhabua market (I20-30K)
+DOCUMENT INFORMATION
+Document: Complete 9-Phase Construction + Furniture Plan v2.0
+Owner: Harsh | 30×60 G+1 Patel Mansion | Bhabua, Kaimur, Bihar
+Generated: March 14, 2026, 2:45 PM IST
+Total Investment: I94.85 Lakhs (Construction I89.85L + Furniture I5L)
+Visual ROI: I1.5 Crore+ premium modern look (I80L exterior + I50L furniture feel)
+Scope: 9 complete phases, 21-week timeline, detailed material specs + furniture plan
+Use: Hand to architect + structural engineer + contractor for tender + furniture vendors
+Status: Ready for immediate execution. All systems Bihar-climate optimized.
+EXTRACTED CONTENT END
+
+==================== SOURCE 2 ====================
+FILE: COMPLETE_PHASE_WISE_CONSTRUCTION_GUIDE.pdf
+TYPE: pdf
+DETAILS:
+{
+  "pages": 21,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "(anonymous)",
+    "author": "(anonymous)",
+    "subject": "(unspecified)",
+    "creator": "(unspecified)",
+    "producer": "ReportLab PDF Library - www.reportlab.com",
+    "creationDate": "D:20260314115810+00'00'",
+    "modDate": "D:20260314115810+00'00'"
+  },
+  "file_size_bytes": 48024
+}
+
+EXTRACTED CONTENT START
+--- PAGE 1 ---
+COMPLETE PHASE-WISE
+CONSTRUCTION GUIDE
+30×60 ft G+1 Smart Premium Home
+Bhabua, Kaimur District, Bihar
+Parameter
+Specification
+Project Owner
+Harsh
+Plot Size
+30 ft × 60 ft (1,800 sq ft)
+Built-up Area
+4,860 sq ft (GF 1,800 + FF 3,060)
+Structure Type
+G+1 (Ground + First Floor)
+Total Rooms
+11 rooms (3 BR + Guest + Kitchen + 3 Bath + Puja + Store + Hall)
+Construction Timeline
+20 weeks (civil) + 2 weeks (systems parallel) = 21 weeks total
+Total Investment
+I94.85 Lakhs (Construction I89.85L + Furniture I5L)
+Cost per Sq Ft
+I1,951/sqft (complete turnkey)
+Visual ROI
+I1.5 Crore+ premium modern look
+Document Date
+March 14, 2026, 5:23 PM IST
+Scope
+Every phase, every cost, every specification documented
+Document Purpose:
+This comprehensive guide details EVERY SINGLE PHASE of your home construction from foundation to furniture. Each phase
+includes: exact specifications, material brands, quantities, labor requirements, timeline, costs, quality checks, and contractor
+instructions. Nothing is missed.
+
+
+--- PAGE 2 ---
+TABLE OF CONTENTS
+Phase
+Description
+Duration
+Cost
+Page
+Overview
+Project summary & phase timeline
+—
+—
+3
+Phase 0
+Pre-Construction & Site Preparation
+1 week
+I2.50L
+4-5
+Phase 1
+Foundation & Structure (Excavation to Roof)
+10 weeks
+I27.45L
+6-10
+Phase 2
+Walls, Plaster & Core Shell
+3 weeks
+I8.83L
+11-13
+Phase 3
+Electrical Core System (Wiring & DB)
+2 weeks
+I1.36L
+14-17
+Phase 4
+Plumbing & Waterproofing
+2 weeks
+I2.50L
+18-20
+Phase 5
+Flooring & Tiling (All Rooms)
+2 weeks
+I2.24L
+21-23
+Phase 6
+Doors & Windows Installation
+1 week
+I2.22L
+24-26
+Phase 7
+Painting & False Ceiling
+2 weeks
+I2.50L
+27-29
+Phase 8
+Exterior Works (Facade, Solar, Compound)
+3 weeks
+I13.10L
+30-33
+Phase 9
+Furniture & Final Finishes
+1 week
+I5.00L
+34-36
+Systems
+Smart Home, Audio, Cameras (Parallel)
+—
+I2.11L
+37-40
+Summary
+Complete cost breakdown & timeline
+—
+I94.85L
+41-42
+Appendix
+Material index, vendor contacts, QC checklist
+—
+—
+43-45
+
+
+--- PAGE 3 ---
+PROJECT OVERVIEW & MASTER TIMELINE
+21-WEEK CONSTRUCTION SCHEDULE
+Week
+Phase
+Activity
+Milestone
+Cost (IL)
+1
+Phase 0
+Site clearing, soil test, excavation layout
+Foundation approved
+2.50
+2-3
+Phase 1
+Excavation 30 pits + PCC bed + anti-termite
+Pits ready
+4.50
+4-5
+Phase 1
+RCC footings + plinth beam casting M25
+Plinth complete
+5.80
+6-8
+Phase 1
+GF columns + beams casting
+GF frame up
+7.50
+9-10
+Phase 1
+GF slab casting + 28-day curing
+GF slab done
+3.00
+11-13
+Phase 1
+FF columns + beams + roof slab M25
+Structure complete
+6.65
+13-15
+Phase 2
+AAC block walls + internal/external plaster
+Walls plastered
+8.83
+15-16
+Phase 3
+Electrical conduits + cables + distribution board
+Wiring complete
+1.36
+16-17
+Phase 4
+Plumbing CPVC pipes + waterproofing bathrooms
+Plumbing done
+2.50
+17-18
+Phase 5
+Tile flooring all rooms + bathroom wall tiles
+Tiles complete
+2.24
+18
+Phase 6
+Door frames + window UPVC installation
+Doors/windows fitted
+2.22
+18-19
+Phase 7
+Gypsum false ceiling + Asian Royale paint
+Paint & ceiling done
+2.50
+19-20
+Phase 8
+Exterior cladding + solar panels + compound wall
+Exterior complete
+13.10
+20-21
+Phase 9
+Furniture installation + final cleaning
+Move-in ready
+5.00
+15-21
+Systems*
+Smart home + audio + cameras (parallel work)
+Systems live
+2.11
+<b>GRAND TOTAL</b><b>94.85</b>
+*Systems installation runs parallel to civil work from Week 15 onwards
+CRITICAL PATH ITEMS
+ Week 9-10: GF slab requires full 28-day curing before FF work starts (no shortcuts)
+ Week 13: UPVC window frames must be set before plastering for proper sealing
+ Week 15: Electrical conduits MUST be complete before plastering begins
+ Week 16: Bathroom waterproofing needs 48-hour curing before tiling
+ Week 17: Apply for BSEB net meter approval (takes 2-3 weeks) for solar
+ Week 19: Order furniture 8 weeks before Week 20 for timely delivery
+
+
+--- PAGE 4 ---
+PHASE 0: PRE-CONSTRUCTION & SITE PREPARATION
+Duration: 1 week (Week 1) | Cost: I2,50,000
+SCOPE OF WORK
+• Site clearing: Remove vegetation, debris, level ground within plot boundaries
+• Soil testing: BHU Varanasi or Bihar Engineering College soil lab (bearing capacity report)
+• Boundary marking: Hire licensed surveyor for exact 30×60 ft plot corners with pegs
+• Foundation layout: Mark 30 column footing centers with lime powder (as per structural drawing)
+• Temporary site setup: Material storage shed, labor toilet, water tank, electricity connection
+• Permits: Bhabua Nagar Panchayat building approval submission (if not done)
+COMPLETE COST BREAKDOWN
+Item
+Specification
+Quantity
+Rate
+Cost (I)
+Site Clearing
+Excavator + labor 2 days
+1,800 sqft
+I20/sqft
+36,000
+Soil Testing
+BHU lab bearing capacity
+3 samples
+I8,000/test
+24,000
+Survey & Marking
+Licensed surveyor 30×60
+1,800 sqft
+I15/sqft
+27,000
+Temporary Shed
+Tin sheet 12×10 ft
+1 no
+I25,000
+25,000
+Water Connection
+Borewell deepening
+1 no
+I80,000
+80,000
+Electricity Temp
+BSEB temp connection
+1 no
+I15,000
+15,000
+Labor Toilet
+Portable cabin
+1 no
+I8,000
+8,000
+Boundary Fence
+Barricade tape + bamboo
+180 ft
+I150/ft
+27,000
+Architect Fee
+1st installment (20%)
+—
+—
+30,000
+Contingency
+Site preparation buffer
+—
+—
+8,000
+<b>PHASE 0 TOTAL</b>
+<b>I2,80,000</b>
+DELIVERABLES & QUALITY CHECKS
+Deliverable
+Quality Standard
+Verification Method
+Soil Test Report
+Bearing capacity ≥ 150 kN/m² (15 tonnes/sqm)
+Lab certificate with seal
+Site Level
+Ground level within ±50mm across plot
+Laser level or water level check
+Boundary Accuracy
+Plot dimensions within ±10mm of 30×60 ft
+Surveyor certificate + GPS
+Column Marking
+All 30 footing centers marked ±20mm tolerance
+Cross-check with architect plan
+Water Quality
+pH 7-8, clear, drinkable quality
+Visual + taste test
+Permit Status
+Building plan approved or submitted
+Nagar Panchayat receipt
+
+
+--- PAGE 5 ---
+CONTRACTOR INSTRUCTIONS
+ Hire surveyor with valid license only (verify credentials)
+ Do NOT skip soil test – foundation design depends on bearing capacity
+ Mark column centers with 4-inch dia PVC pipe stubs driven 1 ft deep (permanent reference)
+ Store cement under shed with tarpaulin cover (monsoon protection)
+ Verify water pH before concreting – acidic/alkaline water weakens concrete
+ Take photos of empty site, boundary marking, and column layout for record
+
+
+--- PAGE 6 ---
+PHASE 1: FOUNDATION & STRUCTURE (EXCAVATION TO ROOF)
+Duration: 10 weeks (Weeks 2-13) | Cost: I27,45,000
+SCOPE OF WORK
+• Excavation: Dig 30 pits (5 ft deep × 4×4 ft each) for isolated footings
+• PCC Bed: M15 plain cement concrete 150mm thick below all footings (anti-soil contact)
+• RCC Footings: M25 concrete, Fe500D steel, 30 footings (1200×1200×400mm each)
+• Plinth Beam: 230×380mm RCC M20 connecting all 30 footings at ground level
+• Columns: 30 nos, 230×300mm, 20 ft height (GF + FF), Fe500D 12mm + 8mm bars
+• GF Beams: 230×460mm RCC M20 at 10 ft height on all column tops
+• GF Slab: 125mm thick M25 RCC slab (first floor base) + 28-day curing
+• FF Beams: 230×460mm RCC M20 at 20 ft height (roof level)
+• Roof Slab: 125mm thick M25 RCC slab with waterproofing slope + 28-day curing
+• Seismic Compliance: Bihar Zone III – ductile detailing, stirrups @ 100mm spacing
+COMPLETE MATERIAL SPECIFICATIONS
+Material
+Specification (IS Code)
+Brand/Grade
+Quantity
+Rate
+Cost (I)
+<b>CEMENT</b>
+PPC IS 1489
+UltraTech/Shree
+550 bags
+I380/bag
+2,09,000
+<b>TMT Steel</b>
+Fe500D IS 1786
+Shyam/Kamdhenu
+7,500 kg
+I55/kg
+4,12,500
+<b>River Sand</b>
+Zone II IS 383
+Son River
+280 cft
+I50/cft
+14,000
+<b>Aggregate 20mm</b>IS 383 crushed
+Mohania quarry
+24 tonnes
+I1,000/ton
+24,000
+<b>Aggregate 10mm</b>IS 383 crushed
+Mohania quarry
+8 tonnes
+I1,100/ton
+8,800
+<b>Bricks (plinth fill)</b> First class IS 1077
+Local Bhabua
+5,000 nos
+I7/brick
+35,000
+<b>Formwork Ply</b>
+18mm BWR IS 4990
+Greenply/Century
+800 sqft
+I90/sqft
+72,000
+<b>Centering Props</b> Adjustable steel
+Rental
+150 nos
+I50/day×30d
+2,25,000
+<b>Binding Wire</b>
+18 gauge GI
+Local
+50 kg
+I80/kg
+4,000
+<b>Nails & Fasteners</b>75mm concrete nails
+Local
+25 kg
+I120/kg
+3,000
+<b>Anti-termite</b>
+Termidor/Premise
+Bayer
+20 liters
+I800/L
+16,000
+<b>Material Subtotal</b>
+<b>I10,23,300</b>
+LABOR & EQUIPMENT COSTS
+Task
+Crew
+Duration
+Rate
+Cost (I)
+Excavation (JCB)
+1 operator + 4 helpers
+3 days
+I15,000/day
+45,000
+Shuttering Carpenter
+Head carpenter + 3 helpers
+25 days
+I2,200/day
+55,000
+
+
+--- PAGE 7 ---
+Bar Bending (Mistri)
+Steel fixer + 2 helpers
+20 days
+I2,500/day
+50,000
+Concrete Pouring
+Mason + 6 laborers
+12 days
+I3,500/day
+42,000
+Curing Labor
+2 laborers watering slabs
+28 days
+I800/day
+22,400
+Concrete Mixer
+Electric 400L
+30 days
+I600/day
+18,000
+Vibrator Rental
+Needle vibrator
+12 days
+I400/day
+4,800
+RMC Delivery
+Ready-mix concrete truck
+0 trips
+—
+0
+Testing (Cubes)
+Lab compression test
+12 samples
+I500/sample
+6,000
+Site Engineer
+Supervision 10 weeks
+70 days
+I1,200/day
+84,000
+<b>Labor Subtotal</b>
+<b>I3,27,200</b>
+COMPLETE PHASE 1 COST SUMMARY
+Component
+Cost (I)
+Materials (cement, steel, sand, aggregate, formwork)
+10,23,300
+Labor & Equipment (masons, carpenters, machinery)
+3,27,200
+Testing & Quality Control (cube tests, supervision)
+90,000
+Transportation (material delivery to site)
+1,20,000
+Contractor Profit & Overhead (15%)
+2,34,075
+Architect Fee 2nd Installment (20%)
+30,000
+Contingency Buffer (5%)
+1,37,279
+<b>PHASE 1 GRAND TOTAL</b>
+<b>I27,45,000</b>
+
+
+--- PAGE 8 ---
+PHASE 1: QUALITY ASSURANCE CHECKLIST
+Check Point
+Standard
+Test Method
+Pass/Fail
+Cement freshness
+Mfg date < 3 months
+Check bag stamp
+I
+Steel ISI mark
+Fe500D ribs visible
+Visual + bend test
+I
+Sand silt content
+< 8% silt
+Rub test + jar test
+I
+Concrete slump
+75-100mm for columns
+Slump cone test
+I
+Cover to reinforcement
+40mm columns, 25mm beams
+Tape measure
+I
+Column verticality
+± 10mm per 3m height
+Plumb bob/laser
+I
+Beam alignment
+± 5mm level difference
+Spirit level
+I
+Slab thickness
+125mm ± 5mm
+Probe measurement
+I
+Curing completion
+Wet for 28 days
+Daily log sheet
+I
+Cube strength (28d)
+≥ 25 MPa (M25)
+Lab compression test
+I
+CRITICAL CONTRACTOR INSTRUCTIONS - PHASE 1
+ NEVER use Fe415 steel – Only Fe500D for Bihar Seismic Zone III ductility
+ Water-cement ratio: Maximum 0.45 for M20, 0.40 for M25 (no excess water)
+ Stirrup spacing: 100mm in earthquake zones (not 150mm or 200mm)
+ Concrete vibration: Mandatory needle vibrator for all columns/beams (no honeycombing)
+ Curing discipline: Cover slabs with wet jute bags, water 3×/day for 28 days (Bihar heat)
+ No load on slab: Wait 28 days before stacking bricks/materials on new slab
+ Rain protection: Cover fresh concrete with tarpaulin if rain within 24 hours
+ Joint cleaning: Roughen column-beam joints before casting for proper bonding
+ Cube samples: Cast 3 cubes per pour, test at 7, 14, 28 days (keep records)
+ Anti-termite treatment: Spray all soil surfaces after excavation before PCC
+
+
+--- PAGE 9 ---
+PHASE 2: WALLS, PLASTER & CORE SHELL
+Duration: 3 weeks (Weeks 13-15) | Cost: I8,83,000
+Item
+Specification
+Quantity
+Rate
+Cost (I)
+<b>AAC BLOCKS (Outer walls)</b>600×200×150mm 5.5N/mm²
+2,800 blocks
+I45/block
+1,26,000
+<b>AAC BLOCKS (Inner walls)</b>600×200×100mm partition
+3,500 blocks
+I35/block
+1,22,500
+<b>Block Adhesive</b>
+AAC jointing mortar
+180 bags
+I280/bag
+50,400
+<b>Cement (plaster)</b>
+PPC for 1:4 & 1:6 mix
+180 bags
+I380/bag
+68,400
+<b>Sand (plaster)</b>
+Fine sand Zone II
+420 cft
+I50/cft
+21,000
+<b>Chicken Mesh</b>
+Galvanized 1" for cracks
+800 sqft
+I25/sqft
+20,000
+<b>Wall Putty</b>
+Birla WallCare white
+80 bags
+I550/bag
+44,000
+<b>Mason Labor</b>
+Head + 4 helpers 18 days
+18 days
+I3,500/day
+63,000
+<b>Plastering Labor</b>
+Skilled plasterer 15 days
+15 days
+I4,200/day
+63,000
+<b>Scaffolding Rental</b>
+Full house coverage
+20 days
+I1,200/day
+24,000
+<b>Contractor OH (15%)</b>
+Profit + supervision
+—
+—
+99,450
+<b>Contingency (5%)</b>
+Material wastage
+—
+—
+36,063
+<b>PHASE 2 TOTAL</b>
+<b>I8,83,000</b>
+Phase 2 Key Instructions: AAC blocks provide thermal insulation (critical for Bihar 45°C summer). Chicken mesh mandatory at
+AAC-RCC junctions to prevent cracks. Internal plaster 1:4 ratio, external 1:6 ratio. Two-coat system with 7-day gap between
+coats.
+
+
+--- PAGE 10 ---
+PHASE 3: ELECTRICAL CORE SYSTEM (WIRING & DISTRIBUTION
+BOARD)
+Duration: 2 weeks (Weeks 15-16) | Cost: I1,36,405
+Component
+Brand/Spec
+Quantity
+Cost (I)
+Polycab FR-LSH 2.5mm²
+Fire retardant cable
+850m
+32,000
+Polycab FR-LSH 4mm²
+Heavy appliances
+420m
+21,500
+Polycab FR-LSH 1.5mm²
+Lighting circuits
+600m
+15,440
+PVC Conduits 25mm
+Astral/Supreme
+450m
+18,900
+Junction Boxes
+Deep 4×4 inch
+45 nos
+2,250
+Havells Distribution Board
+16-way IP54 metal
+1 no
+8,945
+MCBs (C-curve)
+6A/10A/16A Havells
+18 nos
+5,400
+RCCB 40A 30mA
+Bathroom safety
+1 no
+2,800
+Copper Earthing
+2 electrodes + 120m wire
+1 set
+10,000
+Electrician Labor
+2 electricians 12 days
+24 man-days
+19,200
+Testing & Commissioning
+Megger + continuity
+1 complete
+4,970
+<b>PHASE 3 TOTAL</b><b>I1,36,405</b>
+PHASE 4: PLUMBING & WATERPROOFING
+Duration: 2 weeks (Weeks 16-17) | Cost: I2,50,000
+Item
+Specification
+Quantity
+Cost (I)
+CPVC Pipes (Hot)
+Astral 15mm/20mm
+280m
+56,000
+CPVC Pipes (Cold)
+Astral 20mm/25mm
+350m
+52,500
+PVC Drainage 110mm
+Astral/Supreme
+85m
+21,250
+Overhead Tank 1500L
+Sintex triple layer
+1 no
+18,000
+Underground Sump 5000L
+RCC with cover
+1 no
+75,000
+Water Pump 1HP
+Kirloskar Jalraaj
+1 no
+12,000
+Dr Fixit Waterproofing
+Bathroom chemical
+40 kg
+8,000
+Plumber Labor
+Expert + helper 14 days
+14 days
+35,000
+Pressure Testing
+Hydrostatic 24 hrs
+1 test
+3,500
+<b>PHASE 4 TOTAL</b><b>I2,50,000</b>
+
+
+--- PAGE 11 ---
+PHASE 5: FLOORING & TILING (ALL ROOMS)
+Duration: 2 weeks (Weeks 17-18) | Cost: I2,24,000
+Room/Area
+Tile Brand/Model
+Size
+Area (sqft)
+Cost (I)
+Family Hall
+Kajaria Carrara Beige GVT
+800×800mm
+306
+36,720
+BR1, BR2, Guest
+Somany Honey Oak Plank
+1200×200mm
+350
+43,050
+BR1 Bath Floor
+Kajaria Cratos Anthracite
+600×600mm
+40
+3,000
+BR1 Bath Wall
+Kajaria Celestia Beige
+300×600mm
+160
+12,000
+BR2 Bath Floor
+Orientbell Terrazzo Grey
+600×600mm
+40
+2,600
+BR2 Bath Wall
+Kajaria Sage Green
+300×600mm
+160
+14,000
+Guest Bath Floor
+Kajaria Cratos Grey
+400×400mm
+50
+3,250
+Guest Bath Wall
+Kajaria Crysto White
+300×600mm
+200
+15,000
+Kitchen Floor
+Kajaria Dark Grey anti-skid
+600×600mm
+180
+18,540
+Puja Room
+Kajaria Carrara Beige
+800×800mm
+100
+12,000
+Corridor
+Kajaria Carrara Beige GVT
+800×800mm
+200
+24,000
+Staircase
+Kajaria GVT + bullnose
+600×600mm
+80
+10,800
+Tile Adhesive
+Kajaria FixoTec
+—
+180 bags
+18,000
+Grouting
+Tile grout all colors
+—
+50 kg
+6,000
+Mason Labor
+Tiling expert team
+—
+14 days
+56,000
+<b>PHASE 5 TOTAL</b>
+<b>I2,24,000</b>
+
+
+--- PAGE 12 ---
+PHASE 6: DOORS & WINDOWS INSTALLATION
+Duration: 1 week (Week 18) | Cost: I2,21,759
+Item
+Specification
+Qty
+Cost (I)
+<b>DOORS (11 total)</b>
+Main Entry Door
+Teak 4-panel 7.5×3.5 ft + Atomberg smart lock 1
+37,899
+Bedroom Doors
+Blockboard Walnut groove 7.5×3 ft + Hettich
+3
+40,800
+Kitchen & Guest Door
+Ivory gloss flush 7×3 ft
+2
+24,800
+Bathroom WPC Doors
+Waterproof white 7×2.5 ft + Godrej
+3
+28,200
+Puja + Store Doors
+Flush with glass panel
+2
+13,000
+<b>WINDOWS (13 total)</b>
+Family Hall Window
+UPVC Golden Oak 3-track 5×4 ft bronze
+1
+13,000
+BR1 Windows
+UPVC 2-track 4×4 ft + mesh
+2
+19,840
+BR2 Windows
+UPVC 2-track 4×4 ft + mesh
+2
+19,840
+Guest + Kitchen
+UPVC casement 4×3 + 3×3 ft
+2
+14,010
+Staircase Fixed
+UPVC 4×5 ft toughened 6mm
+1
+9,600
+Puja + Bathrooms
+UPVC frosted/louvre 2×2 ft
+4
+8,450
+Installation Labor
+Carpenter + UPVC fitter
+—
+15,000
+Hardware
+Hinges, stoppers, sealing
+—
+8,000
+Silicone Sealant
+Waterproof around frames
+—
+3,320
+<b>PHASE 6 TOTAL</b>
+<b>I2,21,759</b>
+
+
+--- PAGE 13 ---
+PHASE 7: PAINTING & FALSE CEILING
+Duration: 2 weeks (Weeks 18-19) | Cost: I2,50,000
+Item
+Specification
+Coverage
+Cost (I)
+Asian Royale Primer
+Interior walls
+3,500 sqft
+28,000
+Asian Royale Emulsion
+Cream 2 coats all rooms
+3,500 sqft
+70,000
+Royale Play Texture
+Feature wall Hall + BR1
+200 sqft
+20,000
+Asian Apex Exterior
+Waterproof 2 coats
+2,800 sqft
+56,000
+Gypsum False Ceiling
+Hall + 3 bedrooms
+1,100 sqft
+66,000
+LED Cove Lighting
+Wipro strips 70 ft total
+70 ft
+21,000
+Painting Labor
+Professional team 12 days
+12 days
+48,000
+Putty & Finishing
+Smooth wall prep
+Full house
+35,000
+<b>PHASE 7 TOTAL</b><b>I2,50,000</b>
+PHASE 8: EXTERIOR WORKS (FACADE, SOLAR, COMPOUND)
+Duration: 3 weeks (Weeks 19-21) | Cost: I13,10,010
+Component
+Specification
+Quantity
+Cost (I)
+<b>FACADE PREMIUM</b>
+Quartzite Stone Cladding
+Grey natural stone accent
+400 sqft
+2,00,000
+HPL Panels
+Wood-finish exterior grade
+600 sqft
+1,80,000
+Glass Railing
+Frameless 12mm tempered
+60 ft
+1,80,000
+Facade Installation
+Expert mason team
+10 days
+1,00,000
+<b>SOLAR POWER 3kW</b>
+Waaree Solar Panels
+550W monocrystalline
+6 nos
+69,000
+Growatt Inverter
+3kW on-grid single-phase
+1 no
+32,000
+Mounting Structure
+Hot-dip galvanized
+1 set
+12,000
+DC/AC Cables
+80m DC + 25m AC
+Full
+6,410
+Net Meter + Install
+BSEB bi-directional
+1 no
+12,000
+PM Surya Ghar Subsidy
+Direct benefit transfer
+—
+-78,000
+<b>COMPOUND & SITE</b>
+Brick Compound Wall
+5 ft + coping full perimeter
+180 ft
+2,20,000
+MS Main Gate
+10 ft painted + wicket gate
+1 set
+1,05,000
+Driveway Pavers
+Interlocking blocks
+300 sqft
+60,000
+Landscape Lighting
+LED gate + facade + porch
+8 fixtures
+45,000
+Professional Fee 3rd
+Architect 30% installment
+—
+45,000
+
+
+--- PAGE 14 ---
+<b>PHASE 8 TOTAL</b> <b>I13,10,010</b>
+
+
+--- PAGE 15 ---
+PHASE 9: FURNITURE & FINAL FINISHES
+Duration: 1 week (Week 20-21) | Cost: I5,00,000
+Room
+Item
+Brand/Model
+Qty
+Cost (I)
+<b>FAMILY HALL</b>
+Hall
+Crystal Chandelier 3m drop
+Oversized statement
+1
+25,000
+Hall
+Gold Console Table
+Metal + marble 120cm
+1
+18,000
+Hall
+Pearl L-Sofa 6-seater
+Urban Ladder Sanford
+1
+85,000
+Hall
+LED TV Panel + shelf
+Floating oak 180cm
+1
+15,000
+Hall
+Gold Wall Art 3-piece
+Abstract geometric
+1
+8,000
+Hall
+Area Rug 6×9 ft
+Beige/cream
+1
+12,000
+<b>MASTER BR1</b>
+BR1
+King Bed Frame
+Urban Ladder Valencia oak
+1
+45,000
+BR1
+Wakefit Mattress King
+Orthopedic Dual Comfort
+1
+25,000
+BR1
+Mirror Wardrobe 8 ft
+Floor-to-ceiling sliding
+1
+70,000
+BR1
+Side Table gold
+Marble top floating
+1
+12,000
+<b>BEDROOM 2</b>
+BR2
+Queen Bed Frame oak
+Urban Ladder
+1
+25,000
+BR2
+Mirror Wardrobe 8 ft
+Sliding
+1
+65,000
+<b>GUEST ROOM</b>
+Guest
+Queen Bed Frame
+Urban Ladder oak
+1
+22,000
+Guest
+Wardrobe 7 ft
+Sliding mirror
+1
+55,000
+<b>KITCHEN & PUJA</b>
+Kitchen
+Puja Mandir Unit
+Teak custom carpentry
+1
+25,000
+Delivery & Install
+All furniture assembly
+—
+—
+18,000
+<b>PHASE 9 TOTAL</b>
+<b>I5,00,000</b>
+
+
+--- PAGE 16 ---
+SMART SYSTEMS (PARALLEL TO CIVIL WORK)
+Installation: Weeks 15-21 (parallel) | Cost: I2,11,376
+System
+Components
+Qty
+Cost (I)
+<b>1. BLDC FANS (8 nos)</b>
+Hall, BR1, BR2
+Atomberg Renesa 1200mm Walnut 28W
+3
+11,397
+Guest, Kitchen
+Crompton EnergionPRO 1200mm
+2
+6,598
+Puja
+Crompton EnergionPRO 900mm
+1
+2,799
+Bathrooms
+Crompton EnergionPRO 600mm
+2
+5,298
+<b>Fans Subtotal</b><b>I26,092</b>
+<b>2. LED LIGHTING</b>
+Main Lights
+Philips LED panels + battens
+12
+9,680
+Accent Lights
+LED strips 21m + RGB controller
+—
+11,420
+Outdoor/Emergency
+Floodlights + rechargeable
+6
+5,640
+<b>Lighting Subtotal</b>
+<b>I26,740</b>
+<b>3. SWITCHES & SOCKETS</b>
+Schneider Livia
+28 switches + 42 sockets + USB
+—
+20,115
+<b>4. SMART HOME SYSTEM</b>
+Raspberry Pi 4 8GB
+Home Assistant brain
+1
+8,999
+Sonoff Zigbee Switches
+ZBMINI in-wall relays
+7
+3,430
+Echo Dot 5th Gen
+Alexa voice control
+1
+4,999
+TP-Link Smart Plugs
+Energy monitoring
+4
+3,196
+Network Switch
+TP-Link 8-port + Cat6
+1
+2,499
+Setup Labor
+Smart home programming
+—
+3,500
+<b>Smart Home Subtotal</b>
+<b>I26,623</b>
+<b>5. WHOLE-HOME AUDIO</b>
+JBL Ceiling Speakers
+6C/T-BK 6.5" 60W RMS
+8
+42,392
+Fosi Audio ZA3
+4-channel class-D amplifier
+1
+16,999
+Wiim Mini
+WiFi streamer AirPlay/Spotify
+1
+8,999
+Speaker Wiring
+OFC 2-core 120m + wall plates
+—
+5,520
+Installation
+Audio expert
+—
+3,500
+<b>Audio Subtotal</b>
+<b>I77,410</b>
+<b>6. HIKVISION CAMERAS</b>
+
+
+--- PAGE 17 ---
+Front + Back Cameras
+DS-2CD1043G2 4MP bullet IR
+2
+8,598
+Main Entrance
+DS-2CD2343G2 4MP ColorVu
+1
+6,499
+NVR
+DS-7604NXI-K1/4P 4K PoE
+1
+6,999
+Storage
+WD Purple 1TB
+1
+3,199
+Cat6 Wiring
+80m + brackets + connectors
+—
+1,980
+Mini UPS
+2-hour backup NVR
+1
+2,499
+Installation
+Camera mounting + testing
+—
+3,500
+<b>Camera Subtotal</b>
+<b>I33,274</b>
+<b>SYSTEMS GRAND TOTAL</b>
+<b>I2,11,376</b>
+
+
+--- PAGE 18 ---
+COMPLETE PROJECT COST SUMMARY
+Phase
+Description
+Weeks
+Cost (I Lakhs)
+Phase 0
+Site preparation & permits
+1
+2.50
+Phase 1
+Foundation & RCC structure
+10
+27.45
+Phase 2
+Walls & plaster
+3
+8.83
+Phase 3
+Electrical wiring & DB
+2
+1.36
+Phase 4
+Plumbing & waterproofing
+2
+2.50
+Phase 5
+Flooring & tiling
+2
+2.24
+Phase 6
+Doors & windows
+1
+2.22
+Phase 7
+Painting & false ceiling
+2
+2.50
+Phase 8
+Exterior + solar + compound
+3
+13.10
+Phase 9
+Furniture & finishes
+1
+5.00
+Systems
+Smart home + audio + cameras (parallel)
+—
+2.11
+Bathrooms
+3 themed baths + hall/terrace basins
+—
+4.85
+Architect Fee
+Balance 30% final installment
+—
+0.45
+Contingency
+Final 3% project buffer
+—
+2.85
+Site Overheads
+Security, insurance, misc
+—
+2.85
+<b>TOTAL INVESTMENT</b>
+<b>Complete turnkey ready-to-move</b>
+<b>21 weeks</b>
+<b>I94.85 L</b>
+Cost per sq ft
+Built-up area 4,860 sqft
+—
+<b>I1,951/sqft</b>
+Visual Valuation
+Premium modern smart home equivalent
+—
+<b>I1.5 Cr+</b>
+SMART HOME FEATURES INCLUDED
+ Voice control all lights & fans (Alexa + Google Assistant)
+ Remote access from anywhere (mobile app)
+ Whole-home audio (JBL ceiling speakers, 4 rooms)
+ 24/7 CCTV recording (3 cameras, 15-day storage)
+ Smart door lock (fingerprint + PIN + app + NFC)
+ Energy monitoring (real-time power consumption)
+ 3kW solar (Rs 78,000 subsidy applied, 2-year payback)
+ Automated scenes (Good Morning, Movie Time, Away Mode)
+
+
+--- PAGE 19 ---
+APPENDIX: VENDOR CONTACT LIST
+Category
+Brand
+Where to Buy
+Contact
+Cement & Steel
+UltraTech/Shyam Steel
+Bhabua dealers / Patna wholesale
+—
+Electrical Cables
+Polycab FR-LSH
+Electrical market Patna
+—
+MCBs & Switches
+Havells/Schneider Livia
+Authorized dealer Patna
+—
+BLDC Fans
+Atomberg/Crompton
+atomberg.com + Amazon India
+Online
+Tiles
+Kajaria/Somany
+Kajaria Gallery Patna
+0612-XXXX
+Bathroom Fittings
+Cera/Jaquar/Hindware
+Sanitary market Patna
+—
+Paint
+Asian Paints
+Authorized dealer Bhabua/Patna
+—
+UPVC Windows
+Fenesta
+fenesta.com Patna showroom
+1800-XXXX
+Door Hardware
+Hettich/Godrej/Ozone
+Hardware market Patna
+—
+Smart Lock
+Atomberg Azhero
+atomberg.com direct
+Online
+Smart Home
+Raspberry Pi/Sonoff
+Amazon India / robu.in
+Online
+Audio
+JBL/Fosi/Wiim
+Amazon India direct
+Online
+Cameras
+Hikvision
+Authorized Hikvision dealer Patna
+—
+Solar Panels
+Waaree/Growatt
+PM Surya Ghar empaneled installer
+1800-XXXX
+Furniture
+Urban Ladder
+urbanladder.com + delivery
+Online
+Waterproofing
+Dr Fixit
+Construction material shops
+—
+MATERIAL QUALITY ACCEPTANCE CHECKLIST
+Material
+Quality Check
+Reject If
+Cement bags
+ISI mark + mfg date < 3 months
+Lumps, torn bag, wet
+TMT Steel
+ISI mark on ribs + MTC certificate
+Rust, bent bars, no marking
+River Sand
+Silt < 8%, rub test clean
+Clay, organic matter, dark color
+Aggregate
+Angular shape, no clay coating
+Flat/elongated > 15%, dust
+Bricks
+Ring test clear, uniform size
+Cracks, broken corners, soft
+AAC Blocks
+Uniform 600×200mm, light weight
+Broken, water damaged
+Tiles
+Flat surface, uniform glaze
+Chips, uneven edges, shade variation
+UPVC Windows
+Zinc die-cast handles, 5mm glass
+Plastic handles, 4mm glass
+Paint
+Sealed can, batch number visible
+Dried lumps, color separation
+Cables
+ISI mark, conductor count correct
+Thin copper, no ISI mark
+Solar Panels
+Wattage certification, no micro-cracks
+Physical damage, warranty void
+
+
+--- PAGE 20 ---
+PAYMENT SCHEDULE (RECOMMENDED)
+Milestone
+Work Complete
+Payment %
+Amount (I)
+Advance
+Contract signing + site mobilization
+10%
+9,48,500
+Foundation
+Footings + plinth beam cast
+15%
+14,22,750
+Structure GF
+GF columns + beams + slab
+15%
+14,22,750
+Structure FF
+FF columns + roof slab complete
+15%
+14,22,750
+Shell Complete
+Walls + plaster + doors + windows
+15%
+14,22,750
+Finishes
+Tiles + paint + false ceiling done
+15%
+14,22,750
+Systems
+Electrical + plumbing + bathrooms
+10%
+9,48,500
+Final
+Exterior + furniture + handover
+5%
+4,74,250
+<b>TOTAL</b> <b>I94,85,000</b>
+Payment Terms: Never pay 100% upfront. Retain 5% final payment until complete snag list addressed. All payments via bank
+transfer with material/work receipts.
+ANNUAL MAINTENANCE SCHEDULE
+Frequency
+Activity
+Cost/Time
+Monthly
+Fan blade cleaning, camera lens wipe, smart lock battery check
+30 min DIY
+Quarterly
+Solar panel washing, window track cleaning, RCCB trip test
+1 hr DIY
+Monsoon (Jun-Sep)
+Waterproofing check, roof drainage, exterior paint touch-up
+2 hr DIY
+Annual
+Professional solar service + earthing test + NVR HDD check
+I4,600
+Every 2 Years
+Exterior repaint (if needed), gutter cleaning
+I25,000
+Every 5 Years
+Full exterior repaint + waterproofing renewal + tile re-grouting
+I80,000-1.2L
+
+
+--- PAGE 21 ---
+DOCUMENT CERTIFICATION
+This comprehensive phase-wise construction guide contains EVERY SINGLE DETAIL required to build your 30×60 ft G+1 smart
+premium home in Bhabua, Bihar. All 9 construction phases are documented with complete specifications, material quantities,
+brand names, labor requirements, costs, quality standards, and contractor instructions. DOCUMENT SCOPE:  9 detailed
+construction phases (excavation to furniture)  Smart systems specifications (home automation, audio, cameras, solar)  3
+themed bathroom designs with complete fittings  Material quality standards and acceptance criteria  Vendor contact list and
+procurement guide  Payment schedule and milestone tracking  Maintenance schedule for 25-year lifespan  Quality
+assurance checklists for every phase TOTAL PAGES: 45+ | COST DOCUMENTED: I94.85 Lakhs | TIMELINE: 21 weeks This
+document is ready to hand to your contractor as complete scope of work. No ambiguity, no missing information, no placeholder
+data. Every brand, every quantity, every specification is final and actionable. Project Owner: Harsh Document Date: March 14,
+2026, 5:23 PM IST Version: 1.0 Final Status: Ready for Construction Prepared by AI Assistant with data from complete house
+planning files, electrical system guide, bathroom plan, and master construction documents.
+____________________
+____________________
+____________________
+Owner Signature
+Architect Signature
+Contractor Signature
+Date: ______________
+Date: ______________
+Date: ______________
+EXTRACTED CONTENT END
+
+==================== SOURCE 3 ====================
+FILE: COMPLETE_ROOM_BY_ROOM_SPECIFICATIONS.pdf
+TYPE: pdf
+DETAILS:
+{
+  "pages": 26,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "(anonymous)",
+    "author": "(anonymous)",
+    "subject": "(unspecified)",
+    "creator": "(unspecified)",
+    "producer": "ReportLab PDF Library - www.reportlab.com",
+    "creationDate": "D:20260314113552+00'00'",
+    "modDate": "D:20260314113552+00'00'"
+  },
+  "file_size_bytes": 60364
+}
+
+EXTRACTED CONTENT START
+--- PAGE 1 ---
+COMPLETE ROOM-BY-ROOM
+SPECIFICATIONS
+30×60 G+1 Patel Mansion
+Bhabua, Kaimur District, Bihar
+Parameter
+Value
+Plot Size
+30 ft × 60 ft (1,800 sq ft)
+Built-up Area
+4,860 sq ft (GF + FF combined)
+Structure
+G+1 (Ground + First Floor)
+Total Rooms
+11 (3 BR + Guest + Kitchen + 3 Bath + Puja + Store + Hall)
+Total Doors
+11 nos (Teak main + WPC bath + Atomberg smart lock)
+Total Windows
+13 nos (UPVC Golden Oak with bronze tinted glass)
+Total Investment
+I94.85 Lakhs (Construction + Furniture)
+Document Date
+March 14, 2026, 5:00 PM IST
+Owner
+Harsh
+Document Scope: This PDF contains complete specifications for every room including dimensions, layout, tiles,
+electrical points, lighting, doors, windows, furniture, smart systems, and itemized cost breakdowns.
+
+
+--- PAGE 2 ---
+TABLE OF CONTENTS
+Section
+Description
+Page
+1
+Building Overview & Floor Plans
+3
+2
+Ground Floor Specifications
+4
+3
+First Floor - Family Hall
+5-6
+4
+Master Bedroom (BR1) + Attached Bath
+7-8
+5
+Bedroom 2 (BR2) + Attached Bath
+9-10
+6
+Guest Room + Attached Bath
+11-12
+7
+Puja Room
+13
+8
+Kitchen
+14
+9
+Corridor & Staircase
+15
+10
+Complete Cost Summary (All Rooms)
+16-17
+11
+Material Specifications Index
+18
+12
+Smart Systems Integration
+19
+13
+Vendor Contact Guide
+20
+
+
+--- PAGE 3 ---
+1. BUILDING OVERVIEW & FLOOR PLANS
+GROUND FLOOR LAYOUT
+Zone
+Approximate Dimensions
+Usage
+Parking Area
+15 ft × 20 ft
+Two-wheeler + car parking
+Storage Room
+10 ft × 12 ft
+General storage + utilities
+Open Area
+15 ft × 28 ft
+Future expansion / utility
+Staircase
+4 ft wide
+Access to first floor
+Total GF Area
+~1,800 sq ft
+Minimal finish (basic tiles + lighting)
+FIRST FLOOR LAYOUT (Main Living Area)
+Room
+Approximate Area
+Key Features
+Family Hall
+~450 sq ft
+Largest room, entertainment hub, chandelier
+Master Bedroom (BR1)
+~280 sq ft
+Attached bath, wardrobe, premium finishes
+Bedroom 2 (BR2)
+~240 sq ft
+Attached bath, wardrobe, honey oak tiles
+Guest Room
+~220 sq ft
+Attached bath, wardrobe, multi-purpose
+Puja Room
+~100 sq ft
+Spiritual space, divine lighting
+Kitchen
+~180 sq ft
+Semi-modular, quartz counter, chimney
+BR1 Bathroom
+~40 sq ft (10×4 ft)
+Warm charcoal spa theme
+BR2 Bathroom
+~40 sq ft (10×4 ft)
+Sage green forest theme
+Guest Bathroom
+~50 sq ft (10×5 ft)
+Slate grey minimalist theme
+Corridor
+~200 sq ft
+Connects all rooms, sensor lighting
+Balcony/Terrace
+~150 sq ft
+Utility basin, outdoor lighting
+Total FF Area
+~3,060 sq ft
+Premium finishes throughout
+
+
+--- PAGE 4 ---
+2. GROUND FLOOR SPECIFICATIONS
+GROUND FLOOR - PARKING & STORAGE
+Purpose: Minimal finish with basic utilities. Future expansion possible.
+Component
+Specification
+Quantity
+Cost
+Flooring
+Basic anti-skid tiles 400×400mm
+~1,500 sq ft
+I60,000
+Lighting
+LED bulkheads 9W outdoor rated
+6 nos
+I5,400
+Fans
+Standard ceiling fans 1200mm
+2 nos
+I6,000
+Electrical Points
+5A sockets
+4 nos
+I1,200
+Door
+Basic hollow core flush
+1 no (storage)
+I2,800
+Staircase Lighting
+LED step lights + handrail
+10 markers
+I8,500
+<b>Ground Floor Total</b>
+<b>I83,900</b>
+
+
+--- PAGE 5 ---
+3. FAMILY HALL (First Floor)
+ROOM OVERVIEW
+Parameter
+Details
+Approximate Area
+~450 sq ft (largest room)
+Usage
+Entertainment hub, family gathering, TV lounge
+Design Theme
+Modern premium with statement chandelier
+Color Palette
+Carrara beige tiles + cream walls + gold accents
+COMPLETE SPECIFICATIONS
+Component
+Brand/Model
+Specification
+Qty
+Cost (I)
+<b>FLOORING</b>
+Floor Tiles
+Kajaria Carrara Beige
+800×800mm GVT Satin
+306 sqft
+36,720
+<b>DOORS & WINDOWS</b>
+Entry Door
+Teak 4-panel + Atomberg
+7.5×3.5 ft smart lock
+1 no
+37,899
+Window
+UPVC Golden Oak
+3-track sliding 5×4 ft bronze
+1 no
+13,000
+<b>ELECTRICAL & LIGHTING</b>
+Chandelier
+Modern geometric crystal
+50W LED 3000K warm
+1 no
+12,000
+Recessed LED
+Philips 7W COB
+Square trim warm white
+8 nos
+5,600
+Cove LED Strip
+Wipro 14W/meter
+30 ft perimeter warm
+30 ft
+9,000
+Switches
+Schneider Livia
+6-gang modular white
+1 panel
+2,800
+5A Sockets
+Schneider Livia
+With shutter
+4 nos
+1,200
+15A Sockets
+Schneider Livia
+For AC + heavy appliances
+2 nos
+800
+USB Charging
+Schneider dual USB
+Type-A + Type-C 3.1A
+2 nos
+1,600
+<b>FANS & VENTILATION</b>
+BLDC Fans
+Atomberg Renesa
+1200mm Walnut 28W
+2 nos
+7,598
+<b>FALSE CEILING</b>
+Gypsum Ceiling
+With cove + recessed
+Full room coverage
+450 sqft
+45,000
+<b>PAINT & FINISHES</b>
+Wall Paint
+Asian Royale Emulsion
+Cream/beige 2 coats
+900 sqft
+18,000
+Feature Wall
+Royale Play Texture
+Accent wall behind TV
+100 sqft
+8,000
+
+
+--- PAGE 6 ---
+<b>SMART HOME</b>
+Smart Switches
+Sonoff ZBMINI
+Zigbee in-wall relay
+3 nos
+2,961
+Echo Dot
+Amazon 5th Gen
+Alexa voice control
+1 no
+4,999
+<b>AUDIO SYSTEM</b>
+Ceiling Speakers
+JBL 6C/T-BK 60W
+6.5 inch in-ceiling
+2 nos
+10,598
+Speaker Wire
+OFC 2-core
+16 AWG 40 ft run
+40 ft
+1,200
+<b>SECURITY</b>
+CCTV Camera
+Hikvision 4MP
+Main entrance ColorVu
+1 no
+6,499
+<b>FURNITURE (Phase 9)</b>
+Crystal Chandelier
+3m drop oversized
+Statement entry piece
+1 no
+25,000
+Gold Console Table
+Modern metal + marble
+120cm entryway console
+1 no
+18,000
+Floating Wall Shelf
+Honey oak finish
+180cm below TV
+1 no
+8,000
+Pearl L-Sofa
+Urban Ladder Sanford
+6-seater fabric white
+1 no
+85,000
+Nesting Tables
+Gold metal set of 3
+Side tables
+3 nos
+12,000
+LED TV Panel
+Floating oak + lights
+Wall-mounted 55" ready
+1 no
+15,000
+Gold Wall Art
+Abstract geometric
+3-piece set
+1 set
+8,000
+Area Rug
+6×9 ft beige/cream
+Defines seating area
+1 no
+12,000
+<b>FAMILY HALL TOTAL</b>
+<b>I4,08,474</b>
+
+
+--- PAGE 7 ---
+4. MASTER BEDROOM (BR1) + ATTACHED
+BATHROOM
+MASTER BEDROOM OVERVIEW
+Parameter
+Details
+Approximate Area
+~280 sq ft (bedroom only)
+Bathroom
+10 ft × 4 ft attached (40 sq ft)
+Usage
+Master suite with premium spa bathroom
+Design Theme
+Warm honey oak + charcoal bathroom + gold accents
+Color Palette
+Honey oak plank tiles + cream walls + brushed gold CP
+MASTER BEDROOM COMPLETE SPECIFICATIONS
+Component
+Brand/Model
+Specification
+Qty
+Cost (I)
+<b>BEDROOM FLOORING</b>
+Floor Tiles
+Somany Honey Oak
+1200×200mm wood plank
+120 sqft
+14,760
+<b>DOORS & WINDOWS</b>
+Entry Door
+Blockboard Walnut groove
+7.5×3 ft Hettich hardware
+1 no
+13,600
+Bathroom Door
+WPC white waterproof
+7×2.5 ft Godrej handle
+1 no
+9,400
+Windows
+UPVC Golden Oak
+2-track sliding 4×4 ft
+2 nos
+19,840
+<b>BEDROOM ELECTRICAL</b>
+Recessed LED
+Philips 7W COB
+Warm white 3000K
+6 nos
+4,200
+Cove LED Strip
+Wipro 10W/meter
+15 ft headboard wall
+15 ft
+4,500
+Wardrobe Light
+LED batten strip
+10W neutral white
+1 no
+800
+Main Switch Panel
+Schneider Livia 4-gang
+Door entry
+1 no
+1,800
+Bedside Switches
+Schneider 2-gang (2-way)
+Both sides
+2 nos
+1,600
+5A Sockets
+Schneider with shutter
+Standard power
+2 nos
+600
+USB Charging
+Schneider dual port
+Bedside charging
+2 nos
+1,600
+<b>FAN & VENTILATION</b>
+BLDC Fan
+Atomberg Renesa
+1200mm Walnut 28W
+1 no
+3,799
+<b>FALSE CEILING</b>
+Gypsum Ceiling
+With cove lighting
+Full bedroom
+280 sqft
+28,000
+
+
+--- PAGE 8 ---
+<b>PAINT & FINISHES</b>
+Wall Paint
+Asian Royale
+Cream 2 coats
+560 sqft
+11,200
+<b>SMART & AUDIO</b>
+Smart Switch
+Sonoff ZBMINI
+Zigbee relay
+2 nos
+1,974
+Ceiling Speakers
+JBL 6C/T-BK
+6.5 inch stereo pair
+2 nos
+10,598
+<b>WARDROBE</b>
+Mirror Wardrobe
+Floor-to-ceiling
+Sliding mirror doors 8 ft
+1 no
+70,000
+<b>FURNITURE (Phase 9)</b>
+King Bed Frame
+Urban Ladder Valencia
+Honey oak engineered wood
+1 no
+45,000
+Wakefit Mattress
+Orthopedic Dual Comfort
+King size 78×72 inch
+1 no
+25,000
+Side Table
+Gold metal + marble
+Floating design
+1 no
+12,000
+Dressing Chair
+Velvet upholstered
+Accent seating
+1 no
+8,000
+Table Lamp
+Gold base warm LED
+Bedside lighting
+2 nos
+6,000
+<b>BEDROOM SUBTOTAL</b>
+<b>I2,89,271</b>
+MASTER BATHROOM (10×4 ft) - WARM CHARCOAL SPA THEME
+Component
+Brand/Model
+Specification
+Qty
+Cost (I)
+<b>BATHROOM TILES</b>
+Floor Tiles
+Kajaria Cratos Anthracite
+600×600mm
+40 sqft
+3,000
+Wall Tiles
+Kajaria Celestia Beige
+300×600mm
+160 sqft
+12,000
+<b>SANITARY WARE</b>
+Toilet
+Hindware Ascent + Geberit
+Anthracite grey wall-hung
+1 no
+32,000
+Basin
+Cera Lyric anthracite
+550mm table-top
+1 no
+4,200
+<b>CP FITTINGS</b>
+Faucets & Shower
+Jaquar Fusion
+Brushed gold premium
+1 set
+24,000
+<b>FURNITURE & FIXTURES</b>
+Vanity
+Floating teak shelf
+600mm with drawer
+1 no
+8,000
+Mirror
+LED oval 30×40 inch
+Gold frame backlit
+1 no
+5,500
+<b>ELECTRICAL & LIGHTING</b>
+Recessed LED
+Philips 9W
+Neutral white 4000K
+3 nos
+2,700
+
+
+--- PAGE 9 ---
+Cove LED
+Wipro strip
+Behind mirror
+5 ft
+1,500
+Exhaust Fan
+Combo with light
+25W ventilation
+1 no
+1,600
+JBL Speaker
+Ceiling 8124
+In-ceiling audio
+1 no
+3,800
+Switches
+Schneider 2-gang
+Waterproof IP44
+1 panel
+800
+<b>PLUMBING & WATERPROOFING</b>
+CPVC Pipes
+Astral concealed
+Hot + cold lines
+Full
+8,500
+Waterproofing
+Dr Fixit + tile adhesive
+2-coat chemical
+Full
+12,000
+Labour
+Mason + plumber
+Complete installation
+Full
+27,000
+Window
+UPVC frosted louvre
+2×2 ft rain-proof
+1 no
+1,800
+<b>BATHROOM SUBTOTAL</b>
+<b>I1,48,400</b>
+<b>BR1 GRAND TOTAL (Bed + Bath)</b>
+<b>I4,37,671</b>
+
+
+--- PAGE 10 ---
+5. BEDROOM 2 (BR2) + ATTACHED BATHROOM
+BR2 COMPLETE SPECIFICATIONS
+Component
+Brand/Model
+Specification
+Qty
+Cost (I)
+<b>BEDROOM (~240 sqft)</b>
+Floor Tiles
+Somany Honey Oak
+1200×200mm wood plank
+110 sqft
+13,530
+Entry Door
+Blockboard Walnut groove
+7.5×3 ft Hettich
+1 no
+13,600
+Bathroom Door
+WPC white waterproof
+7×2.5 ft
+1 no
+9,400
+Windows
+UPVC Golden Oak
+2-track sliding 4×4 ft
+2 nos
+19,840
+Recessed LED
+Philips 7W COB
+Warm white
+4 nos
+2,800
+Switches
+Schneider 3-gang
+Main panel
+1 no
+1,350
+5A Sockets
+Schneider
+Standard
+2 nos
+600
+USB Charging
+Schneider dual
+Bedside
+2 nos
+1,600
+BLDC Fan
+Atomberg Renesa
+1200mm Walnut
+1 no
+3,799
+Gypsum Ceiling
+With recessed
+Full room
+240 sqft
+24,000
+Wall Paint
+Asian Royale
+Cream
+480 sqft
+9,600
+Smart Switch
+Sonoff ZBMINI
+Zigbee
+1 no
+987
+Mirror Wardrobe
+Floor-to-ceiling
+Sliding 8 ft
+1 no
+65,000
+Bed Frame
+Urban Ladder oak
+Queen engineered wood
+1 no
+25,000
+Side Table
+Oak finish
+Bedside storage
+1 no
+7,000
+<b>Bedroom Subtotal</b>
+<b>I1,98,106</b>
+<b>BR2 BATHROOM (10×4 ft) - SAGE GREEN FOREST</b>
+Floor Tiles
+Orientbell Terrazzo Grey
+600×600mm
+40 sqft
+2,600
+Wall Tiles
+Kajaria Sage Green
+300×600mm
+160 sqft
+14,000
+Toilet
+Hindware Berlin + Geberit
+Ivory wall-hung
+1 no
+21,213
+Basin
+Cera compact ivory
+305mm
+1 no
+1,800
+CP Fittings
+Cera Vine
+Antique brass
+1 set
+14,000
+Mirror
+Round 24 inch
+Brass frame
+1 no
+3,500
+Recessed LED
+Philips 9W
+Neutral white
+2 nos
+1,800
+Mirror Backlight
+LED strip
+4 ft
+4 ft
+1,200
+Exhaust Fan
+With light
+20W
+1 no
+1,200
+Switches
+Schneider 2-gang
+IP44
+1 panel
+800
+Window
+UPVC frosted louvre
+2×2 ft
+1 no
+1,800
+Plumbing + Labour
+Astral CPVC + waterproof
+40,200
+<b>I1,04,113</b>
+
+
+--- PAGE 11 ---
+<b>BR2 GRAND TOTAL</b>
+<b>I3,02,219</b>
+
+
+--- PAGE 12 ---
+6. GUEST ROOM + ATTACHED BATHROOM
+GUEST ROOM COMPLETE SPECIFICATIONS
+Component
+Brand/Model
+Specification
+Qty
+Cost (I)
+<b>GUEST ROOM (~220 sqft)</b>
+Floor Tiles
+Somany Honey Oak
+1200×200mm wood plank
+120 sqft
+14,760
+Entry Door
+Ivory gloss flush
+7×3 ft Hettich
+1 no
+12,200
+Bathroom Door
+WPC white waterproof
+7×2.5 ft
+1 no
+9,400
+Window
+UPVC Golden Oak casement
+4×3 ft with mesh
+1 no
+8,160
+Recessed LED
+Philips 7W COB
+Warm white
+4 nos
+2,800
+Switches
+Schneider 3-gang
+Main panel
+1 no
+1,350
+5A Sockets
+Schneider
+Standard
+2 nos
+600
+USB Charging
+Schneider dual
+Bedside
+1 no
+800
+BLDC Fan
+Crompton EnergionPRO
+1200mm White
+1 no
+3,299
+Gypsum Ceiling
+Standard
+Full room
+220 sqft
+22,000
+Wall Paint
+Asian Royale
+Cream
+440 sqft
+8,800
+Smart Switch
+Sonoff ZBMINI
+Zigbee
+1 no
+987
+Mirror Wardrobe
+Floor-to-ceiling
+Sliding 7 ft
+1 no
+55,000
+Bed Frame
+Urban Ladder oak
+Queen engineered wood
+1 no
+22,000
+<b>Guest Room Subtotal</b>
+<b>I1,62,156</b>
+<b>GUEST BATHROOM (10×5 ft) - SLATE GREY MINIMALIST</b>
+Floor Tiles
+Kajaria Cratos Grey
+400×400mm
+50 sqft
+3,250
+Wall Tiles
+Kajaria Crysto White
+300×600mm
+200 sqft
+15,000
+Feature Wall
+Dark charcoal
+600×600mm shower
+20 sqft
+3,420
+Toilet
+Cera Luxe Caane + Geberit
+Glossy grey wall-hung
+1 no
+24,500
+Basin
+Cera Luxe grey
+550mm table-top
+1 no
+4,500
+CP Fittings
+Cera Luxe
+Matte black premium
+1 set
+17,000
+Mirror
+LED 24×36 inch
+Black frame
+1 no
+4,000
+Recessed LED
+Philips 9W
+Neutral spots
+2 nos
+1,800
+Exhaust Fan
+With light
+20W
+1 no
+1,200
+Switches
+Schneider 2-gang
+IP44
+1 panel
+800
+Window
+UPVC frosted louvre
+2×2 ft
+1 no
+1,800
+Plumbing + Labour
+Astral CPVC + waterproof
+Complete
+Full
+41,300
+<b>Bathroom Subtotal</b>
+<b>I1,18,570</b>
+<b>GUEST ROOM GRAND TOTAL</b>
+<b>I2,80,726</b>
+
+
+--- PAGE 13 ---
+7. PUJA ROOM (Prayer/Spiritual Space)
+Component
+Brand/Model
+Specification
+Qty
+Cost (I)
+<b>ROOM DETAILS (~100 sqft)</b>
+Floor Tiles
+Kajaria Carrara Beige
+800×800mm GVT
+100 sqft
+12,000
+Door
+Flush with frosted glass
+7×2.5 ft satin gold handle
+1 no
+10,200
+Window
+UPVC casement
+2×2.5 ft Golden Oak
+1 no
+3,250
+<b>LIGHTING (Divine Ambiance)</b>
+Recessed LED
+Philips 7W COB
+2700K extra warm
+3 nos
+2,100
+Cove LED Strip
+Wipro 8W/meter
+10 ft deity backdrop
+10 ft
+2,400
+Decorative Sconce
+Brass traditional
+5W LED
+2 nos
+3,000
+<b>ELECTRICAL</b>
+Switches
+Schneider 2-gang
+Gold finish
+1 panel
+900
+5A Socket
+Schneider
+For lamp/audio
+1 no
+300
+<b>FAN</b>
+BLDC Fan
+Crompton EnergionPRO
+900mm White 22W
+1 no
+2,799
+<b>CEILING & PAINT</b>
+False Ceiling
+Gypsum with cove
+Divine glow effect
+100 sqft
+10,000
+Wall Paint
+Asian Royale
+Warm cream
+200 sqft
+4,000
+<b>FURNITURE & ACCESSORIES</b>
+Puja Unit
+Teak custom carpentry
+Multi-shelf mandir
+1 no
+25,000
+Storage Cabinet
+Below puja unit
+For prasad/items
+1 no
+8,000
+<b>PUJA ROOM TOTAL</b>
+<b>I83,949</b>
+8. KITCHEN (Semi-Modular with Premium
+Appliances)
+Component
+Brand/Model
+Specification
+Qty
+Cost (I)
+<b>ROOM DETAILS (~180 sqft)</b>
+Floor Tiles
+Kajaria Dark Grey
+600×600mm anti-skid
+180 sqft
+18,540
+Wall Tiles (Dado)
+Kajaria glossy white
+300×600mm 4 ft height
+120 sqft
+9,600
+Door
+Ivory gloss flush
+7×3 ft Hettich
+1 no
+12,600
+
+
+--- PAGE 14 ---
+Window
+UPVC casement
+3×3 ft with SS mesh
+1 no
+5,850
+<b>CABINETRY (Semi-Modular)</b>
+Base Cabinets
+White/cream laminate
+10 ft run with drawers
+10 ft
+80,000
+Loft Cabinets
+Matching upper units
+10 ft run
+10 ft
+45,000
+Tall Unit
+Full-height storage
+Pantry column
+1 no
+25,000
+<b>COUNTERTOP & SINK</b>
+Countertop
+Quartz white/grey
+12 ft × 2 ft 20mm
+24 sqft
+48,000
+Kitchen Sink
+SS 304 double bowl
+Nirali/Carysil
+1 no
+8,500
+Sink Mixer
+Jaquar/Cera
+Chrome pull-down
+1 no
+4,500
+<b>APPLIANCES</b>
+Chimney
+Elica 60cm
+Auto-clean 1200 m³/hr
+1 no
+18,000
+Gas Hob
+Elica 4-burner
+Toughened glass
+1 no
+8,500
+Water Purifier
+Kent Grand Plus
+RO+UV 8L
+1 no
+15,000
+<b>ELECTRICAL & LIGHTING</b>
+LED Panel Lights
+Philips 18W
+4000K neutral
+2 nos
+3,600
+Under-cabinet LED
+Wipro strip 8W/m
+6 ft task lighting
+6 ft
+1,800
+Switches
+Schneider 3-gang
+Main + under-cab + exhaust
+1 panel
+1,350
+15A Sockets
+Schneider
+For appliances
+4 nos
+1,600
+5A Sockets
+Schneider
+Small appliances
+2 nos
+600
+<b>FAN & VENTILATION</b>
+BLDC Fan
+Crompton EnergionPRO
+1200mm White 28W
+1 no
+3,299
+Exhaust Fan
+Standard wall-mount
+12 inch
+1 no
+1,200
+<b>PLUMBING</b>
+Water Lines
+Astral CPVC
+Hot + cold to sink
+Full
+8,500
+Drainage
+PVC pipes + traps
+Complete system
+Full
+5,500
+<b>PAINT</b>
+Wall Paint
+Asian Royale
+Cream (non-tiled area)
+100 sqft
+2,000
+<b>LABOUR</b>
+Carpentry + Install
+Complete kitchen fitting
+All units + countertop
+Full
+35,000
+<b>KITCHEN TOTAL</b>
+<b>I3,63,539</b>
+
+
+--- PAGE 15 ---
+9. CORRIDOR, STAIRCASE & COMMON AREAS
+Component
+Brand/Model
+Specification
+Qty
+Cost (I)
+<b>CORRIDOR (~200 sqft)</b>
+Floor Tiles
+Kajaria Carrara Beige
+800×800mm GVT
+200 sqft
+24,000
+LED Bulkhead Lights
+Philips 9W
+4000K neutral
+4 nos
+3,600
+Motion Sensor
+PIR automatic
+Auto on/off lighting
+1 no
+1,500
+Switches
+Schneider 2-gang
+Manual override
+1 panel
+900
+Wall Paint
+Asian Royale
+Cream full corridor
+400 sqft
+8,000
+<b>STAIRCASE</b>
+Anti-skid Tiles
+Kajaria GVT
+With bullnose edge
+80 sqft
+10,800
+LED Step Lights
+Recessed 1W markers
+Every 3rd step
+10 nos
+5,000
+Staircase Window
+UPVC fixed panel
+4×5 ft toughened 6mm
+1 no
+9,600
+Handrail
+SS 304 pipe
+Wall-mounted safety
+15 ft
+9,000
+Switches
+Schneider
+Bottom + top control
+2 nos
+600
+<b>TERRACE/BALCONY (~150 sqft)</b>
+Outdoor Tiles
+Orientbell anti-skid
+600×600mm porcelain
+150 sqft
+17,250
+Utility Basin
+Jayna SS 304
+For washing/gardening
+1 no
+3,500
+Bib Tap + Hose
+SS faucet
+Outdoor water
+1 set
+1,200
+Outdoor Lights
+LED floodlight 20W
+Weatherproof IP65
+2 nos
+3,600
+Railing
+MS painted/powder coat
+40 ft perimeter
+40 ft
+24,000
+<b>CORRIDOR & COMMON TOTAL</b>
+<b>I1,22,550</b>
+
+
+--- PAGE 16 ---
+10. COMPLETE ROOM-BY-ROOM COST SUMMARY
+ALL ROOMS ITEMIZED BREAKDOWN
+Room/Area
+Area (sqft)
+Total Cost
+Cost/sqft
+Key Features
+Ground Floor
+~1,800
+I83,900
+I47
+Basic parking + storage
+Family Hall
+~450
+I4,08,474
+I908
+Crystal chandelier + L-sofa + premium
+Master Bedroom
+~280
+I2,89,271
+I1,033
+King bed + Wakefit + oak furniture
+BR1 Bathroom
+40
+I1,48,400
+I3,710
+Charcoal spa + Jaquar gold + JBL
+Bedroom 2
+~240
+I1,98,106
+I826
+Queen bed + oak + wardrobe
+BR2 Bathroom
+40
+I1,04,113
+I2,603
+Sage green forest + antique brass
+Guest Room
+~220
+I1,62,156
+I737
+Queen bed + wardrobe + oak
+Guest Bathroom
+50
+I1,18,570
+I2,371
+Slate grey + matte black + Geberit
+Puja Room
+~100
+I83,949
+I839
+Custom teak mandir + divine lighting
+Kitchen
+~180
+I3,63,539
+I2,020
+Semi-modular + quartz + Elica
+Corridor & Common
+~430
+I1,22,550
+I285
+Motion sensor + staircase + terrace
+Family Hall Basin
+—
+I22,100
+—
+InArt black marble statement
+<b>SUBTOTAL (All Rooms)</b>
+<b>~3,830</b><b>I18,05,128</b>
+<b>I471</b>
+<b>Interior finishes + furniture</b>
+ADDITIONAL CONSTRUCTION COSTS (Not Room-Specific)
+Component
+Description
+Cost
+Notes
+<b>FOUNDATION & STRUCTURE</b>
+Phase 1
+Excavation + footings + columns + beams + slabs (GF+FF+Roof)
+I27,45,000
+M20/M25 concrete, Fe500D steel
+<b>EXTERNAL WALLS & CORE</b>
+Phase 2
+AAC blocks + brickwork + plaster (all walls GF+FF)
+I8,83,000
+Thermal insulation
+<b>WINDOWS (Not in room cost)</b>
+Remaining Windows
+9 windows already counted in rooms, 0 additional
+I0
+All 13 windows in room costs
+<b>ELECTRICAL CORE SYSTEM</b>
+Cables & Wiring
+Polycab FR-LSH 1870m + conduits + distribution board
+I1,26,405
+2.5mm, 4mm, 6mm cables
+Earthing
+2 copper electrodes + 120m earth wire + pit
+I10,000
+Safety system
+<b>PLUMBING CORE</b>
+Water Supply
+Astral CPVC full house + overhead tank + pump
+I1,50,000
+1500L tank + 1HP pump
+
+
+--- PAGE 17 ---
+Underground Sump
+5000L RCC below ground
+I1,00,000
+Monsoon storage
+<b>SMART HOME CENTRAL</b>
+Raspberry Pi Hub
+Pi 4 8GB + Home Assistant + Zigbee + network
+I20,486
+Central brain
+Fosi Amplifier
+ZA3 4-channel for all audio zones
+I16,999
+Powers 8 JBL speakers
+Wiim Streamer
+WiFi audio streaming hub
+I8,999
+Spotify/AirPlay
+NVR + Storage
+Hikvision 4-ch + WD Purple 1TB + UPS
+I12,697
+15-day recording
+Front + Back Cams
+Hikvision 4MP bullet (not in rooms)
+I8,598
+Exterior security
+<b>SOLAR POWER SYSTEM</b>
+Solar 3kW
+Waaree 550W×6 + Growatt inverter (after I78K subsidy)
+I58,010
+PM Surya Ghar benefit
+<b>EXTERIOR & SITE WORK</b>
+Compound Wall
+5 ft brick wall + coping full perimeter
+I2,20,000
+Security + privacy
+Main Gate
+MS painted 10 ft + wicket gate
+I1,05,000
+Entry statement
+Driveway Pavers
+Interlocking blocks parking area
+I80,000
+Clean entrance
+Exterior Paint
+Asian Apex Ultima full house waterproof
+I1,80,000
+Weather protection
+Facade Cladding
+Grey quartzite stone accent + HPL panels
+I2,50,000
+I80L look premium
+Glass Railing
+Frameless 12mm tempered balcony
+I1,80,000
+Modern aesthetic
+Landscape Lighting
+LED uplights + gate pillars + porch
+I45,000
+Night appeal
+<b>PROFESSIONAL FEES</b>
+Architect
+Bhabua local plans + structural + stamp
+I1,50,000
+Licensed professional
+Permits
+Nagar Panchayat approvals + soil test
+I1,00,000
+Legal compliance
+<b>CONTINGENCY BUFFER</b>
+Contingency
+5% buffer for material price fluctuation
+I2,50,000
+Safety margin
+<b>ADDITIONAL COSTS TOTAL</b>
+<b>Structure + systems + exterior</
+
+
+--- PAGE 18 ---
+COMPLETE PROJECT GRAND TOTAL
+Category
+Description
+Cost (I)
+Lakhs
+Room Interiors
+All 11 rooms finished + furniture
+18,05,128
+18.05
+Foundation
+Structure (footings to roof)
+27,45,000
+27.45
+Walls & Core
+AAC blocks + plaster
+8,83,000
+8.83
+Electrical Core
+Cables + DB + earthing
+1,36,405
+1.36
+Plumbing Core
+Tank + pump + sump + pipes
+2,50,000
+2.50
+Smart Systems
+Pi + NVR + amplifier + cameras
+67,779
+0.68
+Solar Power
+3kW after subsidy
+58,010
+0.58
+Exterior Premium
+Cladding + glass rail + paint + gate
+8,60,000
+8.60
+Site Work
+Compound + driveway + landscape
+3,00,000
+3.00
+Professional
+Architect + permits
+2,50,000
+2.50
+Contingency
+5% buffer
+2,50,000
+2.50
+<b>CONSTRUCTION TOTAL (Phases 1-8)</b>
+<b>89,85,322</b><b>89.85</b>
+<b>FURNITURE (Phase 9)</b>
+<b>5,00,000</b><b>5.00</b>
+<b>COMPLETE PROJECT TOTAL</b>
+<b>94.85</b>
+<b>Per Sq Ft (4,860 built-up)</b>
+<b>Visual ROI: I1.5 Crore+ Look</b>
+PROJECT HIGHLIGHTS
+ I94.85 Lakhs Total Investment - Complete turnkey G+1 home with furniture (4,860 sq ft built-up)
+ I1,951 per sq ft - Includes foundation to furniture, smart systems, solar, premium exterior
+ I1.5 Crore Visual ROI - Premium exterior (I8L modern look) + furniture (I5L → I50L feel)
+ 11 Complete Rooms - Every room specified with tiles, doors, windows, electrical, furniture
+ 3 Themed Bathrooms - Charcoal spa + sage green + slate grey with Geberit + premium CP
+ Smart Home Ready - Voice control, app access, automation for all lights/fans/locks
+ Whole-Home Audio - JBL ceiling speakers in 4 zones, Fosi amp, Spotify/AirPlay streaming
+ Energy Independent - 3kW solar + BLDC fans + LED lights = near-zero electricity bills
+ 24/7 Security - Hikvision ColorVu cameras + Atomberg smart lock + 15-day NVR recording
+ Bihar Climate Optimized - Bronze tinted glass, waterproof exterior, thermal AAC blocks
+
+
+--- PAGE 19 ---
+11. MATERIAL SPECIFICATIONS INDEX
+TILES & FLOORING
+Room
+Brand
+Model
+Size
+Finish
+Area
+Family Hall
+Kajaria
+Carrara Beige
+800×800mm
+GVT Satin
+306 sqft
+All Bedrooms
+Somany
+Honey Oak
+1200×200mm
+Wood Plank
+350 sqft
+BR1 Bath Floor
+Kajaria
+Cratos Anthracite
+600×600mm
+Matt
+40 sqft
+BR1 Bath Wall
+Kajaria
+Celestia Beige
+300×600mm
+Glossy
+160 sqft
+BR2 Bath Floor
+Orientbell
+Terrazzo Grey
+600×600mm
+Matt
+40 sqft
+BR2 Bath Wall
+Kajaria
+Sage Green
+300×600mm
+Satin
+160 sqft
+Guest Bath Floor
+Kajaria
+Cratos Grey
+400×400mm
+Matt
+50 sqft
+Guest Bath Wall
+Kajaria
+Crysto White
+300×600mm
+Glossy
+200 sqft
+Kitchen Floor
+Kajaria
+Dark Grey
+600×600mm
+Anti-skid
+180 sqft
+Terrace
+Orientbell
+Outdoor Porcelain
+600×600mm
+Anti-skid
+150 sqft
+<b>Total Tiles</b>
+<b>3,014 sqft</b>
+DOORS SPECIFICATIONS (All 11 Doors)
+Door Type
+Specification
+Hardware
+Quantity
+Total Cost
+Main Entry
+Teak 4-panel 7.5×3.5 ft
+Atomberg smart lock + Ozone D-pull
+1
+I37,899
+Bedroom Doors
+Blockboard Walnut groove 7.5×3 ft
+Hettich lever matte black
+3
+I40,800
+Guest + Kitchen
+Ivory gloss flush 7×3 ft
+Hettich lever
+2
+I24,800
+Bathrooms
+WPC white waterproof 7×2.5 ft
+Godrej NEH matte black
+3
+I28,200
+Puja Room
+Flush with frosted glass 7×2.5 ft
+Hettich satin gold
+1
+I10,200
+Store
+Basic hollow core 7×2.5 ft
+Basic lock
+1
+I2,800
+<b>Total</b>
+<b>11 doors complete</b>
+<b>11</b>
+<b>I1,44,699</b>
+WINDOWS SPECIFICATIONS (All 13 Windows)
+Location
+Type
+Size
+Glass
+Qty
+Cost
+Family Hall
+3-track sliding
+5×4 ft
+Bronze tinted 5mm
+1
+I13,000
+BR1
+2-track sliding
+4×4 ft
+Bronze tinted 5mm
+2
+I19,840
+BR2
+2-track sliding
+4×4 ft
+Bronze tinted 5mm
+2
+I19,840
+Guest Room
+Casement
+4×3 ft
+Bronze tinted 5mm
+1
+I8,160
+Kitchen
+Casement
+3×3 ft
+Clear 5mm + SS mesh
+1
+I5,850
+Staircase
+Fixed panel
+4×5 ft
+Toughened 6mm
+1
+I9,600
+Puja Room
+Casement
+2×2.5 ft
+Clear 5mm
+1
+I3,250
+
+
+--- PAGE 20 ---
+Bathrooms
+Frosted louvre
+2×2 ft
+Frosted 5mm
+3
+I5,400
+Ground Floor
+2-track sliding
+3×3 ft
+Clear 5mm
+1
+I4,320
+<b>Total</b>
+<b>UPVC Golden Oak</b>
+<b>Bronze/Clear</b>
+<b>13</b>
+<b>I89,260</b>
+ELECTRICAL DISTRIBUTION
+Component
+Specification
+Quantity
+Location
+BLDC Fans
+Atomberg Renesa 1200mm 28W
+3
+Hall, BR1, BR2
+BLDC Fans
+Crompton EnergionPRO 1200mm
+3
+Guest, Kitchen, others
+LED Recessed
+Philips 7W-9W COB warm white
+35
+All rooms
+LED Strips
+Wipro 10-14W/meter cove
+70 ft
+Hall, bedrooms, bathrooms
+Chandelier
+Modern crystal 50W LED
+1
+Family Hall centerpiece
+JBL Speakers
+6C/T-BK 60W in-ceiling
+8
+4 rooms stereo pairs
+Smart Switches
+Sonoff ZBMINI Zigbee
+7
+Key lighting circuits
+Schneider Switches
+Livia modular white
+28
+All switch panels
+5A Sockets
+Schneider with shutter
+42
+Standard power points
+15A Sockets
+Schneider heavy duty
+12
+AC, geyser, appliances
+USB Charging
+Schneider dual port 3.1A
+8
+Bedside locations
+
+
+--- PAGE 21 ---
+12. SMART SYSTEMS INTEGRATION
+COMPLETE SMART HOME ARCHITECTURE
+System
+Components
+Control Method
+Room Coverage
+<b>Central Hub</b>
+Raspberry Pi 4 8GB + Home Assistant OS
+Web dashboard + mobile app
+Whole house
+<b>Voice Control</b>
+Echo Dot 5th Gen Alexa
+Voice commands
+Family Hall primary
+<b>Lighting Control</b>
+7 Sonoff ZBMINI Zigbee relays
+App + voice + physical switch
+7 key circuits
+<b>Audio Streaming</b>
+Wiim Mini + Fosi ZA3 + 8 JBL speakers
+Wiim app + Alexa + HA
+4 zones (Hall, BR1, BR2, Guest)
+<b>Security Cameras</b>
+3 Hikvision 4MP + NVR + 1TB
+Hik-Connect app + HA
+Main door, front, back
+<b>Smart Lock</b>
+Atomberg Azhero main door
+Fingerprint/PIN/app/NFC/key
+Main entry
+<b>Solar Monitoring</b>
+Growatt inverter WiFi
+ShinePhone app
+Roof system
+KEY AUTOMATION SCENARIOS
+• Morning Routine: 7 AM alarm → bedroom lights gradual 20% → coffee playlist → bathroom fan on
+• Movie Mode: "Alexa, movie time" → hall lights dim 10% → TV zone speakers on → other zones off
+• Away Mode: GPS detects leaving → all lights off → ACs off → cameras record motion → send alerts
+• Night Security: 11 PM → all lights off except night lights → lock main door → arm cameras
+• Sunset Lighting: Location-based trigger → exterior lights on → gate pillars → facade uplights
+• Arrival Home: GPS within 500m → unlock main door → hall lights 50% → welcome music
+• Energy Saver: Solar export high → enable washing machine → charge devices → run pumps
+
+
+--- PAGE 22 ---
+13. VENDOR CONTACT GUIDE
+WHERE TO BUY - COMPLETE SOURCING MAP
+Category
+Brand/Supplier
+Location/Source
+Notes
+<b>CONSTRUCTION MATERIALS</b>
+Cement
+UltraTech PPC
+Patna wholesale dealers
+Check mfg date < 3 months
+Steel
+Shyam Fe500D
+Patna TMT dealers
+MTC certificate mandatory
+Bricks
+First class IS 1077
+Local Bhabua kilns
+Ring test before delivery
+Sand & Aggregate
+Son River / Mohania
+Local quarries
+Silt test sand < 8%
+<b>TILES</b>
+Kajaria
+All models
+Kajaria Gallery Patna
+Bulk 8-12% discount 3000+ sqft
+Somany
+Honey Oak planks
+Somany exclusive Patna
+Wood-look certification
+Orientbell
+Outdoor tiles
+Authorized dealer Patna
+Anti-skid test
+<b>PAINT & WATERPROOFING</b>
+Asian Paints
+Royale + Apex + Play
+Asian exclusive store Patna
+Color matching service
+Dr Fixit
+Bathroom waterproof
+Construction chemical dealers
+BIS certified
+<b>ELECTRICAL</b>
+Polycab
+FR-LSH cables
+Electrical wholesale Patna
+ISI mark verify
+Havells
+MCBs + DB
+Havells Galaxy Patna
+Authorized for warranty
+Schneider
+Livia switches
+Schneider shop Patna
+Check modular depth 10mm
+Atomberg
+Renesa fans
+atomberg.com
+Free shipping above I3K
+Crompton
+EnergionPRO fans
+Amazon India / Flipkart
+Check BLDC certification
+Philips Lighting
+LED fixtures
+Philips dealer Patna / Amazon
+Energy Star rated
+<b>PLUMBING</b>
+Astral
+CPVC pipes
+Sanitary dealers Patna
+Green CPVC hot-rated
+Hindware
+Sanitary ware
+Hindware showroom Patna
+Geberit cistern upgrade
+Cera
+CP fittings + basins
+Cera Galaxy Patna
+Check finish (gold/brass/black)
+Jaquar
+Premium CP
+Jaquar exclusive Patna
+Fusion series brushed gold
+<b>DOORS & WINDOWS</b>
+Ozone
+Door hardware
+ozone.in online
+D-pull handle for main door
+Hettich
+Hinges + handles
+Hettich dealer Patna
+Soft-close recommended
+Atomberg
+Smart lock Azhero
+atomberg.com
+Fingerprint + PIN + app
+
+
+--- PAGE 23 ---
+Godrej
+WPC doors + hardware
+Godrej dealer Bhabua/Patna
+100% waterproof bathroom
+Fenesta
+UPVC windows
+fenesta.com Patna showroom
+Golden Oak finish only
+<b>SMART HOME & AUDIO</b>
+Raspberry Pi
+Pi 4 8GB
+Amazon India / robu.in
+Official adapter mandatory
+Sonoff
+Zigbee ZBMINI
+Amazon India / AliExpress
+Verify Zigbee 3.0
+Amazon
+Echo Dot 5th Gen
+amazon.in
+Prime Day discounts
+JBL
+Ceiling speakers 6C/T
+Amazon India / JBL store
+Professional series
+Fosi Audio
+ZA3 amplifier
+Amazon India
+Class-D 4-channel
+Wiim
+Mini streamer
+Amazon India
+AirPlay + Spotify
+<b>SECURITY</b>
+Hikvision
+Cameras + NVR
+Authorized Hikvision Patna
+ColorVu for main door
+WD Purple
+Surveillance HDD
+Computer dealers Patna
+Surveillance-rated only
+<b>SOLAR</b>
+Waaree
+Solar panels 550W
+PM Surya Ghar empaneled
+BIS + MNRE certified
+Growatt
+On-grid inverter
+PM Surya Ghar empaneled
+Warranty card mandatory
+<b>KITCHEN & WARDROBES</b>
+Elica
+Chimney + hob
+Elica showroom Patna
+Auto-clean 1200 m³/hr
+Quartz
+Kitchen counter
+Stone dealers Sasaram/Patna
+Indian quartz 20mm
+Local Carpenter
+Wardrobes + kitchen
+Bhabua furniture market
+References mandatory
+<b>FURNITURE</b>
+Urban Ladder
+Beds + sofa
+urbanladder.com
+Free delivery above I50K
+Wakefit
+Orthopedic mattress
+wakefit.co
+King 78×72 Dual Comfort
+Pepperfry
+Side tables + decor
+pepperfry.com
+Delhi warehouse delivery
+Godrej Interio
+Dining + chairs
+Godrej showroom Patna
+Wood + metal combos
+PURCHASING STRATEGY
+• Bulk Discounts: Buy all tiles from single Kajaria dealer (3000+ sqft) = 8-12% off
+• Online Best Prices: Atomberg, Crompton, smart devices always cheaper on Amazon Prime
+• Patna Trip Planning: Club visits - Kajaria + Fenesta + Asian Paints + Cera in one day
+• Local for Heavy: Cement, steel, sand from Bhabua/nearby = save transport I15-20K
+• Verify Before Paying: ISI marks (cement/steel), BIS (solar), BLDC cert (fans)
+• Warranty Cards: Keep all - Atomberg fan 3yr, UPVC window 10yr, Hikvision 3yr critical
+
+
+--- PAGE 24 ---
+• Installation Included: Negotiate - tiles, fans, windows should include fitting labor
+• Delivery Scheduling: Order furniture Week 19-20 for Phase 9 = perfect timing
+
+
+--- PAGE 25 ---
+DOCUMENT SUMMARY & USAGE GUIDE
+HOW TO USE THIS DOCUMENT
+1. Hand to Contractor - Pages 3-9 contain complete room specifications. Use for accurate quotation.
+2. Architect Reference - Share section 1 (floor plans) + section 11 (materials) for drawing finalization.
+3. Vendor Negotiations - Section 13 vendor guide with exact brands. Show vendors for matching quotes.
+4. Cost Tracking - Section 10 complete cost summary. Track actual vs. estimated room-by-room.
+5. Quality Control - Each room spec lists exact tile model, door type, window size. Verify delivery matches.
+6. Smart Systems Installation - Section 12 for electrician + IT installer. Shows complete integration.
+7. Furniture Planning - Room furniture lists (Phase 9) show exact models. Order 8 weeks before move-in.
+8. Permit Applications - Show Nagar Panchayat total built-up (4,860 sqft) + complete plans from section 1.
+DOCUMENT INFORMATION
+Document: Complete Room-by-Room Specifications v1.0
+Owner: Harsh | 30×60 G+1 Patel Mansion | Bhabua, Kaimur, Bihar
+Generated: March 14, 2026, 5:00 PM IST
+Total Project Cost: I94.85 Lakhs (Construction I89.85L + Furniture I5L)
+Built-up Area: 4,860 sq ft (GF 1,800 + FF 3,060 sq ft)
+Cost per Sq Ft: I1,951/sqft (complete turnkey with furniture)
+Document Scope: Every room specified - dimensions, tiles, doors, windows, electrical, furniture, costs
+Visual ROI: I1.5 Crore+ premium modern look (I80L exterior + I50L furniture feel)
+Systems Included: Smart home + whole-home audio + 24/7 CCTV + 3kW solar + energy-efficient
+Status: Ready for immediate contractor quotation and material procurement
+Timeline: 21 weeks total (20 weeks construction + 1 week furniture setup)
+Bihar Optimized: Seismic Zone III structure, monsoon-rated exterior, 45°C summer thermal design
+
+
+--- PAGE 26 ---
+ COMPLETE SPECIFICATIONS - EVERY ROOM DETAILED - READY
+TO BUILD
+EXTRACTED CONTENT END
+
+==================== SOURCE 4 ====================
+FILE: FINAL_BATHROOM_PLAN_LOCKED_3_THEMES.pdf
+TYPE: pdf
+DETAILS:
+{
+  "pages": 4,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "(anonymous)",
+    "author": "(anonymous)",
+    "subject": "(unspecified)",
+    "creator": "(unspecified)",
+    "producer": "ReportLab PDF Library - www.reportlab.com",
+    "creationDate": "D:20260313124913+00'00'",
+    "modDate": "D:20260313124913+00'00'"
+  },
+  "file_size_bytes": 6179
+}
+
+EXTRACTED CONTENT START
+--- PAGE 1 ---
+30×60 G+1 HOUSE — BATHROOM PLAN
+3 Themed Bathrooms + Hall + Terrace Basins
+Bathroom
+Theme
+Size
+Total Cost
+BR1 Master
+Warm Charcoal Spa
+10×4 ft
+Rs 1,79,820
+BR2
+Sage Green Forest
+10×4 ft
+Rs 1,31,753
+Guest
+Slate Grey Minimalist
+10×5 ft
+Rs 1,45,328
+Family Hall
+Statement Basin
+—
+Rs 22,100
+Terrace
+Utility Basin
+—
+Rs 5,800
+GRAND TOTAL
+Rs 4,84,801
+
+
+--- PAGE 2 ---
+BATH BR1 — WARM CHARCOAL SPA (10×4 ft)
+Component
+Spec
+Cost
+Floor tiles
+Kajaria Cratos Anthracite 600×600
+Rs 3,000
+Wall tiles
+Kajaria Celestia Beige 300×600
+Rs 12,000
+Toilet
+Hindware Ascent Anthracite Grey + Geberit
+Rs 32,000
+Basin
+Cera Lyric anthracite 550mm
+Rs 4,200
+CP fittings
+Jaquar Fusion Brushed Gold
+Rs 24,000
+Vanity
+Floating teak shelf 600mm
+Rs 8,000
+Mirror
+LED oval 30×40" gold frame
+Rs 5,500
+Lighting
+3 recessed + cove LED + exhaust
+Rs 5,800
+JBL Speaker
+Ceiling 8124
+Rs 3,800
+WPC Door + Window
+7×2.5ft + 2×2ft UPVC
+Rs 11,200
+Plumbing + Waterproofing + Labour
+Full
+Rs 47,500
+TOTAL
+Rs 1,79,820
+BATH BR2 — SAGE GREEN FOREST (10×4 ft)
+Component
+Spec
+Cost
+Floor tiles
+Orientbell Terrazzo Grey 600×600
+Rs 2,600
+Wall tiles
+Kajaria Sage Green 300×600
+Rs 14,000
+Toilet
+Hindware Berlin Ivory + Geberit
+Rs 21,213
+Basin
+Cera compact ivory 305mm
+Rs 1,800
+CP fittings
+Cera Vine Antique Brass
+Rs 14,000
+Mirror
+Round 24" brass-frame
+Rs 3,500
+Lighting
+2 recessed + mirror backlight + exhaust
+Rs 4,200
+WPC Door + Window
+7×2.5ft + 2×2ft UPVC
+Rs 11,200
+Plumbing + Waterproofing + Labour
+Full
+Rs 40,200
+TOTAL
+Rs 1,31,753
+GUEST BATH — SLATE GREY MINIMALIST (10×5 ft)
+Component
+Spec
+Cost
+Floor tiles
+Kajaria Cratos Grey 400×400
+Rs 3,250
+Wall tiles
+Kajaria Crysto White 300×600
+Rs 11,550
+Feature wall
+Dark charcoal 600×600 (shower)
+Rs 3,420
+Toilet
+Cera Luxe Caane Glossy Grey + Geberit
+Rs 24,500
+Basin
+Cera Luxe grey 550mm
+Rs 4,500
+CP fittings
+Cera Luxe Matte Black
+Rs 17,000
+Mirror
+LED 24×36" black frame
+Rs 4,000
+Lighting
+2 recessed white spots + exhaust
+Rs 3,800
+WPC Door + Window
+7×2.5ft + 2×2ft UPVC
+Rs 11,200
+Plumbing + Waterproofing + Labour
+Full
+Rs 41,300
+
+
+--- PAGE 3 ---
+TOTAL
+Rs 1,45,328
+
+
+--- PAGE 4 ---
+FAMILY HALL + TERRACE BASINS
+Location
+Spec
+Cost
+Family Hall
+InArt DW212 Black Marble + teak drawer + Jaquar gold mixer + LED mirror + LED g
+Rs 22,100
+Terrace
+Jayna SS 304 utility + SS bib tap + hose bibRs 5,800
+TOTAL
+Rs 27,900
+GRAND TOTAL — ALL BATHROOMS + HALL + TERRACE
+Rs 4,84,801
+EXTRACTED CONTENT END
+
+==================== SOURCE 5 ====================
+FILE: Home.pdf
+TYPE: pdf
+DETAILS:
+{
+  "pages": 15,
+  "metadata": {
+    "format": "PDF 1.4",
+    "creator": "Chromium",
+    "producer": "Skia/PDF m97",
+    "creationDate": "D:20260314112634+00'00'",
+    "modDate": "D:20260314112634+00'00'"
+  },
+  "file_size_bytes": 148769
+}
+
+EXTRACTED CONTENT START
+--- PAGE 1 ---
+PATEL MANSION - COMPLETE CONSTRUCTION
+SPECIFICATIONS
+Project: Patel Mansion - Premium G+1 Residence
+
+Location: Bhabua, Bihar, India
+
+Plot Size: 30ft × 60ft (1,800 sq ft)
+
+Built-up Area: 4,860 sq ft (GF 1,260 + FF 1,800 + Roof 1,800)
+
+Total Budget: ₹86.01 Lakhs
+
+Per Sq Ft Cost: ₹1,770
+
+Timeline: 20 weeks
+
+Date Prepared: March 14, 2026
+EXECUTIVE SUMMARY
+Phase
+Description
+Cost (₹)
+Lakhs
+Phase 1
+Foundation & Structure
+27,45,000
+27.45
+Phase 2
+Walls, Plaster & Doors
+14,33,000
+14.33
+Phase 3
+Windows UPVC
+95,000
+0.95
+Phase 4
+Tiles & Flooring
+4,07,000
+4.07
+Phase 5
+Electrical + Plumbing + Smart + Solar
+14,31,000
+14.31
+Phase 6
+Paint & Ceiling
+9,44,000
+9.44
+Phase 7
+Kitchen & Interiors
+6,15,000
+6.15
+SUBTOTAL
+Phases 1-7 LOCKED
+75,70,000
+75.70
+Phase 8
+Exterior Premium
+7,15,000
+7.15
+Architect
+Local Plans + Stamp
+1,50,000
+1.50
+Furniture
+Sofa + Dining Table
+1,00,000
+1.00
+Permits
+Local Approvals
+1,00,000
+1.00
+GRAND TOTAL
+86,35,000
+₹86.35L
+
+
+--- PAGE 2 ---
+PHASE 1: FOUNDATION & STRUCTURE (₹27.45 Lakhs)
+Overview
+Complete RCC framework for G+1 structure including excavation, foundation, columns, beams, slabs for
+Ground Floor, First Floor, and Roof.
+Detailed Breakdown
+Item
+Specification
+Quantity
+Rate
+Cost (₹)
+Excavation
+Machine excavation for foundation
+180 cu m
+₹150/cum
+27,000
+PCC Base
+M10 concrete 100mm thick
+45 cu m
+₹4,500/cum
+2,02,500
+Foundation
+Concrete
+M20 grade RCC with Fe500D steel
+65 cu m
+₹7,500/cum
+4,87,500
+Ground Floor
+Columns
+12 nos, 9"×12" RCC
+18 cu m
+₹8,500/cum
+1,53,000
+GF Beams
+RCC beams all sizes
+22 cu m
+₹8,500/cum
+1,87,000
+GF Slab
+150mm thick RCC slab 1,260 sq ft
+18 cu m
+₹8,500/cum
+1,53,000
+First Floor Columns
+12 nos, 9"×12" RCC
+22 cu m
+₹8,500/cum
+1,87,000
+FF Beams
+RCC beams all sizes
+28 cu m
+₹8,500/cum
+2,38,000
+FF Slab
+150mm thick RCC slab 1,800 sq ft
+26 cu m
+₹8,500/cum
+2,21,000
+Roof Columns
+Parapet support columns
+12 cu m
+₹8,500/cum
+1,02,000
+Roof Slab
+150mm thick RCC 1,800 sq ft
+26 cu m
+₹8,500/cum
+2,21,000
+Waterproofing
+Roof waterproofing with APP
+membrane
+1,800 sq
+ft
+₹80/sqft
+1,44,000
+Steel
+Reinforcement
+Fe500D TMT bars 8mm to 25mm
+8,500 kg
+₹65/kg
+5,52,500
+Shuttering
+Plywood shuttering rental 20 weeks
+Lumpsum
+-
+1,50,000
+Labour
+Mason, helper, bar bender
+12 weeks
+-
+3,20,000
+TOTAL PHASE 1
+27,45,000
+Key Specifications
+Concrete Grade: M20 for all structural elements (minimum 20 MPa strength)
+
+
+--- PAGE 3 ---
+Steel: Fe500D TMT bars (500 MPa yield strength, ductile grade)
+Foundation Depth: 4-5 feet below ground level
+Column Size: 9"×12" (230mm × 300mm)
+Slab Thickness: 150mm (6 inches) with 12mm main bars
+Waterproofing: APP membrane + 2-coat acrylic coating
+PHASE 2: WALLS, PLASTER & DOORS (₹14.33 Lakhs)
+Overview
+AAC block walls, internal and external plastering, 11 doors with hardware.
+Detailed Breakdown
+Item
+Specification
+Quantity
+Rate
+Cost (₹)
+AAC Blocks 4"
+Internal walls lightweight
+2,100
+blocks
+₹45/block
+94,500
+AAC Blocks 6"
+External walls
+1,800
+blocks
+₹65/block
+1,17,000
+Internal
+Plastering
+12mm cement plaster both sides
+6,500 sq ft
+₹45/sqft
+2,92,500
+External
+Plastering
+16mm cement-sand plaster
+3,200 sq ft
+₹60/sqft
+1,92,000
+Main Door
+Solid teak 7.5×3.5 ft with Atomberg smart
+lock
+1
+₹37,899
+37,899
+Bedroom Doors
+(3)
+Blockboard walnut laminate 7.5×3 ft
+3
+₹13,600
+40,800
+Kitchen Door
+Blockboard ivory gloss 7×3 ft
+1
+₹12,600
+12,600
+Bathroom Doors
+(3)
+WPC waterproof 7×2.5 ft
+3
+₹9,400
+28,200
+Puja Door
+Flush frosted glass 7×2.5 ft
+1
+₹10,200
+10,200
+Store Door
+Basic flush door 7×2.5 ft
+1
+₹2,800
+2,800
+Door Frames
+Sal wood frames all doors
+11
+₹2,500
+27,500
+Hardware
+Hettich hinges + locks + handles
+11
+₹1,800
+19,800
+Lintel Beams
+RCC lintels above doors/windows
+28
+₹1,200
+33,600
+
+
+--- PAGE 4 ---
+Item
+Specification
+Quantity
+Rate
+Cost (₹)
+Labour
+Mason, helper for walls & plaster
+6 weeks
+-
+2,50,000
+TOTAL PHASE 2
+14,33,000
+Key Specifications
+Walls: AAC (Autoclaved Aerated Concrete) blocks - lightweight, thermal insulation
+Internal Plaster: 12mm thick (6mm both sides) with putty finish
+External Plaster: 16mm thick weather-resistant
+Main Door Hardware: Atomberg Azhero smart lock (fingerprint + PIN + app)
+Bathroom Doors: WPC (Wood Plastic Composite) 100% waterproof
+PHASE 3: WINDOWS UPVC (₹95,000)
+Overview
+13 UPVC Golden Oak finish windows with bronze-tinted glass.
+Detailed Breakdown
+Location
+Type
+Size
+Glass
+Cost (₹)
+Family Hall
+3-track sliding
+5×4 ft
+Bronze tinted 5mm
+13,000
+BR1 (2 windows)
+2-track sliding
+4×4 ft each + mesh
+Bronze tinted 5mm
+19,840
+BR2 (2 windows)
+2-track sliding
+4×4 ft each + mesh
+Bronze tinted 5mm
+19,840
+Guest Room
+Casement
+4×3 ft + mesh
+Bronze tinted 5mm
+8,160
+Kitchen
+Casement
+3×3 ft + SS mesh
+Clear 5mm
+5,850
+Staircase
+Fixed panel
+4×5 ft large
+Toughened 6mm
+9,600
+Puja Room
+Small casement
+2×2.5 ft
+Clear 5mm
+3,250
+Bathrooms (3)
+Frosted louvre
+2×2 ft each
+Frosted 5mm
+5,400
+Ground floor
+2-track sliding
+3×3 ft
+Clear 5mm
+4,320
+TOTAL PHASE 3
+95,000
+Key Specifications
+
+
+--- PAGE 5 ---
+Frame: UPVC Golden Oak wood-finish (matches teak door + honey oak tiles)
+Glass: Bronze-tinted reduces 35-40% heat (critical for Bihar summer)
+Hardware: Zinc die-cast satin handles + SS mesh
+Brand: Fenesta or equivalent
+Features: Multi-point locking, weather seals, IP-rated bathroom louvres
+PHASE 4: TILES & FLOORING (₹4.07 Lakhs)
+Overview
+Premium vitrified tiles, vinyl flooring, and ceramic tiles across 3,014 sq ft.
+Detailed Breakdown
+Area
+Tile Type
+Size
+Quantity
+Rate
+Cost (₹)
+Family Hall
+Vitrified Carrara Marble
+24×24"
+240 sq ft
+₹95/sqft
+22,800
+BR1, BR2
+Vitrified Honey Oak Wood
+24×24"
+450 sq ft
+₹85/sqft
+38,250
+Guest Room
+Vitrified Honey Oak
+24×24"
+180 sq ft
+₹85/sqft
+15,300
+Kitchen
+Anti-skid Ceramic
+12×12"
+120 sq ft
+₹70/sqft
+8,400
+Bathrooms (3)
+Anti-skid Ceramic
+12×12"
+180 sq ft
+₹65/sqft
+11,700
+Puja Room
+Vitrified Beige
+24×24"
+80 sq ft
+₹75/sqft
+6,000
+Corridors
+Vitrified Grey
+24×24"
+200 sq ft
+₹70/sqft
+14,000
+Balcony
+Anti-skid Porcelain
+12×12"
+120 sq ft
+₹80/sqft
+9,600
+Ground Floor
+Basic Ceramic
+24×24"
+800 sq ft
+₹55/sqft
+44,000
+Staircase
+Anti-skid Vitrified
+12×12"
+150 sq ft
+₹85/sqft
+12,750
+Wall Tiles (Bathrooms)
+Ceramic glossy
+12×18"
+540 sq ft
+₹55/sqft
+29,700
+Kitchen Wall Tiles
+Ceramic glossy
+12×18"
+100 sq ft
+₹60/sqft
+6,000
+Adhesive + Grout
+All areas
+-
+-
+-
+45,000
+Labour
+Tile laying all areas
+-
+-
+-
+1,43,500
+TOTAL PHASE 4
+4,07,000
+Key Specifications
+
+
+--- PAGE 6 ---
+Vitrified Tiles: Kajaria/Somany mid-tier (600×600mm)
+Anti-skid: R10 rating for wet areas
+Grout: Epoxy grout for bathrooms, cement grout others
+Skirting: 4-inch matching tile skirting all rooms
+PHASE 5: ELECTRICAL + PLUMBING + SMART + SOLAR
+(₹14.31 Lakhs)
+5A. ELECTRICAL SYSTEM (₹11.84 Lakhs)
+Core Electrical Infrastructure
+Item
+Specification
+Quantity
+Cost (₹)
+Cables 1870m total
+2.5mm, 4mm, 6mm Polycab FR-LSH
+-
+48,940
+Conduits + Boxes
+25mm, 32mm, 40mm PVC
+-
+29,420
+Distribution Board
+Havells 16-way with MCBs, RCCB
+1
+8,945
+Switches + Sockets
+Schneider Livia 28sw + 42 sockets + USB
+-
+20,115
+Earthing System
+2 copper electrodes + 120m wire
+-
+10,000
+Lighting Fixtures
+LED panels, battens, spots, strips
+-
+38,340
+BLDC Fans (8 nos)
+Atomberg Renesa + Crompton
+8
+28,892
+Installation Labour
+18 days electrician + testing
+-
+37,100
+SUBTOTAL ELECTRICAL
+2,21,752
+Detailed Lighting Plan
+Location
+Fixture
+Wattage
+Qty
+Cost (₹)
+Family Hall
+Chandelier + 8 Recessed + Cove
+150W
+1 set
+9,240
+BR1
+6 Recessed + Cove + Task
+80W
+1 set
+5,420
+BR2
+4 Recessed
+28W
+1 set
+1,520
+Guest Room
+4 Recessed
+28W
+1 set
+1,520
+Kitchen
+2 Panels + Under-cabinet
+44W
+1 set
+1,820
+Bathrooms (3)
+Ceiling + Vanity + Exhaust
+46W each
+3
+8,820
+
+
+--- PAGE 7 ---
+Location
+Fixture
+Wattage
+Qty
+Cost (₹)
+Puja Room
+3 Recessed + Cove
+35W
+1 set
+2,100
+Corridor
+4 Bulkheads
+36W
+1 set
+1,440
+Staircase
+Step lights
+15W
+1 set
+900
+Exterior
+Gate + Facade + Porch
+95W
+1 set
+5,560
+TOTAL LIGHTING
+38,340
+5B. PLUMBING SYSTEM (₹5.70 Lakhs - included in electrical total)
+Item
+Specification
+Quantity
+Cost (₹)
+CPVC Pipes
+Astral 15mm, 20mm, 25mm hot-cold
+180m
+28,800
+PVC Drainage
+110mm main + 75mm branch
+120m
+18,000
+Water Tank
+Sintex 1000L overhead
+1
+12,000
+CP Fittings (Bathroom 1)
+Jaquar premium (bath + basin + closet)
+1 set
+28,000
+CP Fittings (Bathroom 2+3)
+Cera standard (bath + basin + closet)
+2 sets
+36,000
+Kitchen CP
+Jaquar sink mixer + accessories
+1 set
+12,500
+Sanitary Ware
+Hindware/Cera closets (3) + basins (3)
+3+3
+45,000
+Water Heater
+Racold 15L geyser × 3
+3
+27,000
+Labour
+Plumber + helper 3 weeks
+-
+22,700
+SUBTOTAL PLUMBING
+2,30,000
+5C. SMART SYSTEMS (₹1.50 Lakhs)
+Component
+Model/Spec
+Qty
+Cost (₹)
+3-Camera CCTV
+3 Hikvision 2K cameras + 4CH NVR + 1TB HDD
+1 set
+18,000
+JBL Audio
+4 JBL in-ceiling speakers + Bluetooth Amp
+1 set
+75,000
+Smart Lighting
+Sonoff/Tuya concealed smart switches
+10
+27,000
+Network
+TP-Link router + cables
+1
+5,000
+Installation
+Integration + setup
+-
+25,000
+SUBTOTAL SMART
+1,50,000
+
+
+--- PAGE 8 ---
+5D. SOLAR POWER SYSTEM (₹97,000 net after subsidy)
+Component
+Specification
+Cost (₹)
+3kW Solar Panels
+6×500W Mono PERC (Waaree/Tata)
+1,20,000
+On-Grid Inverter
+3kW single-phase (Growatt)
+32,000
+Mounting Structure
+GI elevated structure
+12,000
+Installation + Net Meter
+AC/DC wiring + DISCOM approval
+25,000
+GROSS COST
+1,89,000
+PM Surya Ghar Subsidy
+Direct DBT transfer
+-78,000
+NET COST SOLAR
+97,000
+PHASE 5 TOTAL: ₹2,21,752 + ₹2,30,000 + ₹1,50,000 + ₹97,000 = ₹14,31,000 ✓
+PHASE 6: PAINT & CEILING (₹9.44 Lakhs)
+Overview
+Premium textured paint + false ceiling in key areas.
+Detailed Breakdown
+Item
+Specification
+Area
+Rate
+Cost (₹)
+Interior Paint
+Asian Paints Royale (2 coats + primer)
+8,200 sq ft
+₹45/sqft
+3,69,000
+Exterior Paint
+Asian Paints Apex Ultima textured
+2,160 sq ft
+₹65/sqft
+1,40,400
+False Ceiling POP
+Family Hall + BR1
+420 sq ft
+₹180/sqft
+75,600
+False Ceiling Gypsum
+Corridor + other areas
+600 sq ft
+₹120/sqft
+72,000
+Putty
+Wall care putty 2 coats
+10,360 sq ft
+₹25/sqft
+2,59,000
+Cove Lighting
+LED strips in false ceiling
+80m
+₹350/m
+28,000
+Labour
+Painter + helper 4 weeks
+-
+-
+2,00,000
+TOTAL PHASE 6
+9,44,000
+Key Specifications
+
+
+--- PAGE 9 ---
+Interior: Light beige/cream walls, white ceiling
+Exterior: Textured grey-white (IMG_9150 style)
+False Ceiling: POP (Plaster of Paris) for premium areas, Gypsum for others
+Paint Brand: Asian Paints Royale Shyne (washable, silk finish)
+PHASE 7: KITCHEN & INTERIORS (₹6.15 Lakhs)
+Overview
+L-shaped modular kitchen + 3 bedroom wardrobes.
+Detailed Breakdown
+Item
+Specification
+Size
+Cost (₹)
+Kitchen Base Units
+Pre-laminated particle board with soft-close
+12 ft run
+1,80,000
+Kitchen Wall Units
+Matching finish with glass shutters
+10 ft run
+1,20,000
+Kitchen Countertop
+Granite black pearl 25mm thick
+16 sq ft
+28,000
+Kitchen Sink
+Carysil undermount single bowl + drain board
+1
+8,500
+Kitchen Accessories
+Basket, cutlery tray, bottle holder
+Set
+12,000
+Chimney
+Faber 60cm auto-clean
+1
+18,000
+BR1 Wardrobe
+6-door sliding laminated wardrobe
+8×7 ft
+65,000
+BR2 Wardrobe
+4-door hinged wardrobe
+6×7 ft
+45,000
+Guest Wardrobe
+4-door hinged wardrobe
+6×7 ft
+45,000
+Installation
+Carpenter + helper 3 weeks
+-
+53,500
+TOTAL PHASE 7
+6,15,000
+Key Specifications
+Kitchen: Semi-modular (not fully custom, cost-effective)
+Finish: White/ivory gloss with SS handles
+Wardrobe: Pre-laminated particle board with laminate exterior
+Hardware: Hettich/Ebco hinges and slides
+
+
+--- PAGE 10 ---
+PHASE 8: EXTERIOR PREMIUM (₹7.15 Lakhs)
+Overview
+Modern premium exterior matching IMG_9150 design.
+Detailed Breakdown
+Component
+Specification
+Cost (₹)
+Exterior Textured Paint
+Asian Paints Apex Ultima grey-white 2,160 sq ft
+1,25,000
+Modern Steel Gate
+12ft sliding powder-coated motorized
+1,20,000
+Balcony SS Railings
+MS powder-coated railings 10ft wide
+80,000
+Driveway Pavers
+250 sq ft vitrified pavers
+50,000
+Compound Wall Finish
+Plaster + textured paint 60ft
+1,00,000
+Exterior LED Lights
+6 wall spots + gate uplights
+50,000
+Name Board
+LED illuminated "Patel Mansion"
+25,000
+Basic Landscaping
+Turf + 10 shrubs + drip irrigation
+75,000
+Window Frames Finish
+UPVC grey powder coating
+65,000
+Main Door Premium
+Teak veneer + PU polish
+25,000
+TOTAL PHASE 8
+7,15,000
+Key Features
+Color Scheme: Grey-white textured exterior (matches IMG_9150)
+Gate: Motorized sliding with LED perimeter glow
+Balcony: Powder-coated MS railings (stainless steel look)
+Lighting: Modern LED uplights + facade wash
+20-WEEK CONSTRUCTION TIMELINE
+Week
+Phase
+Activity
+Payment
+1-2
+Phase 1
+Site prep + Foundation + Footings
+15% advance (₹12.95L)
+
+
+--- PAGE 11 ---
+Week
+Phase
+Activity
+Payment
+3-5
+Phase 1
+GF Columns + Beams + Slab
+20% on GF (₹17.27L)
+6-8
+Phase 1
+FF Columns + Beams + Slab
+15% on FF (₹12.95L)
+9-10
+Phase 1
+Roof Slab + Waterproofing
+10% on roof (₹8.63L)
+11-13
+Phase 2
+Walls + Plumbing concealed
+10% on walls (₹8.63L)
+14-15
+Phase 2+3
+Plaster + Windows + Doors
+5% on shell (₹4.32L)
+16
+Phase 4
+Tiles all rooms
+10% on finishing (₹8.63L)
+17
+Phase 6
+Paint + False Ceiling
+-
+18
+Phase 5+7
+Electrical + Kitchen + Wardrobes
+5% on interiors (₹4.32L)
+19
+Phase 5
+CP Fittings + Electrical finishing
+5% completion (₹4.32L)
+20
+Phase 8
+Exterior + Solar + Cleaning + Handover
+5% final (₹4.32L)
+Total: 100% = ₹86.35 Lakhs
+MATERIAL BRANDS & SPECIFICATIONS
+Structural Materials
+Cement: UltraTech/ACC OPC 53 Grade
+Steel: SAIL/TATA Fe500D TMT bars
+Concrete: M20 grade (1:1.5:3 ratio)
+Blocks: Ultratech/TATA AAC blocks
+Finishing Materials
+Paint: Asian Paints (Royale interior, Apex Ultima exterior)
+Tiles: Kajaria/Somany vitrified tiles
+Doors: Teak/Blockboard with Hettich hardware
+Windows: Fenesta UPVC Golden Oak
+Electrical & Plumbing
+Wires: Polycab/Finolex FR-LSH
+Switches: Schneider Livia
+Pipes: Astral CPVC
+
+
+--- PAGE 12 ---
+CP Fittings: Jaquar (premium), Cera (standard)
+Sanitary: Hindware/Cera
+Smart Systems
+CCTV: Hikvision 2K cameras
+Audio: JBL professional ceiling speakers
+Solar: Waaree 500W mono PERC panels
+FLOOR-WISE ROOM LAYOUT
+Ground Floor (1,260 sq ft)
+Parking area (open)
+Store room
+Basic lighting + fans only
+Minimal electrical infrastructure
+First Floor (Main Living - 1,800 sq ft)
+1. Family Hall - 240 sq ft (entertainment hub, chandelier, JBL audio)
+2. Master Bedroom (BR1) - 180 sq ft + attached bathroom
+3. Bedroom 2 (BR2) - 150 sq ft + attached bathroom
+4. Guest Room - 120 sq ft + attached bathroom
+5. Kitchen - 120 sq ft (L-shaped modular)
+6. Puja Room - 80 sq ft
+7. Corridor - connecting all rooms
+8. Balcony - 120 sq ft with SS railings
+Roof (1,800 sq ft)
+Open terrace
+Solar panels (3kW on 300 sq ft)
+Water tank area
+KEY CONTACT & PROCUREMENT
+Major Suppliers
+
+
+--- PAGE 13 ---
+Cement/Steel: Local Bhabua dealers (Patna wholesale backup)
+Electrical: Authorized Polycab/Schneider dealers Patna
+UPVC Windows: Fenesta showroom Patna
+Tiles: Kajaria/Somany exclusive showroom
+Doors/Hardware: Hettich dealer + local carpenter
+Solar: PM Surya Ghar empaneled installer
+Smart Systems: Online (Amazon India) + local IT vendor
+Contractor Requirements
+Licensed contractor with 5+ years G+1 experience
+Must provide material test certificates
+Weekly site progress photos mandatory
+Payment linked to milestone completion
+10% retention for 6 months post-handover
+QUALITY CHECKPOINTS
+Phase 1
+✓ Soil test before foundation
+✓ Steel test certificate (Fe500D verification)
+✓ Concrete slump test (120mm target)
+✓ Column verticality (plumb within 10mm)
+Phase 2
+✓ Wall thickness verification (4"/6" blocks)
+✓ Plaster thickness check (12mm/16mm)
+✓ Door frame alignment
+Phase 3-4
+✓ Window water leakage test
+✓ Tile level check (2mm/m tolerance)
+Phase 5
+✓ Earthing resistance test (<5 ohms)
+
+
+--- PAGE 14 ---
+✓ RCCB trip test (30mA)
+✓ Plumbing pressure test (24 hours)
+Phase 6-7
+✓ Paint finish inspection
+✓ Kitchen countertop level
+Phase 8
+✓ Solar net meter commissioning
+✓ Final electrical safety audit
+COST PER SQUARE FOOT ANALYSIS
+Category
+Cost (₹)
+Per Sq Ft (4,860 sqft)
+Structure (Phase 1)
+27,45,000
+₹565
+Walls/Doors (Phase 2)
+14,33,000
+₹295
+Windows (Phase 3)
+95,000
+₹20
+Tiles (Phase 4)
+4,07,000
+₹84
+Elec/Plumb/Smart/Solar (Phase 5)
+14,31,000
+₹294
+Paint/Ceiling (Phase 6)
+9,44,000
+₹194
+Kitchen/Interiors (Phase 7)
+6,15,000
+₹127
+Construction Total (Phases 1-7)
+75,70,000
+₹1,557
+Exterior Premium (Phase 8)
+7,15,000
+₹147
+Architect + Furniture + Permits
+3,50,000
+₹72
+GRAND TOTAL
+86,35,000
+₹1,776
+Construction rate ₹1,557/sqft places this in premium segment for Bihar (2026 rates).
+WARRANTY & MAINTENANCE
+Structural Warranty
+
+
+--- PAGE 15 ---
+Foundation/Structure: 10 years (contractor guarantee)
+Waterproofing: 5 years
+Material Warranty
+Paint: 5 years (Asian Paints)
+UPVC Windows: 10 years (Fenesta)
+Tiles: 10 years (Kajaria)
+Electrical: 10 years (Polycab cables), 2 years (Schneider switches)
+Plumbing: 10 years (Astral pipes)
+Solar: 25 years panels, 5 years inverter
+Smart Lock: 1 year (Atomberg)
+CCTV: 3 years (Hikvision)
+Annual Maintenance (Post-Handover)
+Electrical safety audit: ₹5,000
+Plumbing inspection: ₹3,000
+Solar panel cleaning: ₹2,500
+Paint touch-up: ₹8,000
+Total Annual: ₹18,500
+DOCUMENT PREPARED FOR: Harsh Patel
+
+PREPARED BY: Perplexity AI Assistant
+
+DATE: March 14, 2026
+
+VERSION: 1.0 Final
+
+STATUS: Ready for Contractor Tender
+This document contains complete specifications with exact costs, materials, brands, and quantities
+for contractor quotation. All phases verified, all costs calculated, ready for immediate construction
+commencement.
+EXTRACTED CONTENT END
+
+==================== SOURCE 6 ====================
+FILE: Phase 1 Phase 2 Construction Cost.pdf
+TYPE: pdf
+DETAILS:
+{
+  "pages": 12,
+  "metadata": {
+    "format": "PDF 1.4",
+    "creator": "Chromium",
+    "producer": "Skia/PDF m127",
+    "creationDate": "D:20260313162905+00'00'",
+    "modDate": "D:20260313162905+00'00'"
+  },
+  "file_size_bytes": 425285
+}
+
+EXTRACTED CONTENT START
+--- PAGE 1 ---
+Document Date: March 13, 2026
+Project Owner: Harsh
+Total Budget: ₹85,00,000
+Phase 1 + 2 Cost: ₹37,89,699 (44.6% of budget)
+This document provides a complete, material-level breakdown of
+Phase 1 (Foundation & Structure) and Phase 2 (Walls, Plaster &
+Doors) for Patel Mansion construction project in Bhabua, Bihar.
+Phase
+Scope
+Cost
+% of Total
+Budget
+Phase 1
+Foundation, columns,
+beams, slabs
+₹29,84,
+200
+35.1%
+Phase 2
+Walls, plaster, 11 doors
+₹8,05,4
+99
+9.5%
+Combin
+ed
+Complete structural
+shell
+₹37,89,
+699
+44.6%
+PHASE 1 & PHASE 2
+CONSTRUCTION COST
+Patel Mansion - 30×60 G+1, Bhabua, Bihar
+EXECUTIVE SUMMARY
+Quick Overview
+Key Specifications
+30 footings (4×4 ft, 5 ft deep, M25 concrete)
+•
+30 columns (9×12 inches, Fe500D steel)
+•
+Beams (9×18 inches, M20 concrete)
+•
+Slabs (5 inches thick, M20 concrete)
+•
+
+
+--- PAGE 2 ---
+Phase 1 creates the complete RCC skeleton from ground excavation to
+roof-level structural completion.
+Material
+Quantity
+Rate
+Cost
+Steel (Tata Tiscon Fe500D)
+16.1 MT
+₹62,000/MT
+₹9,98,200
+Cement (UltraTech PPC)
+1,100 bags
+₹400/bag
+₹4,40,000
+Sand (Son/Kaimur Zone
+II)
+2,200 cft
+₹55/cft
+₹1,21,000
+Crushed Aggregate
+(20mm)
+3,400 cft
+₹60/cft
+₹2,04,000
+Shuttering & Centering
+4,500 sq ft
+₹104/sq ft
+₹4,68,000
+RCC Labour
+Lump
+sum
+---
+₹4,28,000
+Excavation & Backfilling
+Lump
+sum
+---
+₹1,40,000
+Consumables & Hardware
+Lump
+sum
+---
+₹1,85,000
+TOTAL
+₹29,84,200
+Table 1: Phase 1 Material-wise Cost Distribution
+UltraTech PPC cement only
+•
+Tata Tiscon Fe500D steel only
+•
+AAC blocks for outer walls, fly ash bricks for inner walls
+•
+11 premium doors with Atomberg smart lock on main entrance
+•
+PHASE 1: FOUNDATION & STRUCTURE
+Total Cost: ₹29,84,200
+Material-wise Breakdown
+Stage-wise Breakdown
+
+
+--- PAGE 3 ---
+Stage
+Description
+Cost
+Pre-start
+Site cleaning, layout marking, temp
+water/power
+₹45,000
+Excavation
+Pit excavation for 30 footings, soil
+disposal, leveling
+₹1,55,000
+Foundation
+base
+PCC bed material, labour, anti-
+termite treatment
+₹1,18,000
+Footings
+RCC footings (30 nos), steel,
+shuttering, M25 concrete
+₹4,65,000
+Pedestal/neck
+Column starters, pedestal steel,
+concrete, labour
+₹80,000
+Plinth beam
+Beam steel, shuttering, M20
+concrete, backfilling
+₹2,57,000
+Columns
+Column steel, shuttering, M20
+concrete (30 nos)
+₹5,06,000
+Beams
+Beam steel, shuttering/centering,
+M20 concrete
+₹7,20,000
+Slabs
+Slab steel, centering, M20 concrete,
+labour, curing
+₹8,13,000
+General RCC
+Mixer/vibrator hire, testing,
+scaffolding, wastage
+₹2,39,000
+PHASE 1
+TOTAL
+₹29,84,200
+Table 2: Phase 1 Stage-wise Cost Distribution
+The three largest cost components in Phase 1:
+1. Steel (Tata Tiscon Fe500D): ₹9,98,200 (33.4% of Phase 1) --- 16.1
+metric tons total
+2. Concrete Materials (Cement/Sand/Aggregate): ₹7,65,000
+(25.6% of Phase 1)
+3. Shuttering & Centering: ₹4,68,000 (15.7% of Phase 1)
+Phase 1 Cost Drivers
+
+
+--- PAGE 4 ---
+Phase 2 transforms the bare RCC skeleton into a fully enclosed shell
+with all doors installed.
+Quality Control Checkpoints
+Verify steel diameter, spacing, and cover blocks before each RCC
+pour
+•
+Insist on proper curing (14 days minimum for columns/beams,
+28 days for slabs)
+•
+Do not allow contractor to substitute Tata Tiscon Fe500D or
+UltraTech PPC
+•
+Monitor shuttering alignment and level before concrete casting
+•
+Track actual steel consumption against 16.1 MT budget
+•
+Track actual cement consumption against 1,100 bags budget
+•
+PHASE 2: WALLS, PLASTER & DOORS
+Total Cost: ₹8,05,499
+Complete Item Breakdown
+
+
+--- PAGE 5 ---
+Item
+Description
+Specification
+Cost
+AAC outer
+walls
+External perimeter
+walls
+2,800 blocks @
+₹50
+₹1,40,000
+AAC labour
+Masonry labour for
+AAC
+Lump sum
+₹45,000
+Fly ash inner
+walls
+Internal partitions
+18,000 bricks @
+₹9
+₹1,62,000
+Fly ash
+labour
+Masonry labour for
+bricks
+Lump sum
+₹78,000
+Internal
+plaster
+1:4 mix, 2 coats
+~280 bags
+cement + sand
+₹1,25,000
+External
+plaster
+1:6 mix +
+waterproofing
+~180 bags
+cement + sand
+₹95,000
+Main door
+Solid Teak 4-panel
+7.5×3.5 ft
+Atomberg smart
+lock
+₹37,899
+Bedroom
+doors (3)
+Walnut groove
+laminate 7.5×3 ft
+BR1, BR2, Guest
+₹40,800
+Kitchen door
+Ivory gloss flush
+7×3 ft
+Hettich matte
+black
+₹12,600
+Bathroom
+doors (3)
+WPC waterproof
+7×2.5 ft
+Godrej NEH
+₹28,200
+Puja door
+Frosted glass panel
+7×2.5 ft
+Hettich satin
+gold
+₹10,200
+Store door
+Basic hollow core
+7×2.5 ft
+Basic hardware
+₹2,800
+Door frames
+& fitting
+Sal wood frames,
+hinges
+11 doors total
+₹28,000
+PHASE 2
+TOTAL
+₹8,05,499
+Table 3: Phase 2 Complete Item-wise Breakdown
+Phase 2 Summary by Category
+
+
+--- PAGE 6 ---
+Category
+Amount
+AAC Blocks (Outer walls)
+₹1,85,000
+Fly Ash Bricks (Inner walls)
+₹2,40,000
+Plaster (Internal + External)
+₹2,20,000
+Doors (11 nos with hardware)
+₹1,60,499
+PHASE 2 TOTAL
+₹8,05,499
+Table 4: Phase 2 Category-wise Summary
+Main Entrance Door:
+Bedroom Doors (BR1, BR2, Guest - 3 nos):
+Kitchen Door:
+Bathroom Doors (3 nos):
+Door Specifications (11 Doors Total)
+Material: Solid Teak 4-panel design
+•
+Size: 7.5×3.5 ft (premium height)
+•
+Frame: Sal wood
+•
+Hardware: Ozone D-pull, Atomberg Azhero smart lock
+(fingerprint/PIN/app/NFC), Hettich hinges
+•
+Cost: ₹37,899
+•
+Material: Blockboard with Walnut groove laminate
+•
+Size: 7.5×3 ft
+•
+Frame: Sal wood
+•
+Hardware: Hettich lever matte black, Dorset lock, Hettich hinges
+•
+Cost: ₹40,800 total (₹13,600 each)
+•
+Material: Blockboard Ivory gloss flush
+•
+Size: 7×3 ft
+•
+Hardware: Hettich lever matte black, Dorset lock
+•
+Cost: ₹12,600
+•
+Material: WPC (Wood Plastic Composite) - 100% waterproof
+•
+Size: 7×2.5 ft
+•
+Frame: WPC frame
+•
+
+
+--- PAGE 7 ---
+Puja Room Door:
+Store Room Door:
+Cement for Plaster:
+Sand for Plaster:
+Wall Materials:
+Hardware: Godrej NEH lever matte black, turn-knob lock
+•
+Cost: ₹28,200 total (₹9,400 each)
+•
+Material: Flush with frosted glass panel
+•
+Size: 7×2.5 ft
+•
+Hardware: Hettich satin gold handle
+•
+Cost: ₹10,200
+•
+Material: Basic hollow core flush
+•
+Size: 7×2.5 ft
+•
+Hardware: Basic handle and lock
+•
+Cost: ₹2,800
+•
+Phase 2 Material Requirements
+Internal plaster (1:4 mix): ~280 bags UltraTech PPC
+•
+External plaster (1:6 mix): ~180 bags UltraTech PPC
+•
+Total plaster cement: ~460 bags
+•
+Total sand requirement: ~1,100 cubic feet (Son/Kaimur Zone II)
+•
+AAC blocks (outer walls): ~2,800 blocks @ ₹50/block
+•
+Fly ash bricks (inner walls): ~18,000 bricks @ ₹9/brick
+•
+COMBINED PHASE 1 + PHASE 2 ANALYSIS
+Cost Summary
+
+
+--- PAGE 8 ---
+Phase
+Cost
+% of ₹85L Budget
+Phase 1 - Foundation & Structure
+₹29,84,200
+35.1%
+Phase 2 - Walls, Plaster & Doors
+₹8,05,499
+9.5%
+Combined Total
+₹37,89,699
+44.6%
+Remaining budget for Phases 3-8
+₹47,10,301
+55.4%
+Table 5: Combined Phase 1 + 2 Budget Analysis
+At ₹37.89 lakh for Phase 1 + 2, you have consumed 44.6% of your ₹85
+lakh total budget with the structural shell complete.
+Remaining phases:
+Remaining budget: ₹47,10,301 (55.4%)
+This is a healthy position. The structural foundation represents the
+largest single cost block, and you are tracking within budget targets.
+Phase 1 Payment Schedule:
+Milestone
+Work Complete
+Payment
+Release 1
+Excavation + PCC bed complete
+₹2,50,000
+Release 2
+Footings + plinth beam complete
+₹7,00,000
+Release 3
+Columns + beams complete
+₹9,00,000
+Release 4
+All slabs complete
+₹11,34,200
+Phase 1 Total
+₹29,84,200
+Table 6: Phase 1 Milestone-based Payment Schedule
+Budget Health Check
+Phase 3: Windows & Glazing
+•
+Phase 4: Tiles & Flooring
+•
+Phase 5: Electrical & Plumbing
+•
+Phase 6: Paint & False Ceiling
+•
+Phase 7: Kitchen & Wardrobes
+•
+Phase 8: External Works & Overheads
+•
+Payment Milestones
+
+
+--- PAGE 9 ---
+Phase 2 Payment Schedule:
+Milestone
+Work Complete
+Payment
+Release 1
+AAC + fly ash walls complete
+₹4,25,000
+Release 2
+Internal + external plaster complete
+₹2,20,000
+Release 3
+All 11 doors fitted with hardware
+₹1,60,499
+Phase 2 Total
+₹8,05,499
+Table 7: Phase 2 Milestone-based Payment Schedule
+For Phase 1:
+1. Never allow steel or cement brand substitution
+2. Track actual consumption against budgeted quantities (16.1 MT
+steel, 1,100 bags cement)
+3. Insist on proper curing duration (14-28 days)
+4. Verify concrete grade before each pour (M25 for footings, M20
+for rest)
+5. Check shuttering alignment and level
+For Phase 2:
+1. Verify AAC block quality (lightweight, uniform size)
+2. Check plaster mix ratio (1:4 internal, 1:6 external)
+3. Confirm Atomberg smart lock model (Azhero series)
+4. Verify WPC doors for bathrooms (100% waterproof)
+5. Check all door hardware is matte black (except Puja - satin gold)
+Week 1-2 (Pre-start):
+Critical Control Points
+PROCUREMENT SCHEDULE
+Phase 1 Material Procurement
+Order steel: 16.1 MT Tata Tiscon Fe500D (bulk order from Patna
+dealer)
+•
+Order cement: 1,100 bags UltraTech PPC
+•
+Arrange sand: 2,200 cft Son/Kaimur Zone II
+•
+
+
+--- PAGE 10 ---
+Week 3-8 (Foundation work):
+Week 9-11 (Walls):
+Week 12-14 (Doors):
+Material
+Recommended Vendor
+Steel (Tata Tiscon)
+Bulk dealer in Patna (₹54-58/kg for 5+ MT
+orders)
+Cement (UltraTech
+PPC)
+Authorized dealer Bhabua/Patna
+Sand
+Son or Kaimur river suppliers
+Aggregate
+Mohania/Sasaram quarries
+Shuttering
+Local plywood dealers (Greenply/Century)
+Arrange aggregate: 3,400 cft 20mm crushed
+•
+Shuttering material rental/purchase
+•
+Binding wire, cover blocks, consumables
+•
+Concrete mixer and vibrator hire
+•
+Phase 2 Material Procurement
+AAC blocks: 2,800 nos
+•
+Fly ash bricks: 18,000 nos
+•
+Cement for plaster: 460 bags UltraTech PPC
+•
+Sand for plaster: 1,100 cft
+•
+Main door: Order Teak 4-panel + Atomberg Azhero lock
+•
+Bedroom doors: Order Walnut groove laminate (3 nos)
+•
+Kitchen door: Order Ivory gloss flush
+•
+Bathroom doors: Order WPC waterproof (3 nos)
+•
+Puja & Store doors: Order as per spec
+•
+All hardware: Hettich, Godrej, Ozone
+•
+VENDOR RECOMMENDATIONS
+Phase 1 Vendors
+
+
+--- PAGE 11 ---
+Table 8: Phase 1 Vendor Guide
+Item
+Recommended Vendor
+AAC blocks
+Local AAC block manufacturers
+Bhabua/Patna
+Fly ash bricks
+Local brick kilns Bhabua
+Teak door
+Ozone dealers Patna (ozone.in)
+Door hardware
+Hettich authorized dealer Patna
+Atomberg smart
+lock
+Amazon India or atomberg.com
+WPC doors
+Godrej dealer (NEH series)
+Table 9: Phase 2 Vendor Guide
+Phase 1 Duration: 14 weeks (Weeks 1-14)
+Phase 2 Duration: 6 weeks (Weeks 11-16, parallel with Phase 1)
+Combined Timeline: 16 weeks from site start to Phase 2 completion
+Document Version: 1.0
+Prepared For: Harsh, Patel Mansion Project
+Location: Bhabua, Kaimur District, Bihar
+Phase 2 Vendors
+TIMELINE ESTIMATE
+Weeks 1-2: Site preparation, excavation, PCC
+•
+Weeks 3-5: Footings and plinth beam
+•
+Weeks 6-10: Columns and beams (GF + FF)
+•
+Weeks 11-14: Slabs and curing
+•
+Weeks 11-13: Wall construction (AAC + fly ash)
+•
+Weeks 14-15: Internal and external plaster
+•
+Weeks 15-16: Door installation and hardware fitting
+•
+DOCUMENT CONTROL
+
+
+--- PAGE 12 ---
+Date: March 13, 2026
+Prepared By: Construction Planning Team
+Usage:
+Next Steps:
+1. Confirm Phase 1 and Phase 2 specifications
+2. Obtain contractor quotations against this detailed breakdown
+3. Finalize vendor selection for steel and cement
+4. Proceed with Phase 3 planning (Windows & Glazing)
+All prices current as of March 2026. Obtain fresh local quotes
+before ordering.
+Hand this document to contractor for quotation reference
+•
+Use for material procurement planning
+•
+Track actual costs against budgeted amounts
+•
+Monitor milestone completion for payment releases
+•
+EXTRACTED CONTENT END
+
+==================== SOURCE 7 ====================
+FILE: PHASE_8_EXTERIOR_FINISHING_COMPLETE.pdf
+TYPE: pdf
+DETAILS:
+{
+  "pages": 8,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "(anonymous)",
+    "author": "(anonymous)",
+    "subject": "(unspecified)",
+    "creator": "(unspecified)",
+    "producer": "ReportLab PDF Library - www.reportlab.com",
+    "creationDate": "D:20260314085840+00'00'",
+    "modDate": "D:20260314085840+00'00'"
+  },
+  "file_size_bytes": 14424
+}
+
+EXTRACTED CONTENT START
+--- PAGE 1 ---
+PHASE 8 & EXTERIOR FINISHING
+Premium Modern Exterior Design
+30×60 G+1 Patel Mansion | Bhabua, Bihar
+I8 Lakh Budget | I80 Lakh Look
+March 2026
+PROJECT PARAMETERS
+Parameter
+Specification
+Plot Size
+30×60 ft (1,800 sq ft)
+Construction Type
+G+1 (Ground + First Floor)
+Total Built-up Area
+4,860 sq ft
+Front Facade
+30 ft wide × 20 ft height
+Exterior Wall Area
+2,160 sq ft
+Phase 8 Budget
+I8,00,000 (Exterior Finishes Only)
+Design Goal
+Modern Premium (I80L Look)
+Color Palette
+Grey-White + Wood + Stone + Glass
+
+
+--- PAGE 2 ---
+THE I8 LAKH MASTERPIECE DESIGN
+Strategic allocation: 86% premium finishes, 10% lighting, 4% door enhancement. Zero
+landscaping—pure architectural luxury.
+Component
+Specification
+Cost (I)
+ROI Impact
+Weatherproof Plaster
+16mm double-coat waterproofing
+1,30,000
+Flawless base for premium paint
+Apex Ultima Paint
+Grey-white silicone texture (2,160 sq ft)
+1,20,000
+High-end matte finish, 10yr durability
+Premium Cladding
+Quartzite stone pillars + HPL wood strips
+1,40,000
+3D architectural depth—I20L+ look
+Motorized Gate
+12ft matte black sliding MS block-design
+1,10,000
+Luxury entrance statement
+Frameless Glass Railing
+12mm toughened glass (10ft balcony)
+85,000
+Modern floating balcony effect
+Driveway Tiles
+Heavy-duty vitrified grey-black (250 sq ft)
+65,000
+Extends luxury to street level
+Porch Ceiling
+PVC wood-finish panels under balcony
+40,000
+Hidden luxury overhead detail
+Architectural LED
+Embedded profiles + wall washers (9.4%)
+75,000
+Dramatic night transformation
+Door Finish
+Teak PU high-gloss + brass plate (4.4%)
+35,000
+Mirror-finish entry focal point
+PHASE 8 TOTAL
+I8,00,000
+
+
+--- PAGE 3 ---
+DESIGN PHILOSOPHY: THE '80 LAKH LOOK'
+1. Multi-Texture Layering: Four distinct surface textures on the 30ft facade create visual
+complexity that signals custom architecture: (a) Smooth frameless glass, (b) Warm wood accents,
+(c) Rough stone pillars, (d) Matte textured paint.
+2. Material Honesty: Using premium real materials (quartzite stone, toughened glass, PU-finished
+teak) instead of cheap imitations. Architects charge I50L+ for this authenticity.
+3. Zero Visual Clutter: No decorative grills, no painted iron gates, no cheap ceramic tiles. Clean
+lines, minimal details, maximum impact.
+4. Strategic Lighting: Embedded LED profiles inside plaster channels create sharp shadow lines
+at night—the signature of high-end commercial architecture.
+5. Invisible Quality: The I2.5L spent on waterproof plaster + premium paint base is invisible but
+ensures laser-straight walls and 10-year durability.
+
+
+--- PAGE 4 ---
+TECHNICAL SPECIFICATIONS
+A. PLASTER & PAINT SYSTEM
+Layer
+Material
+Thickness
+Purpose
+Base Coat
+Cement:Sand 1:4 + waterproofing
+12mm
+Level uneven brickwork
+Finish Coat
+Cement:Sand 1:6 smooth trowel
+4mm
+Create paint-ready surface
+Primer
+Asian Paints Primer + Sealant
+2 coats
+Seal moisture, improve adhesion
+Paint Layer 1
+Apex Ultima base coat
+1 coat
+Color foundation
+Paint Layer 2
+Apex Ultima textured topcoat
+1 coat
+Weather-resistant matte finish
+B. PREMIUM FACADE CLADDING
+Material
+Location
+Area
+Installation Method
+Grey Quartzite Stone
+Main door pillars (2 nos)
+80 sq ft
+Steel frame + chemical anchor
+HPL Wood Strips
+Front wall accents (vertical)
+60 sq ft
+Aluminum channel mounting
+PVC Wood Panels
+Porch/balcony ceiling
+120 sq ft
+Wooden batten frame
+
+
+--- PAGE 5 ---
+FIXTURES & FITTINGS
+Item
+Brand/Type
+Specification
+Qty
+Cost
+Motorized Gate
+MS Custom Fabrication
+12ft sliding, matte black powder coat, remote
+1
+I1,10,000
+Glass Railing
+Saint-Gobain Toughened
+12mm clear, SS316 base, 10ft length
+1
+I85,000
+Vitrified Tiles
+Kajaria/Johnson
+600×600mm grey-black, anti-skid R11
+250 sq ft
+I65,000
+LED Lighting
+Philips/Havells
+Profile strips 3000K + wall washers
+12 units
+I75,000
+Door Hardware
+Ozone + Hettich
+Brass nameplate + PU polish
+1 set
+I35,000
+INSTALLATION TIMELINE (3 WEEKS)
+Week
+Activity
+Milestone
+Week 1
+External plaster (16mm) + waterproofing + curing
+Walls ready for paint
+Week 2
+Apex Ultima paint (2 coats) + stone/wood cladding installation Facade complete
+Week 3
+Gate installation + glass railing + LED wiring + door polish + tilesPhase 8 handover
+
+
+--- PAGE 6 ---
+INTEGRATION WITH EXISTING PHASES
+Phase 8 complements your locked I78.35L interior/structure investment. Here's how exterior
+elements connect:
+Golden Oak UPVC Windows (Phase 3): Your 13 windows in warm honey-wood tone perfectly
+match the HPL wood strips and PVC ceiling. Unified palette.
+Solid Teak Main Door (Phase 2): The 7.5×3.5ft door with Atomberg smart lock gets enhanced with
+PU high-gloss polish + brass nameplate. Central focal point.
+Solar Panels (Phase 5): 3kW Waaree panels on roof add eco-tech visual—sleek black frames
+complement matte black gate below.
+CCTV Cameras (Phase 5): Hikvision cameras visible on front facade signal security + modernity.
+Works with LED lighting at night.
+Electrical Infrastructure (Phase 5): LED system taps into your 1,870m Polycab cable network +
+Havells MCB distribution already installed.
+
+
+--- PAGE 7 ---
+COMPLETE PROJECT SUMMARY
+Phase Category
+Description
+Cost (I)
+Phases 1-7
+Foundation, structure, walls, interiors, electrical, solar, smart home
+78,35,000
+Phase 8 Exterior
+Premium modern facade (this document)
+8,00,000
+Architect & Permits
+Bhabua local plans + Nagar Panchayat
+1,50,000
+Furniture
+Sofa + dining table (minimal)
+1,00,000
+Permits
+Municipal approvals
+1,00,000
+<b>GRAND TOTAL</b>
+<b>I89,85,000</b>
+Per Sq Ft (4,860 sq ft)
+<b>I1,849/sqft</b>
+KEY HIGHLIGHTS
+ I8 Lakh Investment delivers I80 Lakh Visual Impact through strategic material selection
+ Multi-Texture Design: Glass + Wood + Stone + Textured Paint on single facade
+ Zero Maintenance: Premium materials = 10+ year durability (quartzite, toughened glass, silicone
+paint)
+ Modern Premium Aesthetic: Frameless glass balcony + motorized gate = luxury villa look
+ Night Transformation: Embedded LED architecture creates dramatic evening glow
+ Bihar Climate Optimized: Waterproof plaster + silicone paint handles 45°C summers + heavy
+monsoon
+ Smart Integration: Connects to existing Home Assistant system via LED controls
+ Street Presence: Premium driveway tiles + motorized gate + stone pillars = instant curb appeal
+
+
+--- PAGE 8 ---
+VENDOR CONTACT GUIDE (BHABUA/PATNA)
+Material
+Supplier/Brand
+Location
+Apex Ultima Paint
+Asian Paints Exclusive Store
+Patna
+Quartzite Stone
+Mohania Quarry Dealers
+Kaimur District
+HPL Wood Panels
+Merino/Greenlam Dealer
+Patna
+Toughened Glass
+Saint-Gobain/AIS Glass
+Patna
+MS Gate Fabrication
+Local Bhabua Welders
+Bhabua Market
+Vitrified Tiles
+Kajaria/Johnson Showroom
+Patna
+LED Lighting
+Philips/Havells Distributor
+Patna
+Waterproofing
+Dr. Fixit/Pidilite Products
+Local Hardware
+Document prepared for: Harsh | 30×60 G+1 Patel Mansion | Bhabua, Bihar
+Date: March 14, 2026
+Status: Phase 8 locked at I8.00 Lakhs. Ready for contractor execution.
+EXTRACTED CONTENT END
+
+==================== SOURCE 8 ====================
+FILE: Complete-House-Guide-All-Phases.md
+TYPE: markdown
+DETAILS:
+{
+  "line_count": 844,
+  "char_count": 35095,
+  "file_size_bytes": 35976
+}
+
+EXTRACTED CONTENT START
+# COMPLETE HOUSE CONSTRUCTION GUIDE
+## 30×60 G+1 Premium Home | Bhabua, Bihar
+**Final Updated Document | March 13, 2026, 11:17 PM**  
+**Prepared for: Harsh**
+
+---
+
+# EXECUTIVE SUMMARY
+
+| Parameter | Specification |
+|-----------|--------------|
+| **Plot Size** | 30×60 ft (1,800 sq ft) |
+| **Structure** | G+1 (Ground + First Floor) |
+| **Total Rooms** | 11 (3 BR + Guest + Kitchen + 3 Bath + Puja + Store + Hall) |
+| **Civil Budget** | ₹85-90L (target mid-range) |
+| **Electrical Budget** | **₹2,63,393** (updated with spa bath + modern outdoor) |
+| **Systems Budget** | ₹1,97,326 (smart home + audio + cameras + solar - optional) |
+| **Grand Total** | ₹90-95L (complete turnkey) |
+| **Duration** | 20 weeks (civil) + parallel systems |
+
+---
+
+# TABLE OF CONTENTS
+
+| Phase | Section | Cost Range |
+|-------|---------|------------|
+| **Phase 1** | Foundation & Structure | ₹24.7-30.2L |
+| **Phase 2** | Walls, Plaster & Doors | ₹12.4-15.7L |
+| **Phase 3** | Windows & Glazing | ₹89,260 |
+| **Phase 4** | Tiles & Flooring | ₹2.24L |
+| **Phase 5** | **Electrical (UPDATED) + Plumbing** | **₹8.33-11.33L** |
+| **Phase 6** | Paint & False Ceiling | ₹5.9-8.7L |
+| **Phase 7** | Kitchen & Wardrobes | ₹5.65-8.5L |
+| **Phase 8** | External Works & Overheads | ₹8.2-11.55L |
+| **Optional Systems** | Smart Home + Audio + Cameras + Solar | ₹1,97,326 |
+| **Timeline** | 20-week construction schedule | — |
+| **Maintenance** | Annual maintenance guide | ₹4,600/year |
+
+---
+
+# CONSTRUCTION MATERIALS (All Phases)
+
+## Critical Material Specifications
+
+| Material | Grade/Standard | Brand (Bhabua/Patna) | Price | Quality Check |
+|----------|---------------|---------------------|-------|---------------|
+| **Cement** | PPC IS 1489 Part 1 | UltraTech/Shree PPC | ₹360-400/bag | ISI mark + mfg date <3 months + no lumps |
+| **TMT Steel** | Fe 500D IS 1786 | Shyam Steel/Kamdhenu | ₹51-58/kg | ISI mark on ribs + MTC certificate + bend test |
+| **River Sand** | Zone II IS 383 | Son/Kaimur river | ₹40-60/cft | Silt <8%, no organic, rub test clean |
+| **Aggregate** | 20mm crushed IS 383 | Mohania/Sasaram quarry | ₹800-1,200/ton | Angular, no clay coat, no flat pieces >15% |
+| **Bricks** | First class 10.5N/mm² IS 1077 | Local Bhabua kilns | ₹6-8/brick | Ring test clear, uniform 230x115x75mm |
+| **Water** | Potable IS 456 | Local borewell (pH 7-8) | — | Clear, odourless, drinkable quality |
+| **Formwork** | 18mm BWR Plywood IS 4990 | Greenply/Century | ₹80-100/sqft | No warping, no delamination |
+
+## Concrete Mix Ratios — **USE M20 MINIMUM FOR ALL RCC**
+
+| Grade | Ratio | Water:Cement | Use in Your House | Strength |
+|-------|-------|--------------|-------------------|----------|
+| M15 | 1:2:4 | 0.50 | PCC bed below foundation only | 15 N/mm² |
+| **M20 (MINIMUM)** | **1:1.5:3** | **0.45** | **Foundation, columns, beams, ALL slabs** | **20 N/mm²** |
+| M25 | 1:1:2 | 0.40 | Critical structural if engineer specifies | 25 N/mm² |
+| Mortar 1:6 | — | — | Brickwork masonry IS 2250 | — |
+| Plaster 1:4 | — | — | Internal + external plaster IS 2250 | — |
+
+**CURING RULE:** Wet-cure all concrete minimum 14 days (28 days for roof slab). Bihar summer dries concrete too fast — cover with wet jute + water 3x/day.
+
+---
+
+# PHASE 1: FOUNDATION & STRUCTURE
+**Weeks 1-10 | Cost: ₹24.7-30.2L**
+
+## Scope of Work
+
+| # | Item | Specification | Low | High |
+|---|------|---------------|-----|------|
+| 1 | Excavation + PCC | 30 pits, 5ft deep, M10 bed | ₹2.20L | ₹2.50L |
+| 2 | RCC Footings | M25, Fe500D, 4x4ft x30 nos | ₹4.00L | ₹5.00L |
+| 3 | Plinth Beam | 9"x15", tying all 30 footings, M20 | ₹1.80L | ₹2.20L |
+| 4 | RCC Columns | 30 nos, 9"x12", 20ft height, Fe500D | ₹3.20L | ₹4.00L |
+| 5 | RCC Beams | 9"x18", both GF + FF floors, M20 | ₹4.50L | ₹5.50L |
+| 6 | RCC Slabs x3 | 5" thick M25 — GF + FF + Roof slab | ₹9.00L | ₹11.00L |
+| **PHASE 1 TOTAL** | | | **₹24.70L** | **₹30.20L** |
+
+## Key Decisions
+
+✅ **Fe500D Steel** (not Fe500) — high ductility for Bihar Seismic Zone III  
+✅ **M25 for footings and roof slab** — extra strength for long-term durability  
+✅ **M20 for beams/columns** — acceptable standard, cost-effective  
+❌ **Never use Fe415 bars** even if contractor suggests it
+
+## Timeline (Weeks 1-10)
+
+- **Week 1:** Site clearing, layout marking, soil test
+- **Weeks 2-3:** Excavation + PCC bed + anti-termite treatment
+- **Weeks 4-5:** RCC footings + plinth beam casting
+- **Weeks 6-8:** Column casting GF + beam casting
+- **Weeks 9-10:** GF slab casting + curing 28 days
+
+---
+
+# PHASE 2: WALLS, PLASTER & DOORS
+**Weeks 11-16 | Cost: ₹12.4-15.7L (with our detailed door spec)**
+
+## Scope of Work
+
+| # | Item | Specification | Low | High |
+|---|------|---------------|-----|------|
+| 7 | AAC blocks (outer) + fly ash (inner) | All walls GF + FF | ₹5.50L | ₹6.50L |
+| 8 | Internal + external plaster | 1:4 internal, 1:6 external, 2 coats | ₹2.00L | ₹2.80L |
+| **9-12** | **Doors 11 nos (detailed spec)** | **See door breakdown below** | **₹1.32L** | **₹1.44L** |
+| **PHASE 2 TOTAL** | | | **₹12.40L** | **₹15.70L** |
+
+## Door Specifications (11 nos — Total: ₹1,32,499)
+
+| Door | Specification | Hardware | Cost |
+|------|--------------|----------|------|
+| **Main Entrance** | Solid Teak 4-panel 7.5x3.5 ft + Sal frame | Ozone D-pull + **Atomberg Azhero smart lock** + Hettich hinges | ₹37,899 |
+| **BR1, BR2, Guest (x3)** | Blockboard + Walnut groove laminate 7.5x3 ft + Sal frame | Hettich lever matte black + Dorset lock + Hettich hinges | ₹40,800 |
+| **Kitchen** | Blockboard + Ivory gloss 7x3 ft + Sal frame | Hettich lever + Dorset lock | ₹12,600 |
+| **Bath BR1, BR2, Guest (x3)** | WPC white matte 7x2.5 ft + WPC frame (waterproof) | Godrej NEH matte black + turn-knob lock | ₹28,200 |
+| **Puja Room** | Flush + frosted glass panel 7x2.5 ft | Hettich satin gold handle | ₹10,200 |
+| **Store Room** | Basic hollow core flush 7x2.5 ft | Basic handle + lock | ₹2,800 |
+
+**KEY FEATURES:**
+- Atomberg smart lock (fingerprint/PIN/app/NFC card)
+- Matte black hardware throughout
+- WPC mandatory for bathrooms (100% waterproof)
+- Groove-line laminate creates ₹25K designer look at ₹7K cost
+- 7.5 ft height = premium feel
+
+## Timeline (Weeks 11-16)
+
+- **Weeks 11-13:** GF brickwork + FF columns + beam casting
+- **Week 14:** Roof slab casting + curing
+- **Weeks 14-15:** Internal + external plaster (1:4 / 1:6)
+- **Weeks 15-16:** Door frame fitting + door leaf hanging
+- **Week 16:** Smart lock, handles, hardware fitting
+
+---
+
+# PHASE 3: WINDOWS & GLAZING
+**Weeks 15-16 (Parallel) | Cost: ₹89,260**
+
+## Window Specifications (13 nos — UPVC Golden Oak)
+
+| Room | Type & Size | Glass | Cost |
+|------|------------|-------|------|
+| Family Hall | 3-track sliding 5x4 ft | Bronze tinted 5mm | ₹13,000 |
+| BR1 (2 windows) | 2-track sliding 4x4 ft each + mesh | Bronze tinted 5mm | ₹19,840 |
+| BR2 (2 windows) | 2-track sliding 4x4 ft each + mesh | Bronze tinted 5mm | ₹19,840 |
+| Guest Room | Casement 4x3 ft + mesh | Bronze tinted 5mm | ₹8,160 |
+| Kitchen | Casement 3x3 ft + SS mesh | Clear 5mm | ₹5,850 |
+| Staircase | Fixed panel 4x5 ft (large) | Toughened 6mm | ₹9,600 |
+| Puja Room | Small casement 2x2.5 ft | Clear 5mm | ₹3,250 |
+| Bathrooms (3) | Frosted louvre 2x2 ft each | Frosted 5mm | ₹5,400 |
+| Ground floor | 2-track sliding 3x3 ft | Clear 5mm | ₹4,320 |
+| **TOTAL 13 WINDOWS** | | | **₹89,260** |
+
+**KEY FEATURES:**
+- UPVC Golden Oak wood-finish throughout
+- Warm honey-wood tone matches teak door + honey oak tiles
+- Bronze tinted glass reduces 35-40% heat (critical for Bihar summer)
+- Zinc die-cast satin handles + SS mesh
+- Fenesta brand recommended
+- IP-rated bathroom louvres rain-proof
+
+## Timeline (Weeks 15-16)
+
+- **Week 15 (parallel):** Window frame installation in RCC openings
+- **Week 15-16:** UPVC window glazing + sealing
+
+---
+
+# PHASE 4: TILES & FLOORING
+**Week 16-17 | Cost: ₹2.24L (Mid Kajaria Plan)**
+
+## Tile Specifications (Material + Labour)
+
+| # | Room | Tile — Brand & Model | Area | Rate/sqft | Total |
+|---|------|---------------------|------|-----------|-------|
+| 17 | Family Hall | Kajaria Carrara Beige 800x800 GVT Satin | 306 sqft | ₹120 | ₹36,720 |
+| 18 | 3 Bedrooms | Somany Honey Oak 1200x200mm plank (wood-look) | 350 sqft | ₹123 | ₹43,050 |
+| 19 | 3 Bathrooms (floor+walls) | Kajaria Cratos Grey 400x400 + Crysto White 300x600 | 570 sqft | ₹108 | ₹61,560 |
+| 20 | Kitchen | Kajaria Dark Grey anti-skid 600x600 + glossy dado | 180 sqft | ₹103 | ₹18,540 |
+| 21 | Staircase | Kajaria anti-skid GVT + bullnose edge tiles | 80 sqft | ₹135 | ₹10,800 |
+| 22 | Terrace | Orientbell outdoor porcelain anti-skid 600x600 | 100 sqft | ₹115 | ₹11,500 |
+| **TILES TOTAL** | | | | | **₹1,82,170** |
+| **Labour** | (₹28/sqft avg) | | | | **₹41,440** |
+| **PHASE 4 TOTAL** | (material+labour) | | | | **₹2,23,610** |
+
+**KEY DECISIONS:**
+- Bulk from single Kajaria dealer in Patna = 8-12% discount = ₹1.65-1.75L material cost
+- Hall + bedrooms = mid-tier; do NOT upgrade to premium imported tiles
+- Kajaria looks identical to premium at half the price
+
+## Timeline (Weeks 16-17)
+
+- **Weeks 15-17:** Tile flooring + bathroom wall tiling
+
+---
+
+# PHASE 5: ELECTRICAL (UPDATED) + PLUMBING
+**Weeks 16-18 | Cost: ₹8.33-11.33L**
+
+## 5A. ELECTRICAL SYSTEM (FINAL UPDATED — ₹2,63,393)
+
+**Grand Total Electrical: ₹2,63,393** (replaces civil Phase 5 basic electrical allowance)
+
+### Section 1 — Fans (11 nos — All BLDC with Remote)
+
+| # | Room | Fan Model | Colour | Qty | Unit Price | Total |
+|---|------|-----------|--------|-----|------------|-------|
+| 1 | **Family Hall** | Atomberg Renesa Prime 1200mm | Gloss Black | **2** | 3,399 | **₹6,798** |
+| 2 | Bedroom 1 | Atomberg Renesa 1200mm | Midnight Black | 1 | 3,299 | ₹3,299 |
+| 3 | Bedroom 2 | Atomberg Renesa 1200mm | Ivory | 1 | 3,299 | ₹3,299 |
+| 4 | Guest Room | Crompton Energion Groove BLDC | White | 1 | 3,494 | ₹3,494 |
+| 5 | Kitchen | Crompton Energion Riviera BLDC | White | 1 | 3,080 | ₹3,080 |
+| 6 | Puja Room | Atomberg Renesa 900mm | Ivory | 1 | 3,199 | ₹3,199 |
+| 7 | GF Hall | Crompton Energion Niteo BLDC | White | 3 | 3,248 | ₹9,744 |
+| 8 | Corridor | Crompton Energion Riviera BLDC | White | 1 | 3,080 | ₹3,080 |
+| **FANS TOTAL** | | | | **11** | | **₹35,993** |
+
+**Key Features:**
+- All BLDC motors (50-60% less power vs conventional)
+- RF remote included (no wall regulators needed)
+- Inverter-compatible (Bihar power cuts)
+- 10+ year motor life
+
+### Section 2 — Lights (Premium Upgrades — ₹63,520)
+
+#### A. Family Hall (Hero Space)
+
+| Fixture | Brand | Qty | Total |
+|---------|-------|-----|-------|
+| 7W recessed spot 3000K | Philips/Wipro | 8 | ₹2,240 |
+| LED cove strip 3000K (14W/m) | Wipro | 10m | ₹1,000 |
+| **Modern chandelier (UPGRADED)** | **Premium (Flipkart/Amazon)** | **1** | **₹12,000** |
+| **Staircase modern premium lights** | **Philips/Havells** | **2** | **₹2,400** |
+| **Corridor modern premium lights** | **Philips/Havells** | **2** | **₹2,400** |
+| **Subtotal Family Hall/Stair/Corridor** | | | **₹20,040** |
+
+#### B. Bedrooms (Warm Ambiance)
+
+| Room | Fixture | Total |
+|------|---------|-------|
+| Bedroom 1 | 7W spots + cove + sconces | ₹3,420 |
+| Bedroom 2 | 7W spots + cove + sconces | ₹3,420 |
+| Guest Room | 7W spots + cove | ₹1,520 |
+| **Subtotal Bedrooms** | | **₹8,360** |
+
+#### C. Bathrooms × 3 (SPA UPGRADE — ₹18,000)
+
+| Fixture | Specs | Qty | Unit | Total |
+|---------|-------|-----|------|-------|
+| **LED Backlit Mirror** | **4x4ft frameless, dimmable 3000-5000K, anti-fog, touch sensor** | **3** | **₹4,500** | **₹13,500** |
+| **RGB Vanity Strip** | **2m under-mirror Philips Hue/Wipro** | **3** | **₹1,000** | **₹3,000** |
+| Ceiling recessed + exhaust | 9W COB + 25W combo | 3 | ₹500 | ₹1,500 |
+
+**Spa Features:**
+- Shadow-free grooming lighting
+- Hotel-spa vibe with dimmable controls
+- Anti-fog coating for steam showers
+- Touch sensor activation
+- 80% less power vs traditional bulbs
+
+#### D. Kitchen, Puja, Utility
+
+| Room | Fixture | Total |
+|------|---------|-------|
+| Kitchen | 18W panel + under-cabinet | ₹1,100 |
+| Puja Room | Warm spots + decorative | ₹400 |
+| Store Room | LED batten 18W | ₹280 |
+| GF Hall | Spots + battens | ₹3,340 |
+| **Subtotal** | | **₹5,120** |
+
+#### E. Outdoor/Compound (MODERN VILLA UPGRADE — ₹12,000)
+
+| Fixture | Specs | Qty | Unit | Total |
+|---------|-------|-----|------|-------|
+| **Modern Gate Pillar Lights** | **Polycarbonate LED cube 15W IP65 (antique/modern)** | **2** | **₹1,500** | **₹3,000** |
+| **Facade Wall Washer** | **Slimline IP65 uplight 12W black** | **4** | **₹1,500** | **₹6,000** |
+| **Compound Ground Spikes** | **LED spike 10W spotlight** | **2** | **₹1,500** | **₹3,000** |
+
+**Modern Villa Features:**
+- IP65 monsoon-proof rating
+- Elegant entry glow (timer/dusk sensor)
+- Creates ₹1Cr+ villa appearance
+- Havells/Crompton/Harold Lights brands
+
+**LIGHTS GRAND TOTAL: ₹63,520**
+
+**Updated from original ₹30,660:**
+- Chandelier: +₹7,000 (₹5k → ₹12k)
+- Bathrooms spa: +₹15,060
+- Outdoor modern: +₹8,400
+- Stair/corridor: +₹4,800
+
+### Section 3 — Switches (Full Premium — ₹14,720)
+
+| Location | Brand | Range | Finish | Plates | Price/Plate | Total |
+|----------|-------|-------|--------|--------|-------------|-------|
+| Family Hall | GM Modular Britona | Premium piano | Gloss Black | 4 | ₹520 | ₹2,080 |
+| Bedroom 1 | Legrand Mylinc | Premium slim | White | 4 | ₹320 | ₹1,280 |
+| Bedroom 2 | Legrand Mylinc | Premium slim | White | 4 | ₹320 | ₹1,280 |
+| Guest Room | Legrand Mylinc | Premium slim | White | 3 | ₹320 | ₹960 |
+| Kitchen | Schneider Livia | Splash-safe | White | 3 | ₹310 | ₹930 |
+| Bathrooms × 3 | Schneider Livia | Moisture-resistant | White | 3 | ₹310 | ₹930 |
+| Puja Room | Legrand Mylinc | Premium slim | White | 2 | ₹320 | ₹640 |
+| Staircase | Legrand Mylinc | Premium slim | White | 2 | ₹320 | ₹640 |
+| GF Hall | Legrand Mylinc | Premium slim | White | 4 | ₹320 | ₹1,280 |
+| Corridor | Legrand Mylinc | Premium slim | White | 2 | ₹320 | ₹640 |
+| Store Room | Schneider Livia | Premium | White | 1 | ₹310 | ₹310 |
+| USB Sockets × 5 | Legrand | 2×USB combo | White | 5 | ₹750 | ₹3,750 |
+
+### Section 4 — Wiring & Distribution Board (₹77,250)
+
+| Item | Brand | Specification | Quantity | Cost |
+|------|-------|---------------|----------|------|
+| Copper wire 1.5 sq mm | Finolex | Lights + fans | ~600m | ₹16,800 |
+| Copper wire 2.5 sq mm | Finolex | 5A sockets | ~400m | ₹16,800 |
+| Copper wire 4 sq mm | Polycab | AC points | ~150m | ₹9,750 |
+| Copper wire 6 sq mm | Polycab | Main line | ~50m | ₹4,750 |
+| PVC conduit pipes | Astral | Concealed | ~500m | ₹9,000 |
+| Main DB box × 2 | Havells 8-way | GF + FF | 2 | ₹3,600 |
+| MCBs 16A + 32A | Havells/Schneider | All circuits | 20 | ₹3,600 |
+| RCCB/ELCB × 4 | Havells | Safety (bathrooms) | 4 | ₹2,600 |
+| Sub DB × 3 | Havells 4-way | Bedrooms | 3 | ₹2,850 |
+| Earthing system | GI pipe | Full house | 1 | ₹4,000 |
+| Junction boxes + accessories | Mixed | All rooms | — | ₹3,500 |
+
+### Section 5 — Special Provisions (₹13,350)
+
+| Item | Specification | Cost |
+|------|---------------|------|
+| AC provision × 5 rooms | 4 sq mm + isolator switch | ₹3,750 |
+| Inverter changeover switch | Manual 2-way | ₹2,500 |
+| TV/cable points × 4 | Polycab coaxial | ₹3,500 |
+| Outdoor weatherproof points × 6 | IP65 rated | ₹3,600 |
+
+### Section 6 — Labour Charges (₹44,620)
+
+| Item | Rate/Specification | Cost |
+|------|-------------------|------|
+| Wiring labour (~99 points) | Bihar 2026 rate @ ₹380/point | ₹37,620 |
+| DB fitting + testing | Lumpsum | ₹3,000 |
+| Light fixture fitting | All fixtures | ₹4,000 |
+
+### ELECTRICAL MASTER BUDGET
+
+| Section | Cost |
+|---------|------|
+| Fans (11 BLDC) | ₹35,993 |
+| Lights (Premium Upgraded) | ₹63,520 |
+| Switches (GM/Legrand/Schneider) | ₹14,720 |
+| Wiring + DB + MCB + RCCB + Earthing | ₹77,250 |
+| Special Provisions | ₹13,350 |
+| Labour Charges | ₹44,620 |
+| **ELECTRICAL GRAND TOTAL** | **₹2,49,453** |
+
+**Note:** When adding individual bathroom mirror costs (₹13,500) + outdoor modern (₹12,000) to base amounts, **actual electrical investment becomes ₹2,63,393** as discussed.
+
+## 5B. PLUMBING (Civil Estimate — ₹5.7-8.7L)
+
+| # | Item | Spec | Low | High |
+|---|------|------|-----|------|
+| 23 | Concealed CPVC pipes | Astral/Supreme full house GF + FF | ₹2.00L | ₹3.00L |
+| 24 | CP fittings x3 bathrooms | Cera / Jaquar bronze series per bath | ₹1.80L | ₹2.80L |
+| 25 | Kitchen sink + plumbing | SS double bowl + water lines | ₹50K | ₹80K |
+| 26 | Overhead tank + pump motor | 1500L PVC tank + 1HP Kirloskar motor | ₹60K | ₹90K |
+| 27 | Underground sump | 5000L RCC sump below ground level | ₹80K | ₹1.20L |
+| **PLUMBING TOTAL** | | | **₹5.70L** | **₹8.70L** |
+
+### PHASE 5 COMBINED TOTAL
+
+**Electrical (Updated): ₹2.63L**  
+**Plumbing: ₹5.7-8.7L**  
+**PHASE 5 TOTAL: ₹8.33-11.33L**
+
+## Timeline (Weeks 16-18)
+
+- **Week 16-17:** Electrical wiring, switches, sockets, DB
+- **Week 17:** Fan installation + lighting fixtures
+- **Week 17-18:** Plumbing rough-in + CP fittings
+
+---
+
+# PHASE 6: PAINT & FALSE CEILING
+**Weeks 18-19 | Cost: ₹5.9-8.7L**
+
+## Scope of Work
+
+| # | Item | Spec | Low | High |
+|---|------|------|-----|------|
+| 28 | Asian Royale emulsion (internal) | Both floors, all rooms — 2 coats | ₹1.50L | ₹2.00L |
+| 29 | Royale Play texture feature walls | Hall accent wall + 1 bedroom wall | ₹60K | ₹1.00L |
+| 30 | Asian Apex (exterior) | Full exterior 2 coats + waterproofing primer | ₹70K | ₹1.00L |
+| 31 | Gypsum false ceiling + cove | Hall + all 3 bedrooms + guest room | ₹1.80L | ₹2.50L |
+| 32 | Warm 3000K LED cove strips | All cove areas (Wipro 14W/m 21m total) | ₹70K | ₹1.20L |
+| 33 | LED spots + hall chandelier | 1 statement chandelier + room spots | ₹60K | ₹1.00L |
+| **PHASE 6 TOTAL** | | | **₹5.90L** | **₹8.70L** |
+
+**KEY DECISIONS:**
+- Spend on gypsum cove ceiling + feature wall — biggest visual ROI
+- Hall cove with warm LED strip = 5-star lobby look at ₹2.5L
+- Skip paint on store/utility rooms to save cost
+
+## Timeline (Weeks 18-19)
+
+- **Week 18:** Internal paint primer + putty
+- **Weeks 18-19:** Asian Royale emulsion + Royale Play texture
+- **Week 19:** Gypsum false ceiling + LED strip fitting
+
+---
+
+# PHASE 7: KITCHEN & WARDROBES
+**Week 19 | Cost: ₹5.65-8.5L**
+
+## Scope of Work
+
+| # | Item | Spec | Low | High |
+|---|------|------|-----|------|
+| 34 | Semi-modular kitchen | White/cream laminate with loft units | ₹2.00L | ₹3.00L |
+| 35 | Quartz/granite countertop | Full kitchen platform 10-12 running ft | ₹70K | ₹1.00L |
+| 36 | Chimney + hob | Elica 60cm auto-clean + 4-burner hob | ₹55K | ₹85K |
+| 37 | Sliding mirror wardrobes x3 | All 3 bedrooms — floor to ceiling | ₹2.00L | ₹3.00L |
+| 38 | Puja unit + store shelving | Custom carpenter work | ₹40K | ₹65K |
+| **PHASE 7 TOTAL** | | | **₹5.65L** | **₹8.50L** |
+
+**KEY DECISIONS:**
+- NEVER do full modular kitchen — semi-modular with quartz top saves ₹1.5-2.5L
+- Looks 90% as good as full modular
+- Mirror wardrobes double perceived room size — worth every rupee
+
+## Timeline (Week 19)
+
+- **Week 19:** Kitchen carpentry + wardrobe installation
+
+---
+
+# PHASE 8: EXTERNAL WORKS & OVERHEADS
+**Weeks 19-20 | Cost: ₹8.2-11.55L**
+
+## Scope of Work
+
+| # | Item | Spec | Low | High |
+|---|------|------|-----|------|
+| 39 | Brick compound wall 5ft + coping | Full plot perimeter, plastered both sides | ₹1.80L | ₹2.50L |
+| 40 | MS painted gate | 10ft main gate + wicket gate | ₹80K | ₹1.30L |
+| 41 | Driveway + parking paver blocks | Front + parking, interlocking pavers | ₹60K | ₹1.00L |
+| 42 | Architect + structural engineer | Full project supervision + drawings | ₹85K | ₹1.20L |
+| 43 | Bihar permits + soil test | Nagar Panchayat Bhabua + BHU soil test | ₹55K | ₹75K |
+| 44 | Water supply connection | Borewell deepening + pipeline | ₹80K | ₹1.00L |
+| 45 | Contingency buffer (5%) | Applied on structural phases only | ₹2.80L | ₹3.80L |
+| **PHASE 8 TOTAL** | | | **₹8.20L** | **₹11.55L** |
+
+## Timeline (Weeks 19-20)
+
+- **Weeks 19-20:** Compound wall + gate + driveway + ext paint
+- **Week 20:** Complete testing + punch list + handover
+
+---
+
+# OPTIONAL SMART SYSTEMS (ADD-ONS)
+**Weeks 8-20 (Parallel Installation) | Cost: ₹1,97,326**
+
+These systems are ADDITIONS to civil budget. They can be installed during or after construction.
+
+## System 1: Smart Home (₹34,082)
+
+| Component | Model | Spec | Cost |
+|-----------|-------|------|------|
+| Controller | Raspberry Pi 4 (8GB) | Runs Home Assistant OS | ₹8,999 |
+| Storage + Power | SanDisk 64GB + Official adapter + Argon case | — | ₹3,997 |
+| Zigbee System | Sonoff USB dongle + 7x ZBMINI switches | In-wall relays | ₹6,892 |
+| Voice Control | Echo Dot 5th gen | Alexa integration | ₹4,999 |
+| Smart Plugs | TP-Link Tapo P115 x4 | Energy monitoring | ₹3,196 |
+| Network | TP-Link 8-port switch + Cat6 cables | — | ₹2,499 |
+| Setup | Installation + automation scripting | — | ₹3,500 |
+
+**Features:** Voice control all lights/fans, remote access from anywhere, automation routines.
+
+## System 2: Audio System (₹77,410)
+
+| Component | Model/Spec | Qty | Cost |
+|-----------|-----------|-----|------|
+| Ceiling Speakers | JBL 6C/T-BK 6.5" 60W RMS | 8 (4 rooms x2) | ₹42,392 |
+| Amplifier | Fosi Audio ZA3 4-channel class-D | 1 | ₹16,999 |
+| WiFi Streamer | Wiim Mini (AirPlay/Spotify/Chromecast) | 1 | ₹8,999 |
+| Wiring | OFC 2-core 120m + wall plates + plugs | — | ₹5,520 |
+| Installation | Labour + accessories | — | ₹3,500 |
+
+**Features:** Control via Wiim app, Alexa voice, Home Assistant. Independent volume per room.
+
+## System 3: Camera System (₹33,274)
+
+| Component | Model/Spec | Qty | Cost |
+|-----------|-----------|-----|------|
+| Front + Back Cameras | Hikvision DS-2CD1043G2 4MP bullet 30m IR | 2 | ₹8,598 |
+| Main Entrance | Hikvision DS-2CD2343G2 4MP ColorVu 24/7 | 1 | ₹6,499 |
+| NVR | Hikvision DS-7604NXI-K1/4P 4K 4-port PoE | 1 | ₹6,999 |
+| Storage | WD Purple 1TB surveillance-rated | 1 | ₹3,199 |
+| Wiring & Accessories | Cat6 80m + brackets + connectors | — | ₹1,980 |
+| NVR Backup | Mini UPS 2hr backup | 1 | ₹2,499 |
+| Installation | Labour + testing | — | ₹3,500 |
+
+**Features:** 24/7 recording - 15 days storage. Mobile app access. Main door has full-color night vision.
+
+## System 4: Solar Power (₹52,560 after subsidy)
+
+| Component | Spec | Cost |
+|-----------|------|------|
+| Solar Panels | Waaree 550W monocrystalline x6 = 3.3kW | ₹69,000 |
+| On-Grid Inverter | Growatt 3kW single-phase | ₹32,000 |
+| Mounting Structure | Hot-dip galvanised for RCC roof | ₹12,000 |
+| Cables & Connectors | DC 80m + AC 25m + MC4 + isolators | ₹6,410 |
+| Protection | Lightning arrestor + earthing kit | ₹4,600 |
+| Net Meter | BSEB bi-directional | ₹3,500 |
+| Installation | Mounting + wiring + commissioning | ₹8,500 |
+| **SUBTOTAL BEFORE SUBSIDY** | | **₹1,36,010** |
+| **PM Surya Ghar Subsidy** | Direct benefit transfer | **-₹78,000** |
+| **FINAL COST AFTER SUBSIDY** | | **₹58,010** |
+
+**Benefits:**
+- Daily generation: 13-14 kWh
+- Annual savings: ₹25,200-28,800
+- Payback period: 2 years
+- 25-year savings: ₹6.3-7.2 lakhs
+
+**OPTIONAL SYSTEMS TOTAL: ₹1,97,326**
+
+---
+
+# MASTER CONSTRUCTION TIMELINE (20 WEEKS)
+
+Civil construction (20 weeks) runs first. Systems installation begins parallel from Week 6.
+
+| Week | Activity | Phase | Milestone |
+|------|----------|-------|-----------|
+| **1** | Site clearing, layout marking, soil test | Pre-construction | Foundation approved |
+| **2-3** | Excavation + PCC bed + anti-termite treatment | Phase 1 | Pit ready |
+| **4-5** | RCC footings + plinth beam casting | Phase 1 | Plinth complete |
+| **6-8** | Column casting GF + beam casting | Phase 1 | GF frame up |
+| **9-10** | GF slab casting + curing 28 days | Phase 1 | GF slab done |
+| **9 (parallel)** | Electrical conduit rough-in starts | Systems | Conduits in walls |
+| **11-13** | GF brickwork + FF columns + beam casting | Phase 2 | FF frame up |
+| **14** | Roof slab casting + curing | Phase 1 | Structure complete |
+| **13 (parallel)** | Window frame installation in RCC openings | Phase 3 | Frames set |
+| **14-15** | Internal + external plaster (1:4 / 1:6) | Phase 2 | Plaster done |
+| **15 (parallel)** | UPVC window glazing + sealing | Phase 3 | Windows complete |
+| **15-16** | Door frame fitting + door leaf hanging | Phase 2 | Doors fitted |
+| **16** | Smart lock, handles, hardware fitting | Systems | Doors complete |
+| **15-17** | Tile flooring + bathroom wall tiling | Phase 4 | Tiles done |
+| **16-17** | Electrical wiring, switches, sockets, DB | Systems | Electrical live |
+| **17** | Fan installation + lighting fixtures | Systems | Power working |
+| **17-18** | Plumbing rough-in + CP fittings | Phase 5 | Plumbing done |
+| **18** | Internal paint primer + putty | Phase 6 | Surfaces ready |
+| **18-19** | Asian Royale emulsion + Royale Play texture | Phase 6 | Paint done |
+| **18 (parallel)** | Camera wiring + NVR installation | Systems | CCTV live |
+| **18 (parallel)** | Audio speaker wiring + ceiling installation | Systems | Audio wired |
+| **19** | Gypsum false ceiling + LED strip fitting | Phase 6 | Ceiling done |
+| **19** | Kitchen carpentry + wardrobe installation | Phase 7 | Kitchen done |
+| **19-20** | Smart Home RPi setup + Zigbee + automations | Systems | Smart Home live |
+| **19-20** | Compound wall + gate + driveway + ext paint | Phase 8 | Exterior done |
+| **20** | Solar panel mounting + inverter + net meter | Systems | Solar live |
+| **20** | Complete testing + punch list + handover | Final | **HANDOVER** |
+
+**Blue rows** = parallel work (systems run alongside civil). Week 20 = full handover. BSEB net meter approval = 2-3 weeks — apply at Week 14.
+
+---
+
+# MASTER BUDGET SUMMARY
+
+## Civil Construction Phases
+
+| Phase | Description | Low | High |
+|-------|-------------|-----|------|
+| **Phase 1** | Foundation & Structure | ₹24.70L | ₹30.20L |
+| **Phase 2** | Walls + Doors (our spec) | ₹12.40L | ₹15.70L |
+| **Phase 3** | Windows (our UPVC spec) | ₹89,260 | ₹89,260 |
+| **Phase 4** | Tiles | ₹2.24L | ₹2.24L |
+| **Phase 5** | **Electrical (UPDATED) + Plumbing** | **₹8.33L** | **₹11.33L** |
+| **Phase 6** | Paint + Ceiling | ₹5.90L | ₹8.70L |
+| **Phase 7** | Kitchen + Wardrobe | ₹5.65L | ₹8.50L |
+| **Phase 8** | External + Overheads | ₹8.20L | ₹11.55L |
+| **CIVIL SUBTOTAL** | | **₹85.3L** | **₹95.3L** |
+
+## Optional Smart Systems (Add-ons)
+
+| System | Cost |
+|--------|------|
+| Smart Home (Raspberry Pi + Zigbee + Echo Dot) | ₹34,082 |
+| Audio System (JBL + Fosi + Wiim) | ₹77,410 |
+| Camera System (Hikvision x3 + NVR + 1TB) | ₹33,274 |
+| Solar Power (3kW after ₹78K subsidy) | ₹52,560 |
+| **SYSTEMS SUBTOTAL** | **₹1,97,326** |
+
+## MASTER GRAND TOTAL
+
+| Budget Scenario | Total Cost |
+|----------------|------------|
+| **Civil Only (Mid-range)** | **₹90L** |
+| **Civil + All Systems** | **₹1.10Cr** |
+| **Target Budget (Optimized)** | **₹85-90L** |
+
+---
+
+# HOW TO HIT ₹85L TARGET
+
+**Optimization Strategy:**
+
+1. **Keep Phase 1 at low end** (M20 beams, not M25) — Save ₹3L
+2. **Use Kajaria tiles not premium** — Already in plan
+3. **Skip full modular kitchen** — Already semi-modular in plan
+4. **Remove smart add-ons** (audio/camera/solar) — Save ₹1.97L
+5. **Basic POP instead of gypsum** — Save ₹1.5L
+6. **Cera only (not Jaquar) in bathrooms** — Save ₹1L
+
+**Result: ₹85L turnkey with quality materials and updated electrical (₹2.63L).**
+
+---
+
+# VENDOR RECOMMENDATIONS (Bihar 2026)
+
+## Electrical Materials
+- **Cables:** Finolex/Polycab dealers, Patna wholesale markets
+- **Switches:** GM Modular (gmmodular.com), Legrand (legrand.in)
+- **MCB/DB:** Havells/Schneider authorized dealers, Patna
+
+## Lighting Fixtures
+- **Philips/Wipro:** Amazon India, Flipkart
+- **Chandelier:** Fos Lighting (foslighting.com), Jainsons (Delhi ships)
+- **Bathroom Mirrors:** Pepperfry (₹4,500), Anizoba (₹15k+ Bluetooth)
+
+## Outdoor Lights
+- **Gate Lights:** Sonshiv/Electrolite Patna (JustDial)
+- **Facade Washers:** Harold Lights (haroldelectricals.com)
+- **IP65 Fixtures:** Havells/Crompton local dealers
+
+## Fans
+- **Atomberg:** atomberg.com, Amazon, Flipkart
+- **Crompton:** All electrical stores, online retailers
+
+## Doors & Windows
+- **Door Hardware:** Ozone (ozone.in), Hettich dealer Patna, Amazon
+- **Atomberg Smart Lock:** atomberg.com
+- **Windows:** Fenesta UPVC (fenesta.com - Patna showroom)
+
+## Smart Systems
+- **Raspberry Pi/Sonoff:** Amazon India, robu.in
+- **Audio (JBL/Fosi/Wiim):** Amazon India
+- **Cameras:** Authorized Hikvision dealer Patna
+- **Solar:** PM Surya Ghar empaneled installer
+
+## Construction Materials
+- **Cement:** UltraTech/Shree distributors Bhabua
+- **Steel:** Shyam Steel/Kamdhenu stockists Patna
+- **Sand:** Local Kaimur/Son river suppliers
+- **Tiles:** Kajaria/Somany showroom Patna (bulk discount)
+- **Paint:** Asian Paints dealer Bhabua/Mohania
+
+---
+
+# MAINTENANCE SCHEDULE
+
+## Monthly (DIY — 30 minutes)
+- Clean chandelier/recessed fixtures (dust)
+- Check BLDC fan blade balance
+- Wipe bathroom LED mirrors (anti-fog coating)
+- Fan remote batteries check
+- Camera lens clean
+- Smart lock test all methods
+
+## Quarterly (DIY — 1 hour)
+- Test RCCB trip function (press test button)
+- Inspect outdoor lights for water ingress
+- Tighten MCB terminals if loose
+- Solar panel wash
+- Window track lubrication
+- Audio zone test
+
+## Monsoon Season (June-September — 2 hours DIY)
+- Window seals inspection
+- Camera housing check
+- Smart lock battery replacement
+- Door seals verification
+- Check roof drainage near conduit entries
+- Test RCCB more frequently (moisture increases leakage risk)
+
+## Annual (Professional — ₹4,600)
+- Earthing system test (<5 ohms professional check)
+- Insulation resistance megger test
+- Fan bearing lubrication (if not sealed)
+- Bathroom mirror touch sensor calibration
+- Solar professional service
+- NVR HDD check
+
+## Every 5 Years (₹80K-1.2L)
+- Exterior repaint + waterproofing touch-up
+- Tile re-grouting
+- Major system inspection
+
+---
+
+# KEY HIGHLIGHTS
+
+## Energy Efficiency
+✅ All BLDC fans (28-35W) — 50-60% less power vs conventional  
+✅ LED lights (635W total vs 1500W+ conventional)  
+✅ Optional 3kW solar = near-zero electricity bills  
+✅ Annual savings: ₹25,000-30,000 in electricity
+
+## Premium Aesthetic
+✅ Gloss Black fans + ₹12k modern chandelier  
+✅ Spa bathrooms (LED backlit mirrors + RGB glow)  
+✅ Modern outdoor (IP65 gate/facade villa look)  
+✅ Matte black hardware throughout  
+✅ Golden Oak UPVC + teak door unified palette  
+✅ Creates ₹1Cr+ appearance at ₹90L cost
+
+## Safety First
+✅ RCCB on all bathroom circuits (30mA, <300ms trip)  
+✅ Full copper FR-LSH wiring (fire-retardant for monsoon)  
+✅ Proper earthing system (<5 ohms target)  
+✅ Fe500D steel (Bihar Seismic Zone III compliant)  
+✅ IP65 outdoor fixtures (monsoon-proof)
+
+## Smart & Future-Proof
+✅ Smart ready: Can add Sonoff Zigbee modules later for Home Assistant control  
+✅ AC ready: 5 rooms with 4 sq mm wiring + isolator switches  
+✅ Inverter provision: Manual changeover for Bihar load-shedding  
+✅ All systems expandable: Add more switches, cameras, speakers anytime
+
+## Bihar-Specific Adaptations
+✅ FR-LSH cables prevent fire in high humidity  
+✅ Anti-fog bathroom mirrors for steam  
+✅ Premium fixtures resist Bihar summer heat (45°C+)  
+✅ Bronze tinted glass cuts 35-40% solar heat  
+✅ WPC bathroom doors (100% waterproof for monsoon)  
+✅ IP65 outdoor lights for heavy monsoon
+
+---
+
+# BIHAR-SPECIFIC CONSIDERATIONS
+
+## Monsoon Precautions (June-September)
+- All outdoor fixtures IP65 rated (dust-tight, water-jet proof)
+- Check roof drainage near conduit entries
+- Test RCCB more frequently (moisture increases leakage risk)
+- Disconnect ACs during lightning storms
+- Inspect window seals and camera housings
+
+## Load-Shedding Solutions
+- Manual inverter changeover switch included
+- BLDC fans run efficiently on battery backup
+- LED lights minimize inverter load
+- Consider solar (optional) for energy independence
+
+## Climate Adaptations
+- FR-LSH cables prevent fire in high humidity
+- Anti-fog bathroom mirrors for steam showers
+- Premium fixtures resist Bihar summer heat (45°C+)
+- Bronze tinted windows reduce heat gain by 35-40%
+
+## Seismic Zone III Requirements
+- Fe500D steel mandatory (high ductility)
+- M20 minimum for all RCC elements
+- Proper column-beam connections
+- Earthquake-resistant design as per IS 13920
+
+---
+
+# CONTRACTOR HANDOVER CHECKLIST
+
+## Before Starting Construction
+- [ ] Verify all cable quantities: 1.5mm (600m), 2.5mm (400m), 4mm (150m), 6mm (50m)
+- [ ] Confirm fan models/colors match specification (11 BLDC fans)
+- [ ] Order bathroom LED mirrors early (4-week lead time)
+- [ ] Confirm UPVC Golden Oak window samples
+- [ ] Verify Atomberg smart lock in stock
+- [ ] Schedule chandelier installation post-false ceiling
+- [ ] Install outdoor lights after compound wall complete
+
+## During Construction
+- [ ] Electrical conduit rough-in before plastering
+- [ ] Mark recessed light positions accurately
+- [ ] Pull cables with 300mm slack
+- [ ] Label all conduit ends
+- [ ] Test continuity with multimeter after pulling cables
+- [ ] Install junction boxes at ceiling-wall intersections
+
+## Final Testing
+- [ ] Test all circuits before energizing main supply
+- [ ] Earth continuity test (<1 ohm)
+- [ ] Insulation resistance test (>1 megaohm)
+- [ ] RCCB trip test (30mA, <300ms)
+- [ ] Polarity test (phase to switch)
+- [ ] Verify 230V AC at all sockets
+
+## Documentation
+- [ ] Photograph inside DB before closing for future reference
+- [ ] Save wiring diagram digitally (Google Drive/cloud)
+- [ ] Document as-built drawings
+- [ ] Label MCBs in DB with permanent marker
+- [ ] Create maintenance log
+
+---
+
+# PAYMENT SCHEDULE (Based on 20-Week Timeline)
+
+| Week | Milestone | Payment % | Amount (₹90L base) |
+|------|-----------|-----------|-------------------|
+| 1-2 | Site + Foundation + Footings | 15% advance | ₹13-14L |
+| 3-5 | GF Columns + Beams + Slab | 20% on GF | ₹18-20L |
+| 6-8 | FF Columns + Beams + Slab | 15% on FF | ₹13-14L |
+| 9-10 | Roof Slab + Waterproofing | 10% on roof | ₹9-10L |
+| 11-13 | Walls + Plumbing concealed | 10% on walls | ₹9-10L |
+| 14-15 | Plaster + Electrical + Windows + Doors | 5% on shell | ₹4-5L |
+| 16 | Tiles all rooms | 10% on finishing | ₹9-10L |
+| 17-19 | Paint + False Ceiling + Kitchen + Wardrobes | 10% on interiors | ₹9-10L |
+| 20 | Systems + Cleaning + Handover | 5% final | ₹4-5L |
+
+**Total: 100% = ₹90L**
+
+**Note:** Hold 5% final payment until complete punch-list closure and all systems tested.
+
+---
+
+# DOCUMENT STATUS
+
+**Document:** Complete House Construction Guide — Phase-wise Details  
+**Version:** 2.0 (Final Updated)  
+**Owner:** Harsh | 30×60 G+1 | Bhabua, Kaimur, Bihar  
+**Generated:** March 13, 2026, 11:17 PM  
+**Covers:** 8 construction phases + optional smart systems + complete material specs  
+**Electrical:** Updated with ₹2.63L final plan (11 fans, spa baths, modern outdoor)  
+
+**Use:** Hand directly to architect + structural engineer + contractor as complete scope of work  
+**Prices:** Bihar 2026 market rates verified from multiple sources  
+**Total Investment:** ₹90-95L (complete turnkey with quality materials)
+
+---
+
+*This is your comprehensive, production-ready construction guide. Every phase detailed with exact specifications, costs, materials, vendors, and timeline. Ready for contractor quotation and execution.*
+
+EXTRACTED CONTENT END
+
+==================== SOURCE 9 ====================
+FILE: Final-Electrical-Plan-Updated.md
+TYPE: markdown
+DETAILS:
+{
+  "line_count": 314,
+  "char_count": 11705,
+  "file_size_bytes": 11827
+}
+
+EXTRACTED CONTENT START
+# COMPLETE ELECTRICAL PLAN - FINAL UPDATED
+**30×60 G+1 House | Bhabua, Bihar**  
+**Updated: March 13, 2026, 11:14 PM**  
+**Prepared for: Harsh**
+
+---
+
+## EXECUTIVE SUMMARY
+
+**Grand Total: ₹2,63,393**
+
+- **11 BLDC Fans** (remote-controlled, 28-35W 5-star rated)
+- **Premium Spa Bathrooms** (LED backlit mirrors + RGB vanity glow)
+- **Modern Outdoor Lighting** (IP65 gate/facade villa look)
+- **₹12,000 Modern Chandelier** (Family Hall centerpiece)
+- **Full Safety** (RCCB all bathrooms, Finolex copper wiring)
+- **AC/Inverter Ready** (5 rooms AC provision + manual changeover)
+
+---
+
+## SECTION 1 — FANS (11 nos)
+
+| # | Room | Fan Model | Colour | Qty | Unit Price | Total (₹) |
+|---|------|-----------|--------|-----|------------|-----------|
+| 1 | **Family Hall** | Atomberg Renesa Prime 1200mm | Gloss Black | **2** | 3,399 | **6,798** |
+| 2 | Bedroom 1 | Atomberg Renesa 1200mm | Midnight Black | 1 | 3,299 | 3,299 |
+| 3 | Bedroom 2 | Atomberg Renesa 1200mm | Ivory | 1 | 3,299 | 3,299 |
+| 4 | Guest Room | Crompton Energion Groove BLDC | White | 1 | 3,494 | 3,494 |
+| 5 | Kitchen | Crompton Energion Riviera BLDC | White | 1 | 3,080 | 3,080 |
+| 6 | Puja Room | Atomberg Renesa 900mm | Ivory | 1 | 3,199 | 3,199 |
+| 7 | GF Hall | Crompton Energion Niteo BLDC | White | 3 | 3,248 | 9,744 |
+| 8 | Corridor | Crompton Energion Riviera BLDC | White | 1 | 3,080 | 3,080 |
+
+**FANS TOTAL: ₹35,993**
+
+**Key Features:**
+- All BLDC motors (50-60% less power vs conventional)
+- RF remote included (no wall regulators needed)
+- Inverter-compatible (Bihar power cuts)
+- 10+ year motor life
+
+---
+
+## SECTION 2 — LIGHTS (Premium Upgrades)
+
+### A. Family Hall (Hero Space)
+| Fixture | Brand | Qty | Total (₹) |
+|---------|-------|-----|-----------|
+| 7W recessed spot 3000K | Philips/Wipro | 8 | 2,240 |
+| LED cove strip 3000K (14W/m) | Wipro | 10m | 1,000 |
+| **Modern chandelier (UPGRADED)** | **Premium (Flipkart/Amazon)** | **1** | **12,000** |
+| **Staircase modern premium lights** | **Philips/Havells** | **2** | **2,400** |
+| **Corridor modern premium lights** | **Philips/Havells** | **2** | **2,400** |
+| **Subtotal Family Hall/Stair/Corridor** | | | **20,040** |
+
+### B. Bedrooms (Warm Ambiance)
+| Room | Fixture | Total (₹) |
+|------|---------|-----------|
+| Bedroom 1 | 7W spots + cove + sconces | 3,420 |
+| Bedroom 2 | 7W spots + cove + sconces | 3,420 |
+| Guest Room | 7W spots + cove | 1,520 |
+| **Subtotal Bedrooms** | | **8,360** |
+
+### C. Bathrooms × 3 (SPA UPGRADE)
+| Fixture | Specs | Qty | Unit | Total (₹) |
+|---------|-------|-----|------|-----------|
+| **LED Backlit Mirror** | **4x4ft frameless, dimmable 3000-5000K, anti-fog, touch sensor** | **3** | **4,500** | **13,500** |
+| **RGB Vanity Strip** | **2m under-mirror Philips Hue/Wipro** | **3** | **1,000** | **3,000** |
+| Ceiling recessed + exhaust | 9W COB + 25W combo | 3 | 500 | 1,500 |
+| **Subtotal Bathrooms (Premium Spa)** | | | | **18,000** |
+
+### D. Kitchen, Puja, Utility
+| Room | Fixture | Total (₹) |
+|------|---------|-----------|
+| Kitchen | 18W panel + under-cabinet | 1,100 |
+| Puja Room | Warm spots + decorative | 400 |
+| Store Room | LED batten 18W | 280 |
+| GF Hall | Spots + battens | 3,340 |
+| **Subtotal** | | **5,120** |
+
+### E. Outdoor/Compound (MODERN VILLA UPGRADE)
+| Fixture | Specs | Qty | Unit | Total (₹) |
+|---------|-------|-----|------|-----------|
+| **Modern Gate Pillar Lights** | **Polycarbonate LED cube 15W IP65 (antique/modern)** | **2** | **1,500** | **3,000** |
+| **Facade Wall Washer** | **Slimline IP65 uplight 12W black** | **4** | **1,500** | **6,000** |
+| **Compound Ground Spikes** | **LED spike 10W spotlight** | **2** | **1,500** | **3,000** |
+| **Subtotal Outdoor (Modern Premium)** | | | | **12,000** |
+
+**LIGHTS GRAND TOTAL: ₹63,520**
+
+**Updated from original ₹30,660:**
+- Chandelier: +₹7,000 (₹5k → ₹12k)
+- Bathrooms spa: +₹15,060
+- Outdoor modern: +₹8,400
+- Stair/corridor: +₹4,800
+
+---
+
+## SECTION 3 — SWITCHES (Full Premium)
+
+| Location | Brand | Range | Finish | Plates | Price/Plate | Total (₹) |
+|----------|-------|-------|--------|--------|-------------|-----------|
+| Family Hall | GM Modular Britona | Premium piano | Gloss Black | 4 | 520 | 2,080 |
+| Bedroom 1 | Legrand Mylinc | Premium slim | White | 4 | 320 | 1,280 |
+| Bedroom 2 | Legrand Mylinc | Premium slim | White | 4 | 320 | 1,280 |
+| Guest Room | Legrand Mylinc | Premium slim | White | 3 | 320 | 960 |
+| Kitchen | Schneider Livia | Splash-safe | White | 3 | 310 | 930 |
+| Bathrooms × 3 | Schneider Livia | Moisture-resistant | White | 3 | 310 | 930 |
+| Puja Room | Legrand Mylinc | Premium slim | White | 2 | 320 | 640 |
+| Staircase | Legrand Mylinc | Premium slim | White | 2 | 320 | 640 |
+| GF Hall | Legrand Mylinc | Premium slim | White | 4 | 320 | 1,280 |
+| Corridor | Legrand Mylinc | Premium slim | White | 2 | 320 | 640 |
+| Store Room | Schneider Livia | Premium | White | 1 | 310 | 310 |
+| USB Sockets × 5 | Legrand | 2×USB combo | White | 5 | 750 | 3,750 |
+
+**SWITCHES TOTAL: ₹14,720**
+
+---
+
+## SECTION 4 — WIRING & DISTRIBUTION BOARD
+
+| Item | Brand | Specification | Quantity | Cost (₹) |
+|------|-------|---------------|----------|----------|
+| Copper wire 1.5 sq mm | Finolex | Lights + fans | ~600m | 16,800 |
+| Copper wire 2.5 sq mm | Finolex | 5A sockets | ~400m | 16,800 |
+| Copper wire 4 sq mm | Polycab | AC points | ~150m | 9,750 |
+| Copper wire 6 sq mm | Polycab | Main line | ~50m | 4,750 |
+| PVC conduit pipes | Astral | Concealed | ~500m | 9,000 |
+| Main DB box × 2 | Havells 8-way | GF + FF | 2 | 3,600 |
+| MCBs 16A + 32A | Havells/Schneider | All circuits | 20 | 3,600 |
+| RCCB/ELCB × 4 | Havells | Safety (bathrooms) | 4 | 2,600 |
+| Sub DB × 3 | Havells 4-way | Bedrooms | 3 | 2,850 |
+| Earthing system | GI pipe | Full house | 1 | 4,000 |
+| Junction boxes + accessories | Mixed | All rooms | - | 3,500 |
+
+**WIRING & DB TOTAL: ₹77,250**
+
+---
+
+## SECTION 5 — SPECIAL PROVISIONS
+
+| Item | Specification | Cost (₹) |
+|------|---------------|----------|
+| AC provision × 5 rooms | 4 sq mm + isolator switch | 3,750 |
+| Inverter changeover switch | Manual 2-way | 2,500 |
+| TV/cable points × 4 | Polycab coaxial | 3,500 |
+| Outdoor weatherproof points × 6 | IP65 rated | 3,600 |
+
+**SPECIAL PROVISIONS TOTAL: ₹13,350**
+
+---
+
+## SECTION 6 — LABOUR CHARGES
+
+| Item | Rate/Specification | Cost (₹) |
+|------|-------------------|----------|
+| Wiring labour (~99 points) | Bihar 2026 rate @ ₹380/point | 37,620 |
+| DB fitting + testing | Lumpsum | 3,000 |
+| Light fixture fitting | All fixtures | 4,000 |
+
+**LABOUR TOTAL: ₹44,620**
+
+---
+
+## MASTER BUDGET SUMMARY
+
+| Section | Cost (₹) |
+|---------|----------|
+| **Fans (11 BLDC)** | 35,993 |
+| **Lights (Premium Upgraded)** | 63,520 |
+| **Switches (GM/Legrand/Schneider)** | 14,720 |
+| **Wiring + DB + MCB + RCCB + Earthing** | 77,250 |
+| **Special Provisions** | 13,350 |
+| **Labour Charges** | 44,620 |
+| **GRAND TOTAL** | **₹2,49,453** |
+
+**Note:** Lights section shows ₹63,520 in this breakdown. When adding bathroom mirrors (₹13,500) + outdoor modern (₹12,000) to base ₹30,660, actual lights total becomes ₹94,460 as discussed. **Revised Grand Total: ₹2,63,393** (matches verbal discussion).
+
+---
+
+## INSTALLATION PHASES
+
+### Phase 1: Pre-Construction (Before Plastering)
+**Week 1-3 | Rough-In**
+
+- Chisel grooves for concealed conduits (20/25/32mm PVC)
+- Install junction boxes at ceiling-wall intersections
+- Run conduits: DB → all switch/socket/light/fan points
+- Mark recessed light positions on ceiling
+- Pull cables with 300mm slack
+- Label all conduit ends
+- Test continuity with multimeter
+
+### Phase 2: Post-Plastering (Finishing Work)
+**Week 4-6 | Fixtures**
+
+- Install metal mounting frames flush with plaster
+- Connect switches/sockets to cables
+- Cut precise holes for recessed lights
+- Install LED drivers above false ceiling
+- Mount chandelier (center, 8-10ft clearance)
+- Hang BLDC fans with concrete anchors
+- Install bathroom LED mirrors (touch sensor wiring)
+- Install outdoor IP65 gate/facade lights
+
+### Phase 3: Testing & Commissioning
+**Week 7 | Safety & QC**
+
+- Earth continuity test (<1 ohm)
+- Insulation resistance test (>1 megaohm)
+- RCCB trip test (30mA, <300ms)
+- Polarity test (phase to switch)
+- Test all switches control correct fixtures
+- Verify 230V AC at all sockets
+- Label MCBs in DB with permanent marker
+- Document as-built drawings
+
+---
+
+## VENDOR RECOMMENDATIONS (Bihar 2026)
+
+### Electrical Materials
+- **Cables**: Finolex/Polycab dealers, Patna wholesale markets
+- **Switches**: GM Modular (gmmodular.com), Legrand (legrand.in)
+- **MCB/DB**: Havells/Schneider authorized dealers, Patna
+
+### Lighting Fixtures
+- **Philips/Wipro**: Amazon India, Flipkart
+- **Chandelier**: Fos Lighting (foslighting.com), Jainsons (Delhi ships)
+- **Bathroom Mirrors**: Pepperfry (₹4,500), Anizoba (₹15k+ Bluetooth)
+
+### Outdoor Lights
+- **Gate Lights**: Sonshiv/Electrolite Patna (JustDial)
+- **Facade Washers**: Harold Lights (haroldelectricals.com)
+- **IP65 Fixtures**: Havells/Crompton local dealers
+
+### Fans
+- **Atomberg**: atomberg.com, Amazon, Flipkart
+- **Crompton**: All electrical stores, online retailers
+
+---
+
+## KEY HIGHLIGHTS
+
+✅ **Energy Efficient**: All BLDC fans (28-35W), LED lights (635W total vs 1500W+ conventional)  
+✅ **Premium Aesthetic**: Gloss Black fans + ₹12k chandelier + spa bathrooms + modern outdoor  
+✅ **Safety First**: RCCB on bathrooms, full copper FR wiring, proper earthing  
+✅ **Smart Ready**: Can add Sonoff Zigbee modules later for Home Assistant control  
+✅ **AC Ready**: 5 rooms with 4 sq mm wiring + isolator switches  
+✅ **Inverter Provision**: Manual changeover for Bihar load-shedding  
+✅ **Monsoon-Proof**: IP65 outdoor fixtures, Finolex FR-LSH cables  
+✅ **Modern Villa Look**: Gate pillars + facade washers create ₹1Cr+ appearance
+
+---
+
+## MAINTENANCE SCHEDULE
+
+### Monthly
+- Clean chandelier/recessed fixtures (dust)
+- Check BLDC fan blade balance
+- Wipe bathroom LED mirrors (anti-fog coating)
+
+### Quarterly
+- Test RCCB trip function (press test button)
+- Inspect outdoor lights for water ingress
+- Tighten MCB terminals if loose
+
+### Annual
+- Earthing system test (<5 ohms professional check)
+- Insulation resistance megger test
+- Fan bearing lubrication (if not sealed)
+- Bathroom mirror touch sensor calibration
+
+---
+
+## Bihar-SPECIFIC CONSIDERATIONS
+
+**Monsoon Precautions (June-September):**
+- All outdoor fixtures IP65 rated (dust-tight, water-jet proof)
+- Check roof drainage near conduit entries
+- Test RCCB more frequently (moisture increases leakage risk)
+- Disconnect ACs during lightning storms
+
+**Load-Shedding Solutions:**
+- Manual inverter changeover switch included
+- BLDC fans run efficiently on battery backup
+- LED lights minimize inverter load
+
+**Climate Adaptations:**
+- FR-LSH cables prevent fire in high humidity
+- Anti-fog bathroom mirrors for steam
+- Premium fixtures resist Bihar summer heat (45°C+)
+
+---
+
+## CONTRACTOR HANDOVER CHECKLIST
+
+- [ ] Verify all cable quantities: 1.5mm (600m), 2.5mm (400m), 4mm (150m), 6mm (50m)
+- [ ] Confirm fan models/colors match specification
+- [ ] Order bathroom LED mirrors early (4-week lead time)
+- [ ] Schedule chandelier installation post-false ceiling
+- [ ] Install outdoor lights after compound wall complete
+- [ ] Test all circuits before energizing main supply
+- [ ] Photograph inside DB before closing for future reference
+- [ ] Save wiring diagram digitally (Google Drive/cloud)
+
+---
+
+**Document Status**: Production-Ready for Contractor Quotation  
+**All Prices**: Bihar 2026 Market Rates (verified multiple sources)  
+**Total Investment**: ₹2,63,393 (Electrical Complete)
+
+*This is the final, comprehensive electrical specification. Hand directly to your Patna electrician as scope of work.*
+
+EXTRACTED CONTENT END
+
+==================== SOURCE 10 ====================
+FILE: photo_2026-03-14_22-10-55.jpg
+TYPE: image
+DETAILS:
+{
+  "width": 1264,
+  "height": 843,
+  "mode": "RGB",
+  "format": "JPEG",
+  "mean_rgb": [
+    204.39,
+    202.12,
+    196.53
+  ],
+  "rgb_extrema": [
+    [
+      0,
+      255
+    ],
+    [
+      0,
+      255
+    ],
+    [
+      0,
+      255
+    ]
+  ],
+  "total_pixels": 1065552,
+  "file_size_bytes": 158289,
+  "note": "Image visual semantics are partially captured via OCR and technical analysis. Manual visual verification is still recommended."
+}
+
+EXTRACTED CONTENT START
+HD Precise3D Cutaway:30x60 FloorPlan with Corrected Dimensions
+FAMILYHALL
+17'x18'
+BATHROOM3
+KITCHEN
+10'x5'
+STAIRCASE
+10'x10'
+10'x10'
+GUESTROOM
+TERRACE
+10'x10'
+10'x10'
+BEDROOM2
+12'x13'
+PILLAR
+CENTRALCORRIDOR
+KITCHEN
+60
+10'x10'
+10
+15
+50
+STOREROOM20
+10'x13'
+40
+25
+PUJAROOM
+40
+10'x5'
+REAR SETBACK
+UTILITY
+30
+DUCT
+UTILITY
+10'x4'
+0
+4'x4'
+(feet)
+5
+10
+15
+BEDROOM1
+DEPTH
+WIDTH (feet)
+15
+70
+11'x14'
+25
+5
+30
+3
+5
+O
+35
+EXTRACTED CONTENT END
+
+==================== SOURCE 11 ====================
+FILE: photo_2026-03-14_22-11-01.jpg
+TYPE: image
+DETAILS:
+{
+  "width": 1280,
+  "height": 853,
+  "mode": "RGB",
+  "format": "JPEG",
+  "mean_rgb": [
+    234.93,
+    236.0,
+    230.27
+  ],
+  "rgb_extrema": [
+    [
+      0,
+      255
+    ],
+    [
+      0,
+      255
+    ],
+    [
+      0,
+      255
+    ]
+  ],
+  "total_pixels": 1091840,
+  "file_size_bytes": 56889,
+  "note": "Image visual semantics are partially captured via OCR and technical analysis. Manual visual verification is still recommended."
+}
+
+EXTRACTED CONTENT START
+30x60 FloorPlan
+70
+↑NORTH
+65
+30ft
+60
+LEGEND
+Bedroom
+55
+TERRACE
+10x10
+Bathroom
+FAMILYHALL
+50
+17x18
+Kitchen
+45
+KITCHEN
+Living
+10x10
+Depth (feet)
+Storage
+40
+BATHROOM3
+10x5
+Service
+35
+STOREROOM
+10x13
+STAIRCASE
+30
+10x10
+Door
+25
+PUJAROOM
+Window
+10x5
+GUESTROOM
+20
+UT
+LITYDO
+10×10
+Pillar
+4x4
+15
+BEDROOM1
+11x14
+BEDROOM2
+12x13
+10
+5
+BATHROOM1
+BATHROOM2
+10x4
+10x4
+REARSETBACK
+30'x3
+-40-35-30-25-20-15-10-5
+10
+15
+202530354045505560657075808590
+Width (feet)
+EXTRACTED CONTENT END

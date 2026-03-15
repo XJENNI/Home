@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Patel Mansion | Department Detail</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">Patel Mansion</div>
+    <nav class="main-nav">
+      <a href="index.html">Main</a>
+      <a class="active" href="departments.html">Construction Departments</a>
+      <a href="navigation.html">Home Navigation</a>
+      <a href="phases.html">Phases</a>
+      <a href="3d-home.html">3D Home + AR</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="premium-card">
+      <a class="pill" href="departments.html">← Back to departments</a>
+      <h1 id="department-title"></h1>
+      <p id="department-subtitle" class="muted"></p>
+      <div class="pill-row">
+        <span class="pill" id="department-budget"></span>
+      </div>
+    </section>
+
+    <section class="grid-2">
+      <article class="premium-card">
+        <h2>Key Highlights</h2>
+        <ul id="department-highlights" class="list"></ul>
+      </article>
+
+      <article class="premium-card">
+        <h2>Materials & Components</h2>
+        <ul id="department-materials" class="list"></ul>
+      </article>
+    </section>
+
+    <section id="dimensions-block" class="premium-card" style="display:none;">
+      <h2>Dimensions</h2>
+      <ul id="department-dimensions" class="list"></ul>
+    </section>
+
+    <section id="qc-block" class="premium-card" style="display:none;">
+      <h2>Quality & Checks</h2>
+      <ul id="department-qc" class="list"></ul>
+    </section>
+
+    <section id="department-3d-block" class="premium-card" style="display:none;">
+      <h2>Department 3D Visual</h2>
+      <div id="department-3d" class="three-canvas"></div>
+    </section>
+  </main>
+
+  <script src="assets/js/home-data.js"></script>
+  <script type="module" src="assets/js/department-detail.js"></script>
+</body>
+</html>

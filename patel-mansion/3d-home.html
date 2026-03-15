@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Patel Mansion | 3D Home + AR</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">Patel Mansion</div>
+    <nav class="main-nav">
+      <a href="index.html">Main</a>
+      <a href="departments.html">Construction Departments</a>
+      <a href="navigation.html">Home Navigation</a>
+      <a href="phases.html">Phases</a>
+      <a class="active" href="3d-home.html">3D Home + AR</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="premium-card">
+      <h1>3D Home / AR Experience</h1>
+      <p class="muted">Use the walkthrough mode to move through the conceptual house model. On AR-compatible mobile browsers, you can place the model in your real environment.</p>
+      <div class="warning">
+        AR support depends on device + browser WebXR support. If AR button is unavailable, use 3D walkthrough mode.
+      </div>
+    </section>
+
+    <section class="premium-card">
+      <h2>Walkthrough Mode (W/A/S/D + Mouse)</h2>
+      <div class="control-bar">
+        <button id="lock-walkthrough" class="btn">Enable Walkthrough Controls</button>
+      </div>
+      <div id="walkthrough-3d" class="three-canvas"></div>
+    </section>
+
+    <section class="premium-card">
+      <h2>AR Mode</h2>
+      <div id="ar-button-host" class="control-bar"></div>
+      <div id="ar-3d" class="three-canvas"></div>
+    </section>
+  </main>
+
+  <script type="module" src="assets/js/home3d.js"></script>
+</body>
+</html>
