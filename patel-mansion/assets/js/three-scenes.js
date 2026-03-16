@@ -4,11 +4,21 @@ import { PointerLockControls } from "https://cdn.jsdelivr.net/npm/three@0.161/ex
 import { ARButton } from "https://cdn.jsdelivr.net/npm/three@0.161/examples/jsm/webxr/ARButton.js";
 
 const GOLD = 0xd4af37;
+const DEFAULT_WIDTH_RATIO = 0.9;
+const MIN_WIDTH = 300;
+const MIN_HEIGHT = 320;
+
+function getSize(host) {
+  const w = host.clientWidth || host.offsetWidth || Math.max(window.innerWidth * DEFAULT_WIDTH_RATIO, MIN_WIDTH);
+  const h = host.clientHeight || host.offsetHeight || MIN_HEIGHT;
+  return { w: Math.max(w, 100), h: Math.max(h, 100) };
+}
 
 function createRenderer(host, alpha = false) {
-  const renderer = new THREE.WebGLRenderer({ antialias: true, alpha });
-  renderer.setPixelRatio(window.devicePixelRatio || 1);
-  renderer.setSize(host.clientWidth, host.clientHeight);
+  const renderer = new THREE.WebGLRenderer({ antialias: true, alpha, powerPreference: "high-performance" });
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+  const { w, h } = getSize(host);
+  renderer.setSize(w, h);
   host.appendChild(renderer.domElement);
   return renderer;
 }
@@ -18,47 +28,78 @@ function buildHouseMesh(scene) {
   const wallMaterial = new THREE.MeshStandardMaterial({ color: 0xe5dec8, roughness: 0.6 });
   const accentMaterial = new THREE.MeshStandardMaterial({ color: GOLD, roughness: 0.35, metalness: 0.55 });
 
-  const baseFloor = new THREE.Mesh(new THREE.BoxGeometry(60, 1, 30), floorMaterial);
-  baseFloor.position.y = -0.5;
-  scene.add(baseFloor);
+  // Ground floor: 30ft x 60ft footprint (scaled 1ft = 1 unit)
+  // G: single open hall/parking slab
+  const gFloor = new THREE.Mesh(new THREE.BoxGeometry(30, 0.5, 60), floorMaterial);
+  gFloor.position.set(0, -0.25, 0);
+  scene.add(gFloor);
 
-  const outerWalls = [
-    new THREE.Mesh(new THREE.BoxGeometry(60, 10, 1), wallMaterial),
-    new THREE.Mesh(new THREE.BoxGeometry(60, 10, 1), wallMaterial),
-    new THREE.Mesh(new THREE.BoxGeometry(1, 10, 30), wallMaterial),
-    new THREE.Mesh(new THREE.BoxGeometry(1, 10, 30), wallMaterial)
+  // Ground floor outer walls (H=10)
+  const gWalls = [
+    { w: 30, h: 10, d: 0.5, x: 0,    y: 5, z: -30  },   // front
+    { w: 30, h: 10, d: 0.5, x: 0,    y: 5, z:  30  },   // rear
+    { w: 0.5, h: 10, d: 60, x: -15,  y: 5, z: 0    },   // left
+    { w: 0.5, h: 10, d: 60, x:  15,  y: 5, z: 0    }    // right
   ];
-
-  outerWalls[0].position.set(0, 5, -14.5);
-  outerWalls[1].position.set(0, 5, 14.5);
-  outerWalls[2].position.set(-29.5, 5, 0);
-  outerWalls[3].position.set(29.5, 5, 0);
-  outerWalls.forEach((wall) => scene.add(wall));
-
-  const internalWalls = [
-    { w: 1, h: 10, d: 18, x: -10, y: 5, z: 5 },
-    { w: 1, h: 10, d: 12, x: 10, y: 5, z: -6 },
-    { w: 20, h: 10, d: 1, x: -10, y: 5, z: -2 },
-    { w: 18, h: 10, d: 1, x: 16, y: 5, z: 4 }
-  ];
-
-  internalWalls.forEach((item) => {
-    const wall = new THREE.Mesh(new THREE.BoxGeometry(item.w, item.h, item.d), wallMaterial);
-    wall.position.set(item.x, item.y, item.z);
-    scene.add(wall);
+  gWalls.forEach(({ w, h, d, x, y, z }) => {
+    const m = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), wallMaterial);
+    m.position.set(x, y, z);
+    scene.add(m);
   });
 
-  const firstFloorPlate = new THREE.Mesh(new THREE.BoxGeometry(58, 0.6, 28), accentMaterial);
-  firstFloorPlate.position.y = 10.3;
-  scene.add(firstFloorPlate);
+  // First floor slab (deck between G and 1st)
+  const deck = new THREE.Mesh(new THREE.BoxGeometry(30, 0.6, 60), accentMaterial);
+  deck.position.set(0, 10.3, 0);
+  scene.add(deck);
 
-  const terraceRail = new THREE.Mesh(new THREE.BoxGeometry(42, 1.2, 0.3), accentMaterial);
-  terraceRail.position.set(0, 12, -13.8);
+  // First floor outer walls (H=10 starting at y=10.6)
+  const fBase = 10.6;
+  const fH = 10;
+  const fWalls = [
+    { w: 30,  h: fH, d: 0.5,  x: 0,   y: fBase + fH / 2, z: -30 },
+    { w: 30,  h: fH, d: 0.5,  x: 0,   y: fBase + fH / 2, z:  30 },
+    { w: 0.5, h: fH, d: 60,   x: -15, y: fBase + fH / 2, z: 0   },
+    { w: 0.5, h: fH, d: 60,   x:  15, y: fBase + fH / 2, z: 0   }
+  ];
+  fWalls.forEach(({ w, h, d, x, y, z }) => {
+    const m = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), wallMaterial);
+    m.position.set(x, y, z);
+    scene.add(m);
+  });
+
+  // First floor internal walls (room dividers)
+  // Layout: Family Hall(17x18) centre, Bedroom1(11x14) left-front,
+  //         Bedroom2(12x13) right-front, GuestRoom(10x10) right-rear,
+  //         Kitchen(10x10) left-rear, Puja/Store corner, Staircase
+  const fInternal = [
+    { w: 0.5, h: fH, d: 18, x: -4,   y: fBase + fH / 2, z: -12 }, // Hall left divider
+    { w: 0.5, h: fH, d: 18, x:  7,   y: fBase + fH / 2, z: -12 }, // Hall right divider
+    { w: 11,  h: fH, d: 0.5, x: -9.5, y: fBase + fH / 2, z: -3  }, // Hall rear wall
+    { w: 11,  h: fH, d: 0.5, x:  4,  y: fBase + fH / 2, z:  3  }, // Kitchen divider
+    { w: 0.5, h: fH, d: 14, x:  2,   y: fBase + fH / 2, z:  16  }, // Rear divider
+  ];
+  fInternal.forEach(({ w, h, d, x, y, z }) => {
+    const m = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), wallMaterial);
+    m.position.set(x, y, z);
+    scene.add(m);
+  });
+
+  // Terrace railing at roof
+  const terraceRail = new THREE.Mesh(new THREE.BoxGeometry(28, 1.2, 0.4), accentMaterial);
+  terraceRail.position.set(0, 21.8, -29.5);
   scene.add(terraceRail);
 
-  const windowBand = new THREE.Mesh(new THREE.BoxGeometry(18, 2.2, 0.2), new THREE.MeshStandardMaterial({ color: 0x7f8d97 }));
-  windowBand.position.set(18, 6, -14.4);
-  scene.add(windowBand);
+  // Window opening hints (front face, first floor)
+  const winMat = new THREE.MeshStandardMaterial({ color: 0x7f8d97, transparent: true, opacity: 0.55 });
+  const wins = [
+    { w: 6, h: 3, x: -6,  z: -30 },
+    { w: 6, h: 3, x:  6,  z: -30 }
+  ];
+  wins.forEach(({ w, h, x, z }) => {
+    const m = new THREE.Mesh(new THREE.BoxGeometry(w, h, 0.2), winMat);
+    m.position.set(x, fBase + 5, z);
+    scene.add(m);
+  });
 }
 
 export function renderHouseModel(host) {
@@ -66,7 +107,8 @@ export function renderHouseModel(host) {
   const scene = new THREE.Scene();
   scene.background = new THREE.Color(0x0d0c10);
 
-  const camera = new THREE.PerspectiveCamera(55, host.clientWidth / host.clientHeight, 0.1, 500);
+  const { w, h } = getSize(host);
+  const camera = new THREE.PerspectiveCamera(55, w / h, 0.1, 500);
   camera.position.set(70, 40, 70);
 
   const renderer = createRenderer(host);
@@ -83,18 +125,18 @@ export function renderHouseModel(host) {
   const grid = new THREE.GridHelper(90, 18, 0xd4af37, 0x3d3215);
   scene.add(grid);
 
-  function animate() {
+  renderer.setAnimationLoop(() => {
     controls.update();
     renderer.render(scene, camera);
-    requestAnimationFrame(animate);
-  }
-  animate();
-
-  window.addEventListener("resize", () => {
-    camera.aspect = host.clientWidth / host.clientHeight;
-    camera.updateProjectionMatrix();
-    renderer.setSize(host.clientWidth, host.clientHeight);
   });
+
+  const ro = new ResizeObserver(() => {
+    const { w: nw, h: nh } = getSize(host);
+    camera.aspect = nw / nh;
+    camera.updateProjectionMatrix();
+    renderer.setSize(nw, nh);
+  });
+  ro.observe(host);
 }
 
 export function renderRoomModel(host, label, widthFeet, depthFeet) {
@@ -102,7 +144,8 @@ export function renderRoomModel(host, label, widthFeet, depthFeet) {
   const scene = new THREE.Scene();
   scene.background = new THREE.Color(0x0d0c10);
 
-  const camera = new THREE.PerspectiveCamera(55, host.clientWidth / host.clientHeight, 0.1, 500);
+  const { w, h } = getSize(host);
+  const camera = new THREE.PerspectiveCamera(55, w / h, 0.1, 500);
   camera.position.set(widthFeet * 1.4, 18, depthFeet * 1.5);
 
   const renderer = createRenderer(host);
@@ -152,16 +195,36 @@ export function renderRoomModel(host, label, widthFeet, depthFeet) {
   tag.textContent = `${label} | ${widthFeet}ft × ${depthFeet}ft`;
   host.parentElement?.insertBefore(tag, host);
 
-  function animate() {
+  renderer.setAnimationLoop(() => {
     controls.update();
     renderer.render(scene, camera);
-    requestAnimationFrame(animate);
-  }
-  animate();
+  });
+
+  const ro = new ResizeObserver(() => {
+    const { w: nw, h: nh } = getSize(host);
+    camera.aspect = nw / nh;
+    camera.updateProjectionMatrix();
+    renderer.setSize(nw, nh);
+  });
+  ro.observe(host);
 }
 
 export function mountARHouse(host, buttonHost) {
   host.innerHTML = "";
+
+  const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+  const hasWebXR = typeof navigator.xr !== "undefined";
+  if (isIOS && !hasWebXR) {
+    host.innerHTML = `<div style="display:flex;align-items:center;justify-content:center;height:100%;padding:24px;text-align:center;color:#cbbf9c;">
+      <div>
+        <div style="font-size:2rem;margin-bottom:12px;">🏠</div>
+        <strong style="color:#f0d58a;">AR on iPhone</strong><br>
+        <span style="font-size:0.9rem;">WebXR-based AR requires Android Chrome or Samsung Internet. On iPhone, you can use the 3D Walkthrough above to explore the model. AR Quick Look (iOS native) requires a USDZ model file.</span>
+      </div>
+    </div>`;
+    return { renderer: null };
+  }
+
   const scene = new THREE.Scene();
   const camera = new THREE.PerspectiveCamera();
   const renderer = createRenderer(host, true);
@@ -200,7 +263,8 @@ export function mountWalkthrough(host, clickToLockButton) {
   const scene = new THREE.Scene();
   scene.background = new THREE.Color(0x0d0c10);
 
-  const camera = new THREE.PerspectiveCamera(70, host.clientWidth / host.clientHeight, 0.1, 500);
+  const { w, h } = getSize(host);
+  const camera = new THREE.PerspectiveCamera(70, w / h, 0.1, 500);
   camera.position.set(0, 5, 18);
 
   const renderer = createRenderer(host);
@@ -237,7 +301,7 @@ export function mountWalkthrough(host, clickToLockButton) {
     if (e.code === "KeyD") moveRight = false;
   });
 
-  function animate() {
+  renderer.setAnimationLoop(() => {
     velocity.x = 0;
     velocity.z = 0;
     if (moveForward) velocity.z = -0.25;
@@ -249,13 +313,13 @@ export function mountWalkthrough(host, clickToLockButton) {
     controls.moveForward(velocity.z);
 
     renderer.render(scene, camera);
-    requestAnimationFrame(animate);
-  }
-  animate();
-
-  window.addEventListener("resize", () => {
-    camera.aspect = host.clientWidth / host.clientHeight;
-    camera.updateProjectionMatrix();
-    renderer.setSize(host.clientWidth, host.clientHeight);
   });
+
+  const ro = new ResizeObserver(() => {
+    const { w: nw, h: nh } = getSize(host);
+    camera.aspect = nw / nh;
+    camera.updateProjectionMatrix();
+    renderer.setSize(nw, nh);
+  });
+  ro.observe(host);
 }

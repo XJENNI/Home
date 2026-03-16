@@ -282,6 +282,47 @@ a {
   margin-bottom: 10px;
 }
 
+.floor-svg .room-rect {
+  fill: rgba(212, 175, 55, 0.15);
+  stroke: #d4af37;
+  stroke-width: 1.5;
+  cursor: pointer;
+}
+
+.floor-svg .room-rect:hover {
+  fill: rgba(212, 175, 55, 0.32);
+}
+
+.floor-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.floor-tab {
+  padding: 7px 16px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.floor-tab.active {
+  background: rgba(212, 175, 55, 0.18);
+  border-color: var(--gold);
+  color: var(--gold-soft);
+  font-weight: 600;
+}
+
+.floor-svg .room-label {
+  fill: #e9debf;
+  font-size: 11px;
+  text-anchor: middle;
+  pointer-events: none;
+}
+
 @media (max-width: 820px) {
   .site-header {
     flex-direction: column;
