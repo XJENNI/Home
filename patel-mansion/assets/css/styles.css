@@ -188,32 +188,16 @@ a {
   text-anchor: middle;
 }
 
-.floor-svg .plot,
-.floor-svg .boundary-line {
+.floor-svg .plot {
   fill: #121117;
   stroke: #9f8442;
   stroke-width: 2;
 }
 
-.floor-svg .room,
-.floor-svg .room-rect {
+.floor-svg .room {
   fill: rgba(212, 175, 55, 0.2);
   stroke: #d4af37;
   stroke-width: 1.5;
-  cursor: pointer;
-  transition: fill 0.2s;
-}
-
-.floor-svg .room-rect:hover,
-.floor-svg .room:hover {
-  fill: rgba(212, 175, 55, 0.42);
-}
-
-.floor-svg .room-label {
-  fill: #e9debf;
-  font-size: 13px;
-  text-anchor: middle;
-  pointer-events: none;
 }
 
 .floor-svg .corridor {
@@ -235,34 +219,6 @@ a {
   border: 1px solid var(--line);
   overflow: hidden;
   background: #0d0c10;
-}
-
-.three-canvas-tall {
-  min-height: 520px;
-}
-
-.legend-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px 18px;
-  margin-top: 10px;
-}
-
-.legend-item {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 0.88rem;
-  color: var(--text);
-}
-
-.legend-dot {
-  display: inline-block;
-  width: 14px;
-  height: 14px;
-  border-radius: 3px;
-  border: 1px solid rgba(255,255,255,0.18);
-  flex-shrink: 0;
 }
 
 .verify-note {

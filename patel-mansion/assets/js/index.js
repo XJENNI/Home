@@ -1,3 +1,5 @@
+import { renderHouseModel } from "./three-scenes.js";
+
 const { project, metrics, mainDetails } = window.homeData;
 
 document.getElementById("hero-summary").textContent =
@@ -19,11 +21,4 @@ mainDetails.forEach((item) => {
   detailHost.appendChild(box);
 });
 
-const canvas3d = document.getElementById("house-3d");
-import("./three-scenes.js")
-  .then(({ renderHouseModel }) => {
-    renderHouseModel(canvas3d);
-  })
-  .catch(() => {
-    if (canvas3d) canvas3d.innerHTML = '<p class="muted" style="padding:16px">3D preview unavailable in this environment.</p>';
-  });
+renderHouseModel(document.getElementById("house-3d"));
