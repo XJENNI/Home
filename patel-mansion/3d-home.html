@@ -21,81 +21,24 @@
   <main class="container">
     <section class="premium-card">
       <h1>3D Home / AR Experience</h1>
-      <p class="muted">Full G+1 Patel Mansion model — 30 ft × 60 ft plot, all rooms, both floors. Use Walkthrough mode to explore inside at eye level; AR mode places the model in your real environment (WebXR required).</p>
+      <p class="muted">Use the walkthrough mode to move through the conceptual house model. On AR-compatible mobile browsers, you can place the model in your real environment.</p>
       <div class="warning">
-        AR requires a WebXR-compatible mobile browser (Chrome on Android or Safari on iOS 16+). On desktop, use the 3D walkthrough instead.
+        AR support depends on device + browser WebXR support. On iPhone, the 3D walkthrough works in Safari; AR overlay requires an Android device with Chrome or Samsung Internet. Tap the 3D canvas to interact.
       </div>
     </section>
 
-    <!-- Room Color Legend -->
     <section class="premium-card">
-      <h2>Room Color Legend</h2>
-      <div class="legend-grid">
-        <span class="legend-item"><span class="legend-dot" style="background:#607080"></span>Parking / Ground</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#bf8850"></span>Kitchen</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#d4a844"></span>Family Hall</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#3d7fa0"></span>Bathrooms / Wash</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#5a8a9c"></span>Master Bedroom</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#6a8aaa"></span>Bedrooms / Guest</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#c8943a"></span>Puja Room</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#787870"></span>Store / Open Area</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#a08850"></span>Staircase</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#c0b898"></span>Terrace</span>
-        <span class="legend-item"><span class="legend-dot" style="background:#d4af37"></span>Gold Accents / Railings</span>
-      </div>
-    </section>
-
-    <!-- Walkthrough Mode -->
-    <section class="premium-card">
-      <h2>Walkthrough Mode — First Person View</h2>
-      <p class="muted">Click <strong>Enable Walkthrough</strong>, then click inside the viewport to lock controls. Use <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or arrow keys to move, mouse to look around. Press <kbd>Esc</kbd> to exit.</p>
+      <h2>Walkthrough Mode (W/A/S/D + Mouse)</h2>
       <div class="control-bar">
-        <button id="lock-walkthrough" class="btn">Enable Walkthrough</button>
+        <button id="lock-walkthrough" class="btn">Enable Walkthrough Controls</button>
       </div>
-      <p id="walkthrough-status" class="muted" style="font-size:0.88rem; margin:4px 0 8px;">
-        Click "Enable Walkthrough" then click inside the viewport.
-      </p>
-      <div id="walkthrough-3d" class="three-canvas three-canvas-tall"></div>
+      <div id="walkthrough-3d" class="three-canvas"></div>
     </section>
 
-    <!-- AR Mode -->
     <section class="premium-card">
-      <h2>AR Mode — Place in Your Space</h2>
-      <p class="muted">On a supported mobile device, tap <strong>Start AR</strong> to place the scaled Patel Mansion model in your real environment. The model rotates so you can inspect it from all angles.</p>
+      <h2>AR Mode</h2>
       <div id="ar-button-host" class="control-bar"></div>
       <div id="ar-3d" class="three-canvas"></div>
-      <p class="verify-note">AR requires WebXR support. If the AR button is greyed out, your browser/device does not support it — use the walkthrough above instead.</p>
-    </section>
-
-    <!-- Floor Info Cards -->
-    <section class="grid-2">
-      <article class="premium-card">
-        <h2>Ground Floor</h2>
-        <ul class="list">
-          <li><strong>Parking</strong> — 15×20 ft, anti-skid tiles</li>
-          <li><strong>Family Hall</strong> — 15×20 ft, Kajaria Carrara 800×800</li>
-          <li><strong>Kitchen</strong> — 10×12 ft, Semi-modular + Quartz counter</li>
-          <li><strong>Master Bedroom</strong> — 14×14 ft, Somany Honey Oak floors</li>
-          <li><strong>Common Bathroom</strong> — 6×5 ft</li>
-          <li><strong>Store / Open Area</strong> — 10×12 ft + Open Area 15×28 ft</li>
-          <li><strong>Children Bedroom</strong> — 12×12 ft</li>
-          <li><strong>Wash Area</strong> — service zone, rear</li>
-          <li><strong>Staircase</strong> — 10×10 ft, Anti-skid GVT tiles + SS handrail</li>
-        </ul>
-      </article>
-      <article class="premium-card">
-        <h2>First Floor</h2>
-        <ul class="list">
-          <li><strong>Bedroom 2</strong> — 12×12 ft, Somany Honey Oak floors</li>
-          <li><strong>Guest Room</strong> — 12×10 ft, Ivory gloss finish</li>
-          <li><strong>Puja Room</strong> — 10×5 ft, Custom teak mandir</li>
-          <li><strong>Master Bath</strong> — 10×4 ft, Warm Charcoal Spa + Jaquar Gold</li>
-          <li><strong>Bath 2</strong> — 10×4 ft, Sage Green Forest + Antique Brass</li>
-          <li><strong>Guest Bath</strong> — 10×5 ft, Slate Grey Minimalist + Matte Black</li>
-          <li><strong>Terrace</strong> — Open terrace with gold railing, ~600 sq ft</li>
-          <li><strong>Staircase continuation</strong> — 10×10 ft</li>
-        </ul>
-      </article>
     </section>
   </main>
 

@@ -1,3 +1,5 @@
+import { renderRoomModel } from "./three-scenes.js";
+
 const params = new URLSearchParams(window.location.search);
 const key = params.get("space");
 const space = window.homeData.spaces[key];
@@ -22,16 +24,8 @@ if (!space) {
     document.getElementById("space-materials").appendChild(li);
   });
 
-  const canvas = document.getElementById("space-3d");
   const numbers = (space.dimensions.match(/\d+/g) || []).map(Number);
   const width = numbers[0] || 12;
   const depth = numbers[1] || 10;
-
-  import("./three-scenes.js")
-    .then(({ renderRoomModel }) => {
-      renderRoomModel(canvas, space.title, width, depth);
-    })
-    .catch(() => {
-      canvas.innerHTML = '<p class="muted" style="padding:16px">3D preview unavailable in this environment. It renders on GitHub Pages.</p>';
-    });
+  renderRoomModel(document.getElementById("space-3d"), space.title, width, depth);
 }

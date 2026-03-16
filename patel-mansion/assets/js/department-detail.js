@@ -1,3 +1,5 @@
+import { renderHouseModel } from "./three-scenes.js";
+
 const params = new URLSearchParams(window.location.search);
 const section = params.get("section");
 const data = window.homeData.departments[section];
@@ -32,14 +34,7 @@ if (!data) {
   }
 
   if (section === "home-map") {
-    const canvas3d = document.getElementById("department-3d");
     document.getElementById("department-3d-block").style.display = "block";
-    import("./three-scenes.js")
-      .then(({ renderHouseModel }) => {
-        renderHouseModel(canvas3d);
-      })
-      .catch(() => {
-        canvas3d.innerHTML = '<p class="muted" style="padding:16px">3D preview unavailable in this environment. It renders on GitHub Pages.</p>';
-      });
+    renderHouseModel(document.getElementById("department-3d"));
   }
 }
