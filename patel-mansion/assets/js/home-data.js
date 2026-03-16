@@ -141,6 +141,12 @@ window.homeData = {
       estimatedCost: "Rs 1,22,550", theme: "Safe elegant transitions",
       details: ["Kajaria GVT anti-skid with bullnose edges", "PIR motion sensor automatic lighting in corridor", "Large 4x5ft toughened UPVC window for natural light"],
       materials: ["Anti-skid tiles", "SS 304 pipe handrail", "Recessed 1W step markers"]
+    },
+    "store-room": {
+      title: "Store Room", dimensions: "10x13 ft",
+      estimatedCost: "Rs 42,000", theme: "Organised compact storage",
+      details: ["Floor-to-ceiling adjustable metal shelves", "Anti-rodent skirting", "Single bulb 9W LED light"],
+      materials: ["Metal shelving", "Flush door", "Anti-skid tiles"]
     }
   },
   phases: [
