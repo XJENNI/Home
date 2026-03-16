@@ -24,3 +24,7 @@ Thumbs.db
 *.tmp
 *.log
 *.json.bak
+.wrangler/
+.dev.vars
+
+
